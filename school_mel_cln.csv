@@ -1,0 +1,999 @@
+SchoolName,URL,Sector,Year_Range,Type,Address,Suburb,State,Postcode,Latitude,Longitude,Score
+Box Hill Senior Secondary College,http://www.bhssc.vic.edu.au,Government,6-12,Combined,DUNLOE AVENUE,MONT ALBERT NORTH,VIC,3129,-37.81006,145.1126515,86
+Alkira Secondary College,http://www.alkirasecondarycollege.com.au,Government,7-11,Secondary,15 NURTURE AVENUE,CRANBOURNE NORTH,VIC,3977,-38.07427,145.308734,82
+Lilydale High School,http://www.lilydale.hs.vic.edu.au,Government,7-12,Secondary,25 MELBA AVENUE,LILYDALE,VIC,3140,-37.759875,145.345287,74
+Lilydale Heights College,http://www.lilydaleheights.vic.edu.au,Government,7-12,Secondary,17 NELSON ROAD,LILYDALE,VIC,3140,-37.744827,145.340347,67
+Mooroolbark College,http://www.mooroolbarkcollege.vic.edu.au,Government,7-12,Secondary,186 MANCHESTER ROAD,MOOROOLBARK,VIC,3138,-37.774216,145.315576,69
+Norwood Secondary College,http://www.norwood.vic.edu.au,Government,7-12,Secondary,BYRON STREET,RINGWOOD,VIC,3134,-37.7991053,145.2383335,80
+Bayswater Secondary College,http://www.bayswatersc.vic.edu.au,Government,7-12,Secondary,14 ORCHARD ROAD,BAYSWATER,VIC,3153,-37.837638,145.261919,65
+Ringwood Secondary College,http://www.ringwoodsc.vic.edu.au,Government,7-12,Secondary,BEDFORD ROAD,RINGWOOD,VIC,3134,-37.816666,145.239151,85
+Monbulk College,http://www.monbulkcol.vic.edu.au,Government,7-12,Secondary,146-148 DAVID HILL ROAD,MONBULK,VIC,3793,-37.884216,145.427364,80
+Heathmont College,http://www.heathmont.vic.edu.au,Government,7-12,Secondary,WATERS GROVE,HEATHMONT,VIC,3135,-37.8376447,145.2317901,80
+Warrandyte High School,http://www.warrandytehigh.vic.edu.au,Government,7-12,Secondary,241-247 HEIDELBERG-WARRANDYTE RD,WARRANDYTE,VIC,3113,-37.746699,145.184969,79
+Fairhills High School,http://www.fairhillshs.vic.edu.au,Government,7-12,Secondary,SCORESBY ROAD,KNOXFIELD,VIC,3180,-37.8727114,145.2579851,68
+Wantirna College,http://web.wantirnacollege.vic.edu.au,Government,7-12,Secondary,HAROLD STREET,WANTIRNA,VIC,3152,-37.8563889,145.2308333,84
+Upwey High School,http://www.upweyhs.vic.edu.au,Government,7-12,Secondary,1451 BURWOOD HIGHWAY,UPWEY,VIC,3158,-37.902929,145.334717,79
+Mullauna Secondary College,http://www.mullauna.vic.edu.au,Government,7-12,Secondary,456 SPRINGFIELD ROAD,MITCHAM,VIC,3132,-37.80822,145.190646,81
+Vermont Secondary College,http://www.vermontsc.vic.edu.au,Government,7-12,Secondary,27 - 63 MORACK ROAD,VERMONT,VIC,3133,-37.843486,145.20095,92
+Healesville High School,http://www.healesvillehs.vic.edu.au,Government,7-12,Secondary,10 CAMERONS ROAD,HEALESVILLE,VIC,3777,-37.644052,145.53212,66
+Scoresby Secondary College,http://www.scoresbysc.vic.edu.au,Government,7-12,Secondary,CAVELL STREET,SCORESBY,VIC,3179,-37.888973,145.237474,72
+East Doncaster Secondary College,http://www.eastdonsc.vic.edu.au,Government,7-12,Secondary,20 GEORGE STREET,DONCASTER EAST,VIC,3109,-37.783336,145.158448,93
+Emerald Secondary College,http://www.emeraldsc.vic.edu.au,Government,7-12,Secondary,425 BELGRAVE-GEMBROOK RD,EMERALD,VIC,3782,-37.92276,145.459165,68
+Diamond Valley College,http://www.dvallcoll.vic.edu.au,Government,7-12,Secondary,165-179 MAIN HURSTBRIDGE ROAD,DIAMOND CREEK,VIC,3089,-37.672162,145.166927,77
+Eltham High School,http://www.elthamhs.vic.edu.au,Government,7-12,Secondary,30-60 WITHERS WAY,ELTHAM,VIC,3095,-37.725178,145.14165,85
+Blackburn High School,http://www.blackburnhs.vic.edu.au,Government,7-12,Secondary,60 SPRINGFIELD ROAD,BLACKBURN,VIC,3130,-37.811588,145.149654,88
+Doncaster Secondary College,http://www.doncastersc.vic.edu.au,Government,7-12,Secondary,123 CHURCH ROAD,DONCASTER,VIC,3108,-37.783796,145.137311,91
+Forest Hill College,http://www.fhc.vic.edu.au,Government,7-12,Secondary,178-180 MAHONEYS ROAD,BURWOOD EAST,VIC,3151,-37.84784,145.16174,74
+Highvale Secondary College,http://www.highvalesc.vic.edu.au,Government,7-12,Secondary,CAPITAL AVENUE,GLEN WAVERLEY,VIC,3150,-37.8665373,145.1755254,93
+St Helena Secondary College,http://www.sthelena.vic.edu.au,Government,7-12,Secondary,WALLOWA ROAD,ELTHAM NORTH,VIC,3095,-37.6876197,145.1397257,83
+Box Hill High School,http://www.boxhillhs.vic.edu.au,Government,7-12,Secondary,1180 WHITEHORSE ROAD,BOX HILL,VIC,3128,-37.821421,145.137314,98
+Rowville Secondary College,http://www.rowvillesc.vic.edu.au,Government,7-12,Secondary,17 PARATEA DRIVE,ROWVILLE,VIC,3178,-37.923697,145.238031,74
+Upper Yarra Secondary College,http://www.uysc.vic.edu.au,Government,7-12,Secondary,81-89 LITTLE YARRA ROAD,YARRA JUNCTION,VIC,3797,-37.791196,145.624827,66
+Glen Waverley Secondary College,http://www.gwsc.vic.edu.au,Government,7-12,Secondary,13-21 O'SULLIVAN ROAD,GLEN WAVERLEY,VIC,3150,-37.877054,145.162512,98
+Koonung Secondary College,http://www.koonung.vic.edu.au,Government,7-12,Secondary,615 ELGAR ROAD,MONT ALBERT NORTH,VIC,3129,-37.802632,145.116998,91
+Montmorency Secondary College,http://www.montysc.vic.edu.au,Government,7-12,Secondary,PARA ROAD,MONTMORENCY,VIC,3094,-37.713108,145.112293,83
+Brentwood Secondary College,http://www.brentwood.vic.edu.au,Government,7-12,Secondary,65-71 WATSONS ROAD,GLEN WAVERLEY,VIC,3150,-37.898387,145.167113,94
+Wheelers Hill Secondary College,http://www.whsc.vic.edu.au,Government,7-12,Secondary,RAPHAEL DRIVE,WHEELERS HILL,VIC,3150,-37.9106986,145.1812188,80
+Greensborough Secondary College,http://www.greensc.vic.edu.au,Government,7-12,Secondary,NELL STREET,GREENSBOROUGH,VIC,3088,-37.7090223,145.0982496,68
+Mount Waverley Secondary College,http://www.mwsc.vic.edu.au,Government,7-12,Secondary,9 LECHTE ROAD,MOUNT WAVERLEY,VIC,3149,-37.868578,145.130762,94
+Viewbank College,http://viewbank.vic.edu.au,Government,7-12,Secondary,WARREN ROAD,ROSANNA,VIC,3084,-37.741366,145.0858657,93
+Balwyn High School,http://www.balwynhs.vic.edu.au,Government,7-12,Secondary,BUCHANAN AVENUE,BALWYN NORTH,VIC,3104,-37.7975538,145.0758539,97
+Wellington Secondary College,http://www.wellingtonsc.vic.edu.au,Government,7-12,Secondary,91 POLICE ROAD,MULGRAVE,VIC,3170,-37.933337,145.169529,92
+Lyndale Secondary College,http://www.lyndale.vic.edu.au,Government,7-12,Secondary,170-174 GLADSTONE ROAD,DANDENONG NORTH,VIC,3175,-37.957394,145.204974,73
+Victorian College Of The Arts Secondary School,http://www.vcass.vic.edu.au,Government,7-12,Secondary,57 MILES STREET,SOUTHBANK,VIC,3006,-37.828511,144.96492,97
+Elwood College,http://www.elwood.vic.edu.au,Government,7-12,Secondary,101 GLENHUNTLY ROAD,ELWOOD,VIC,3184,-37.881847,144.985377,86
+Camberwell High School,http://www.camhigh.vic.edu.au,Government,7-12,Secondary,PROSPECT HILL ROAD,CANTERBURY,VIC,3126,-37.8307451,145.0726778,89
+Canterbury Girls Secondary College,http://www.cgsc.vic.edu.au,Government,7-12,Secondary,16 MANGARRA ROAD,CANTERBURY,VIC,3126,-37.82026,145.069816,93
+Kew High School,http://www.kew.vic.edu.au,Government,7-12,Secondary,1393 BURKE ROAD,KEW EAST,VIC,3102,-37.795587,145.062435,91
+Fitzroy High School,http://www.fitzroyhs.vic.edu.au,Government,7-12,Secondary,FALCONER STREET,FITZROY NORTH,VIC,3068,-37.7852568,144.9878368,78
+University High School,http://www.unihigh.vic.edu.au,Government,7-12,Secondary,77 STORY STREET,PARKVILLE,VIC,3052,-37.797466,144.956066,98
+Mckinnon Secondary College,http://www.mckinnonsc.vic.edu.au,Government,7-12,Secondary,291A MCKINNON ROAD,MCKINNON,VIC,3204,-37.910861,145.04879,96
+Princes Hill Secondary College,http://www.phsc.vic.edu.au,Government,7-12,Secondary,ARNOLD STREET,PRINCES HILL,VIC,3054,-37.7833223,144.9648036,93
+Brighton Secondary College,http://www.brightonsc.vic.edu.au,Government,7-12,Secondary,120 MARRIAGE ROAD,BRIGHTON EAST,VIC,3187,-37.921092,145.018504,92
+Northcote High School,http://www.nhs.vic.edu.au,Government,7-12,Secondary,ST GEORGES ROAD,NORTHCOTE,VIC,3070,-37.76956854,144.990973,93
+Mount Eliza Secondary College,http://www.mesc.vic.edu.au,Government,7-12,Secondary,204 CANADIAN BAY ROAD,MOUNT ELIZA,VIC,3930,-38.190191,145.092142,83
+Frankston High School,http://www.fhs.vic.edu.au/,Government,7-12,Secondary,97 FOOT STREET,FRANKSTON,VIC,3199,-38.161072,145.129148,86
+Mount Erin Secondary College,http://www.mounterin.vic.edu.au,Government,7-12,Secondary,ROBINSONS ROAD,FRANKSTON SOUTH,VIC,3199,-38.1736443,145.147332,67
+Mornington Secondary College,http://www.mornsc.vic.edu.au,Government,7-12,Secondary,1051 NEPEAN HIGHWAY,MORNINGTON,VIC,3931,-38.216698,145.059015,74
+McClelland College,http://www.mcclellandcollege.vic.edu.au,Government,7-12,Secondary,BELAR AVENUE,FRANKSTON,VIC,3199,-38.146944,145.158889,69
+Elisabeth Murdoch College,http://www.emc.vic.edu.au,Government,7-12,Secondary,80 WARRANDYTE ROAD,LANGWARRIN,VIC,3910,-38.159927,145.192092,76
+Somerville Secondary College,http://www.somervillesc.vic.edu.au,Government,7-12,Secondary,37 GRAF ROAD,SOMERVILLE,VIC,3912,-38.228731,145.169699,68
+Patterson River Secondary College,http://www.prsc.vic.edu.au,Government,7-12,Secondary,70 - 98 EEL RACE ROAD,SEAFORD,VIC,3198,-38.084044,145.136018,72
+Carrum Downs Secondary College,http://www.cdsc.vic.edu.au/,Government,7-12,Secondary,263 MCCORMICKS ROAD,CARRUM DOWNS,VIC,3201,-38.093491,145.19482,66
+Western Port Secondary College,http://www.westernportsc.vic.edu.au/,Government,7-12,Secondary,215 HIGH STREET,HASTINGS,VIC,3915,-38.309428,145.175307,65
+Mordialloc College,http://www.mcsc.vic.edu.au,Government,7-12,Secondary,1 STATION STREET,MORDIALLOC,VIC,3195,-38.011725,145.093198,82
+Cranbourne Secondary College,http://www.cranbournesc.vic.edu.au,Government,7-12,Secondary,STAWELL STREET,CRANBOURNE,VIC,3977,-38.1082929,145.2858001,67
+Dromana Secondary College,http://www.dsc.vic.edu.au,Government,7-12,Secondary,110 HARRISONS ROAD,DROMANA,VIC,3936,-38.342671,145.010973,73
+Parkdale Secondary College,http://www.parkdalesc.vic.edu.au,Government,7-12,Secondary,WARREN ROAD,MORDIALLOC,VIC,3195,-37.9908333,145.0947222,86
+Hampton Park Secondary College,http://www.hpsc.vic.edu.au,Government,7-12,Secondary,58 - 96 FORDHOLM ROAD,HAMPTON PARK,VIC,3976,-38.035871,145.25908,65
+Mentone Girls Secondary College,http://www.mgsc.vic.edu.au,Government,7-12,Secondary,CNR BALCOMBE & CHARMAN RDS,MENTONE,VIC,3194,-37.9803265,145.0547739,92
+Noble Park Secondary College,http://www.nobleparksc.vic.edu.au,Government,7-12,Secondary,3 CALLAGHAN STREET,NOBLE PARK,VIC,3174,-37.971019,145.184172,68
+Dandenong High School,http://www.dandenonghs.vic.edu.au,Government,7-12,Secondary,92-106 PRINCES HIGHWAY,DANDENONG,VIC,3175,-37.97866,145.209462,69
+Sandringham College,http://www.sandringhamsc.vic.edu.au,Government,7-12,Secondary,11 HOLLOWAY ROAD,SANDRINGHAM,VIC,3191,-37.956462,145.025272,88
+Fountain Gate Secondary College,http://www.fountaingatesc.vic.edu.au/,Government,7-12,Secondary,45 JOSEPHINE AVENUE,NARRE WARREN,VIC,3805,-38.006153,145.295661,69
+Kambrya College,http://www.kambryacollege.com,Government,7-12,Secondary,68 BEMERSYDE DRIVE,BERWICK,VIC,3806,-38.053468,145.346219,79
+Westall Secondary College,http://www.westallsc.vic.edu.au,Government,7-12,Secondary,88-128 ROSEBANK AVENUE,CLAYTON SOUTH,VIC,3169,-37.941397,145.135978,70
+Bentleigh Secondary College,http://www.bentleighsc.vic.edu.au,Government,7-12,Secondary,VIVIEN ST,BENTLEIGH EAST,VIC,3165,-37.9273354,145.0602634,90
+South Oakleigh Secondary College,http://www.sosc.vic.edu.au,Government,7-12,Secondary,BAKERS ROAD,OAKLEIGH SOUTH,VIC,3167,-37.9228615,145.0907886,86
+Rosebud Secondary College,http://www.rsc.vic.edu.au,Government,7-12,Secondary,245 EASTBOURNE ROAD,ROSEBUD,VIC,3939,-38.368337,144.88703,76
+Berwick Secondary College,http://www.berwicksc.vic.edu.au/,Government,7-12,Secondary,MANUKA ROAD,BERWICK,VIC,3806,-38.0303399,145.3619944,78
+Thornbury High School,http://www.thornburyhs.vic.edu.au,Government,7-12,Secondary,238 COLLINS STREET,THORNBURY,VIC,3071,-37.755849,145.025269,73
+Bundoora Secondary College,http://www.bundoorasc.vic.edu.au,Government,7-12,Secondary,53 BALMORAL AVENUE,BUNDOORA,VIC,3083,-37.708218,145.062339,67
+Reservoir High School,http://www.reservoirhs.vic.edu.au/,Government,7-12,Secondary,855 PLENTY ROAD,RESERVOIR,VIC,3073,-37.721513,145.029054,71
+Mill Park Secondary College,http://www.millparksc.vic.edu.au,Government,7-12,Secondary,9 - 25 MOORHEAD DRIVE,MILL PARK,VIC,3082,-37.664742,145.061969,72
+Lalor Secondary College,http://www.lalorsc.vic.edu.au/,Government,7-12,Secondary,118 DAVID STREET,LALOR,VIC,3075,-37.672054,145.029499,69
+Thomastown Secondary College,http://www.thomassc.vic.edu.au,Government,7-12,Secondary,80-96 MAIN STREET,THOMASTOWN,VIC,3074,-37.677962,145.002189,65
+Lalor North Secondary College,http://www.lalornthsc.vic.edu.au,Government,7-12,Secondary,114 CHILDS ROAD,EPPING,VIC,3076,-37.659779,145.034258,66
+Epping Secondary College,http://www.eppingsc.vic.edu.au,Government,7-12,Secondary,MCDONALDS ROAD,EPPING,VIC,3076,-37.655706,145.022139,65
+Brunswick Secondary College,http://www.brunswick.vic.edu.au,Government,7-12,Secondary,47 DAWSON STREET,BRUNSWICK,VIC,3056,-37.771552,144.955173,84
+Williamstown High School,http://www.willihigh.vic.edu.au,Government,7-12,Secondary,PASCO STREET,WILLIAMSTOWN,VIC,3016,-37.862917,144.894895,90
+Gilmore College For Girls,http://www.gilmoregirls.vic.edu.au,Government,7-12,Secondary,298 BARKLY STREET,FOOTSCRAY,VIC,3011,-37.798481,144.895061,71
+Maribyrnong Secondary College,http://www.maribsc.vic.edu.au/,Government,7-12,Secondary,RIVER STREET,MARIBYRNONG,VIC,3032,-37.77972747,144.8882379,83
+Strathmore Secondary College,http://www.strathmore.vic.edu.au,Government,7-12,Secondary,400 PASCOE VALE ROAD,STRATHMORE,VIC,3041,-37.737816,144.927911,87
+Buckley Park College,http://www.buckleyparkco.vic.edu.au,Government,7-12,Secondary,COOPER STREET,ESSENDON,VIC,3040,-37.7476395,144.897224,92
+Rosehill Secondary College,http://www.rosehillsc.vic.edu.au,Government,7-12,Secondary,SAPPHIRE STREET,NIDDRIE,VIC,3042,-37.7472616,144.8861914,82
+Essendon East Keilor District College,,Government,7-12,Secondary,QUINN GROVE,KEILOR EAST,VIC,3033,-37.74410853,144.8682056,75
+Braybrook College,http://www.braybrooksc.vic.edu.au,Government,7-12,Secondary,352 BALLARAT ROAD,BRAYBROOK,VIC,3019,-37.778109,144.848442,83
+Hume Central Secondary College,,Government,7-12,Secondary,60-78 TANDERRUM WAY,BROADMEADOWS,VIC,3047,-37.680121,144.91545,63
+Gladstone Park Secondary College,http://www.gladstoneparksc.vic.edu.au,Government,7-12,Secondary,14 - 36 TAYLOR DRIVE,GLADSTONE PARK,VIC,3043,-37.688497,144.890415,81
+Sunshine College,http://www.sunshine.vic.edu.au,Government,7-12,Secondary,GRAHAM STREET,SUNSHINE,VIC,3020,-37.7732679,144.8403442,67
+St Albans Secondary College,http://www.stalbanssc.vic.edu.au,Government,7-12,Secondary,289 MAIN ROAD EAST,ST ALBANS,VIC,3021,-37.746644,144.807685,80
+Koo Wee Rup Secondary College,http://www.kwrsc.vic.edu.au,Government,7-12,Secondary,ROSSITER ROAD,KOO WEE RUP,VIC,3981,-38.1969329,145.4966312,68
+Roxburgh College,http://www.roxburghcollege.vic.edu.au/,Government,7-12,Secondary,60-70 DONALD CAMERON DRIVE,ROXBURGH PARK,VIC,3064,-37.632735,144.9302,63
+Craigieburn Secondary College,http://www.craigieburnsc.vic.edu.au,Government,7-12,Secondary,102 HOTHLYN DRIVE,CRAIGIEBURN,VIC,3064,-37.608715,144.9341,67
+Taylors Lakes Secondary College,http://www.tlsc.vic.edu.au,Government,7-12,Secondary,1-39 PARMELIA DRIVE,TAYLORS LAKES,VIC,3038,-37.708051,144.792786,76
+Copperfield College,http://www.copperfieldcollege.vic.edu.au,Government,7-12,Secondary,GOLDSMITH AVENUE,DELAHEY,VIC,3037,-37.719556,144.7722483,70
+Werribee Secondary College,http://www.werribeesc.vic.edu.au,Government,7-12,Secondary,45 DUNCANS ROAD,WERRIBEE,VIC,3030,-37.906623,144.66902,88
+Hoppers Crossing Secondary College,http://web.hopcross.vic.edu.au/,Government,7-12,Secondary,2 FRASER STREET,HOPPERS CROSSING,VIC,3029,-37.870336,144.696263,68
+Sunbury College,http://www.sunburysc.vic.edu.au,Government,7-12,Secondary,30 RACECOURSE ROAD,SUNBURY,VIC,3429,-37.573934,144.730295,70
+Sunbury Downs Secondary College,http://www.sunburydowns.vic.edu.au,Government,7-12,Secondary,MITCHELLS LANE,SUNBURY,VIC,3429,-37.5832673,144.7052344,77
+Staughton College,http://www.staughtoncollege.vic.edu.au,Government,7-12,Secondary,WILSON ROAD,MELTON SOUTH,VIC,3338,-37.707384,144.5686161,66
+Melton Secondary College,http://www.meltonsc.vic.edu.au,Government,7-12,Secondary,COBURNS ROAD,MELTON,VIC,3337,-37.6821647,144.5671018,67
+Kurunjang Secondary College,http://www.kurunjangsc.vic.edu.au/,Government,7-12,Secondary,KURUNJANG DRIVE,MELTON,VIC,3337,-37.6726184,144.5851662,65
+Suzanne Cory High School,http://suzannecoryhs.vic.edu.au/,Government,9-11,Secondary,225 HOPPERS LANE,WERRIBEE,VIC,3030,-37.893929,144.699803,100
+Melbourne High School,http://www.mhs.vic.edu.au,Government,9-12,Secondary,FORREST HILL,SOUTH YARRA,VIC,3141,-37.8352543,144.9951443,100
+Nossal High School,http://www.nossalhs.vic.edu.au,Government,9-12,Secondary,100 CLYDE ROAD,BERWICK,VIC,3806,-38.040924,145.33668,100
+Hazel Glen College,http://www.hgc.vic.edu.au/,Government,K-12,Combined,115 Eminence Blvd,Doreen,VIC,3754,-37.597586,145.119989,70
+Manor Lakes P-12 College,http://www.manorlakesp12.vic.edu.au,Government,Prep-11,Combined,2-50 MININDEE ROAD,WYNDHAM VALE,VIC,3024,-37.87436,144.603104,66
+Sherbrooke Community School,http://www.sherbrooke.vic.edu.au,Government,Prep-12,Combined,311 MT DANDENONG TOURIST ROAD,SASSAFRAS,VIC,3787,-37.867846,145.349311,67
+Boronia K-12 College,http://www.BoroniaK-12.vic.edu.au,Government,Prep-12,Combined,RANGEVIEW ROAD,BORONIA,VIC,3155,-37.8584728,145.2897263,69
+Carwatha College P-12,http://www.carwatha.vic.edu.au,Government,Prep-12,Combined,43-81 BROWNS ROAD,NOBLE PARK,VIC,3174,-37.94141,145.189901,65
+Macleod College,http://macleod.vic.edu.au/,Government,Prep-12,Combined,CARWARP STREET,MACLEOD,VIC,3085,-37.72705337,145.0720574,85
+Distance Education Centre Victoria,http://www.distance.vic.edu.au,Government,Prep-12,Combined,315 CLARENDON STREET,THORNBURY,VIC,3071,-37.761853,145.025959,97
+Narre Warren South P-12 College,http://www.nwsc.vic.edu.au,Government,Prep-12,Combined,AMBERLY PARK DRIVE,NARRE WARREN STH,VIC,3805,-38.0492783,145.2994121,75
+Bayside P-12 College,http://www.bayside.vic.edu.au,Government,Prep-12,Combined,29-69 KOROROIT CREEK ROAD,WILLIAMSTOWN,VIC,3016,-37.8589853,144.8849328,67
+Laverton P-12 College,http://www.lavertonsc.vic.edu.au,Government,Prep-12,Combined,91 BLADIN STREET,LAVERTON,VIC,3028,-37.857124,144.772763,65
+The Grange P-12 College,http://www.thegrange.vic.edu.au,Government,Prep-12,Combined,30 DELORAINE DRIVE,HOPPERS CROSSING,VIC,3029,-37.857926,144.675482,64
+Glenroy Private,,Independent,Prep-4,Primary,163-165 GLENROY ROAD,GLENROY,VIC,3046,-37.705745,144.921576,63
+Lilydale Primary School,http://www.lilydaleps.vic.edu.au,Government,Prep-6,Primary,63 CASTELLA STREET,LILYDALE,VIC,3140,-37.753537,145.353884,74
+Birmingham Primary School,http://www.birminghamps.vic.edu.au,Government,Prep-6,Primary,43-49 FRANCIS CRESCENT,MOUNT EVELYN,VIC,3796,-37.778837,145.369539,89
+Lilydale West Primary School,http://www.lilydalewest.vic.edu.au,Government,Prep-6,Primary,BOWEN ROAD,LILYDALE,VIC,3140,-37.7557129,145.3367615,76
+Wandin North Primary School,http://www.wandinnorthps.vic.edu.au/,Government,Prep-6,Primary,220 WARBURTON HIGHWAY,WANDIN NORTH,VIC,3139,-37.76966,145.409202,79
+Rolling Hills Primary School,http://www.rollinghillsps.vic.edu.au,Government,Prep-6,Primary,52 LANDSCAPE DRIVE,MOOROOLBARK,VIC,3138,-37.766601,145.326888,83
+Mooroolbark East Primary School,http://www.meps.vic.edu.au,Government,Prep-6,Primary,TAYLOR ROAD,MOOROOLBARK,VIC,3138,-37.786287,145.3352622,67
+Bimbadeen Heights Primary School,http://www.bimbadeenheightsps.vic.edu.au,Government,Prep-6,Primary,HAYRICK LANE,MOOROOLBARK,VIC,3138,-37.773971,145.321867,80
+Chirnside Park Primary School,http://www.chirnsideparkps.vic.edu.au/,Government,Prep-6,Primary,66 KIMBERLEY DRIVE,CHIRNSIDE PARK,VIC,3116,-37.750044,145.312835,83
+Pembroke Primary School,http://www.pemprim.vic.edu.au,Government,Prep-6,Primary,PEMBROKE ROAD,MOOROOLBARK,VIC,3138,-37.7953824,145.3277437,65
+Manchester Primary School,http://www.manchesterps.vic.edu.au,Government,Prep-6,Primary,MONOMEITH STREET,MOOROOLBARK,VIC,3138,-37.7802223,145.3122325,73
+Montrose Primary School,http://www.montroseps.vic.edu.au,Government,Prep-6,Primary,LEITH ROAD,MONTROSE,VIC,3765,-37.8079126,145.3443308,82
+Wandin Yallock Primary School,http://www.wandinyallockps.vic.edu.au,Government,Prep-6,Primary,105 BEENAK ROAD,WANDIN NORTH,VIC,3139,-37.789739,145.436267,77
+Kilsyth Primary School,http://www.kilsythps.vic.edu.au/,Government,Prep-6,Primary,DURHAM ROAD,KILSYTH,VIC,3137,-37.8019217,145.3150302,79
+Gladesville Primary School,http://www.gladesvilleps.vic.edu.au,Government,Prep-6,Primary,GLADESVILLE DRIVE,KILSYTH,VIC,3137,-37.811674,145.3237098,85
+Ruskin Park Primary School,http://www.ruskinparkps.vic.edu.au,Government,Prep-6,Primary,18 - 20 RUSKIN AVE,CROYDON,VIC,3136,-37.798506,145.297312,72
+Seville Primary School,http://www.sevilleps.vic.edu.au,Government,Prep-6,Primary,639 WARBURTON HIGHWAY,SEVILLE,VIC,3139,-37.772523,145.464512,84
+Billanook Primary School,http://www.billanookps.vic.edu.au/,Government,Prep-6,Primary,270 SHEFFIELD ROAD,MONTROSE,VIC,3765,-37.825608,145.338248,80
+Yarra Road Primary School,http://www.yarrardps.vic.edu.au,Government,Prep-6,Primary,222 - 228 YARRA ROAD,CROYDON,VIC,3136,-37.766584,145.273703,82
+Wonga Park Primary School,http://www.wongapark.vic.edu.au,Government,Prep-6,Primary,DUDLEY ROAD,WONGA PARK,VIC,3115,-37.73058,145.273476,89
+Croydon Primary School,http://www.croydonps.vic.edu.au,Government,Prep-6,Primary,CNR KENT AVENUE & CROYDON ROAD,CROYDON,VIC,3136,-37.7930498,145.2801722,65
+Croydon Hills Primary School,http://www.croydonhps.vic.edu.au,Government,Prep-6,Primary,CAMPASPE DRIVE,CROYDON HILLS,VIC,3136,-37.7763429,145.271539,83
+Dorset Primary School,http://www.dorsetps.vic.edu.au/,Government,Prep-6,Primary,RESCORLA AVENUE,CROYDON,VIC,3136,-37.81005145,145.2859984,81
+Ainslie Parklands Primary School,http://ainslieparklandsps.vic.edu.au/,Government,Prep-6,Primary,HINKLEY AVE,CROYDON,VIC,3136,-37.7941046,145.2637334,77
+Bayswater North Primary School,http://www.bayswaternorth.vic.edu.au/,Government,Prep-6,Primary,STUART STREET,BAYSWATER NORTH,VIC,3153,-37.8287568,145.2958287,85
+Kalinda Primary School,http://www.kalinda.vic.edu.au,Government,Prep-6,Primary,39-49 KALINDA ROAD,RINGWOOD,VIC,3134,-37.790009,145.253729,86
+Warranwood Primary School,http://www.warranwood.vic.edu.au,Government,Prep-6,Primary,1 WELLINGTON PARK DRIVE,WARRANWOOD,VIC,3134,-37.774938,145.247271,87
+Tinternvale Primary School,http://www.tinternvaleps.vic.edu.au,Government,Prep-6,Primary,TINTERN AVENUE,RINGWOOD EAST,VIC,3135,-37.8185628,145.2654367,83
+Sassafras Primary School,http://www.sassafrasps.vic.edu.au,Government,Prep-6,Primary,399 MT DANDENONG TOURIST ROAD,SASSAFRAS,VIC,3787,-37.860945,145.354266,91
+The Basin Primary School,http://www.thebasinps.vic.edu.au/,Government,Prep-6,Primary,CNR LIVERPOOL ROAD & MOUNTAIN HIGHWAY,THE BASIN,VIC,3154,-37.8499813,145.3082698,89
+Boronia Heights Primary School,http://www.boroniahtsps.vic.edu.au,Government,Prep-6,Primary,LANDSCAPE DRIVE,BORONIA,VIC,3155,-37.8453039,145.2960939,82
+Eastwood Primary School,http://www.eastwood.vic.edu.au,Government,Prep-6,Primary,ALEXANDRA ROAD,RINGWOOD EAST,VIC,3135,-37.816819,145.2527252,79
+Mullum Primary School,http://www.mullumps.vic.edu.au,Government,Prep-6,Primary,18 PANFIELD AVENUE,RINGWOOD,VIC,3134,-37.797784,145.2394,97
+Ringwood North Primary School,http://www.ringwoodnorthps.vic.edu.au/,Government,Prep-6,Primary,172 OBAN ROAD,RINGWOOD NORTH,VIC,3134,-37.792224,145.230511,90
+Heathmont East Primary School,http://www.heathmonteastps.vic.edu.au/,Government,Prep-6,Primary,LOUIS STREET,HEATHMONT,VIC,3135,-37.830451,145.2570717,98
+Warrandyte Primary School,http://www.warrandyteps.vic.edu.au,Government,Prep-6,Primary,5-11 FORBES STREET,WARRANDYTE,VIC,3113,-37.742398,145.214727,90
+Great Ryrie Primary School,http://www.greatryrieps.vic.edu.au,Government,Prep-6,Primary,GREAT RYRIE STREET,HEATHMONT,VIC,3135,-37.8240609,145.2385122,80
+Park Orchards Primary School,http://www.pops.vic.edu.au,Government,Prep-6,Primary,1-3 BOWMORE AVENUE,PARK ORCHARDS,VIC,3114,-37.779913,145.215216,90
+Bayswater Primary School,http://www.bayswaterps.vic.edu.au,Government,Prep-6,Primary,BIRCH STREET,BAYSWATER,VIC,3153,-37.8447002,145.2591397,86
+Boronia West Primary School,http://www.boroniawestps.vic.edu.au,Government,Prep-6,Primary,25 TORMORE ROAD,BORONIA,VIC,3155,-37.85837,145.277733,67
+Woori Yallock Primary School,http://www.woorips.vic.edu.au,Government,Prep-6,Primary,1360 HEALESVILLE ROAD,WOORI YALLOCK,VIC,3139,-37.776485,145.532009,75
+Andersons Creek Primary School,http://www.andersonscreekps.vic.edu.au/,Government,Prep-6,Primary,36-42 DRYSDALE ROAD,WARRANDYTE,VIC,3113,-37.749192,145.20791,89
+Kallista Primary School,www.kallistaps.vic.edu.au,Government,Prep-6,Primary,72 MONBULK ROAD,KALLISTA,VIC,3791,-37.885395,145.370181,87
+Ringwood Heights Primary School,http://www.ringwoodheights.vic.edu.au,Government,Prep-6,Primary,60 SUMMIT CRESCENT,RINGWOOD NORTH,VIC,3134,-37.803008,145.217312,87
+Ferny Creek Primary School,http://www.fernycreekps.vic.edu.au,Government,Prep-6,Primary,SCHOOL ROAD,FERNY CREEK,VIC,3786,-37.8837334,145.3334654,91
+Bayswater West Primary School,http://www.baywestps.vic.edu.au/,Government,Prep-6,Primary,PHYLLIS STREET,BAYSWATER,VIC,3153,-37.8493048,145.253015,73
+Ferntree Gully North Primary School,http://www.ferntree.vic.edu.au,Government,Prep-6,Primary,111 FOREST ROAD,FERNTREE GULLY,VIC,3156,-37.874843,145.298427,74
+Bayswater South Primary School,http://www.baysouthps.vic.edu.au,Government,Prep-6,Primary,ENFIELD DRIVE,BAYSWATER,VIC,3153,-37.8556033,145.2607376,88
+Marlborough Primary School,http://www.marlboroughps.vic.edu.au,Government,Prep-6,Primary,HARDY CRESCENT,HEATHMONT,VIC,3135,-37.8363552,145.2319118,77
+The Patch Primary School,http://www.thepatchps.vic.edu.au,Government,Prep-6,Primary,53 KALLISTA-EMERALD ROAD,THE PATCH,VIC,3792,-37.891858,145.393718,84
+Wattle View Primary School,http://www.wvps.vic.edu.au,Government,Prep-6,Primary,WATTLETREE ROAD,FERNTREE GULLY,VIC,3156,-37.87428914,145.2786523,76
+Fairhills Primary School,http://www.fairhillsps.vic.edu.au,Government,Prep-6,Primary,MANUKA DRIVE,FERNTREE GULLY,VIC,3156,-37.8695063,145.2645426,75
+Antonio Park Primary School,http://www.antoniops.vic.edu.au,Government,Prep-6,Primary,631-639 WHITEHORSE ROAD,MITCHAM,VIC,3132,-37.815306,145.206183,89
+Regency Park Primary School,http://www.regency-park-ps.vic.edu.au,Government,Prep-6,Primary,AMESBURY AVENUE,WANTIRNA,VIC,3152,-37.8543476,145.2360177,92
+Upper Ferntree Gully Primary School,http://www.uppergullyps.vic.edu.au/,Government,Prep-6,Primary,TALASKIA ROAD,UPPER FERNTREE GULLY,VIC,3156,-37.8958699,145.3141678,67
+Toorak Primary School,http://www.toorakps.vic.edu.au,Government,Prep-6,Primary,CANTERBURY ROAD,TOORAK,VIC,3142,-37.8451539,145.010029,97
+Armadale Primary School,http://www.armadaleps.vic.edu.au,Government,Prep-6,Primary,9-23 DENSHAM ROAD,ARMADALE,VIC,3143,-37.852167,145.017365,91
+Stonnington Primary School,http://www.stonningtonps.vic.edu.au,Government,Prep-6,Primary,HORNBY STREET,WINDSOR,VIC,3181,-37.8572072,144.9956246,76
+Richmond Primary School,http://www.richmondps.vic.edu.au,Government,Prep-6,Primary,85 BRIGHTON STREET,RICHMOND,VIC,3121,-37.829751,144.999611,96
+South Yarra Primary School,http://www.southyarraps.vic.edu.au/,Government,Prep-6,Primary,601 PUNT ROAD,SOUTH YARRA,VIC,3141,-37.842234,144.985707,98
+Auburn South Primary School,http://www.auburnsthps.vic.edu.au,Government,Prep-6,Primary,419 TOORONGA ROAD,HAWTHORN EAST,VIC,3123,-37.839131,145.044822,96
+Hawthorn West Primary School,http://www.hawthornwestps.vic.edu.au,Government,Prep-6,Primary,CNR WOOD STREET & BURWOOD ROAD,HAWTHORN,VIC,3122,-37.820626,145.018517,96
+Glenferrie Primary School,http://www.glenferrieps.vic.edu.au,Government,Prep-6,Primary,78 - 98 MANNINGTREE ROAD,HAWTHORN,VIC,3122,-37.824424,145.033488,94
+Ripponlea Primary School,http://www.ripponleaps.vic.edu.au,Government,Prep-6,Primary,25 CARRINGTON GROVE,ST KILDA EAST,VIC,3183,-37.874693,145.005027,87
+Yarra Primary School,http://www.yarraps.vic.edu.au,Government,Prep-6,Primary,DAVISON STREET,RICHMOND,VIC,3121,-37.8147,145.00682,82
+St Kilda Primary School,http://www.stkildaps.vic.edu.au,Government,Prep-6,Primary,2B BRIGHTON ROAD,ST KILDA,VIC,3182,-37.869604,144.989266,87
+St Kilda Park Primary School,http://www.skipps.vic.edu.au,Government,Prep-6,Primary,68 FITZROY STREET,ST KILDA,VIC,3182,-37.858,144.977467,95
+Malvern Primary School,http://www.malvernps.vic.edu.au,Government,Prep-6,Primary,17 TOORONGA ROAD,MALVERN EAST,VIC,3145,-37.871669,145.037994,98
+Richmond West Primary School,http://www.richmondwestps.vic.edu.au,Government,Prep-6,Primary,25 LENNOX STREET,RICHMOND,VIC,3121,-37.813842,144.995935,90
+Camberwell Primary School,http://www.camberwellps.vic.edu.au,Government,Prep-6,Primary,290 CAMBERWELL ROAD,CAMBERWELL,VIC,3124,-37.833118,145.057999,99
+Abbotsford Primary School,http://www.abbotsfordps.vic.edu.au,Government,Prep-6,Primary,LITHGOW STREET,ABBOTSFORD,VIC,3067,-37.8100058,144.9984168,88
+Camberwell South Primary School,http://www.cambsth.vic.edu.au,Government,Prep-6,Primary,PEATE AVENUE,GLEN IRIS,VIC,3146,-37.8477469,145.0621784,96
+Auburn Primary School,http://www.auburnps.vic.edu.au,Government,Prep-6,Primary,51 RATHMINES ROAD,HAWTHORN EAST,VIC,3123,-37.819617,145.050411,94
+Elwood Primary School,http://www.elwoodprimary.vic.edu.au,Government,Prep-6,Primary,SCOTT STREET,ELWOOD,VIC,3184,-37.8817715,144.9870848,95
+Caulfield Primary School,http://www.caulfieldps.vic.edu.au,Government,Prep-6,Primary,724 GLEN HUNTLY ROAD,CAULFIELD SOUTH,VIC,3162,-37.88746,145.020199,93
+Lloyd Street Primary School,http://www.lloydstps.vic.edu.au,Government,Prep-6,Primary,LLOYD STREET,MALVERN EAST,VIC,3145,-37.8725701,145.0564078,94
+Glen Iris Primary School,http://www.gips.vic.edu.au,Government,Prep-6,Primary,170 GLEN IRIS ROAD,GLEN IRIS,VIC,3146,-37.859905,145.065636,97
+Kew Primary School,http://www.kewps.vic.edu.au,Government,Prep-6,Primary,PEEL STREET,KEW,VIC,3101,-37.8041385,145.0332588,91
+Middle Park Primary School,http://www.middleparkps.vic.edu.au,Government,Prep-6,Primary,194 RICHARDSON STREET,MIDDLE PARK,VIC,3206,-37.848084,144.95777,92
+Elsternwick Primary School,http://www.elsternwickps.vic.edu.au,Government,Prep-6,Primary,MURPHY STREET,BRIGHTON,VIC,3186,-37.8914355,144.9981048,87
+Albert Park Primary School,http://www.albertparkps.vic.edu.au,Government,Prep-6,Primary,BRIDPORT STREET,ALBERT PARK,VIC,3206,-37.8419123,144.9524093,97
+Caulfield South Primary School,http://www.caulfieldsthps.vic.edu.au,Government,Prep-6,Primary,24 BUNDEERA ROAD,CAULFIELD SOUTH,VIC,3162,-37.895535,145.030382,96
+Deepdene Primary School,http://www.deepdeneps.vic.edu.au,Government,Prep-6,Primary,958A BURKE ROAD,BALWYN,VIC,3103,-37.809296,145.0617,99
+Fitzroy Primary School,http://www.fitzroyprimaryschool.vic.edu.au,Government,Prep-6,Primary,319 GEORGE STREET,FITZROY,VIC,3065,-37.799502,144.981205,67
+Solway Primary School,http://www.solway.vic.edu.au/,Government,Prep-6,Primary,WINTON ROAD,ASHBURTON,VIC,3147,-37.8733036,145.0729716,94
+Glen Huntly Primary School,http://www.glenhuntlyps.vic.edu.au,Government,Prep-6,Primary,GRANGE ROAD,GLEN HUNTLY,VIC,3163,-37.8936642,145.046334,95
+Mount Eliza North Primary School,http://www.menps.vic.edu.au,Government,Prep-6,Primary,6 MOSELEY DRIVE,MOUNT ELIZA,VIC,3930,-38.187904,145.100023,93
+Kunyung Primary School,http://www.kunyung.vic.edu.au,Government,Prep-6,Primary,50 KUNYUNG ROAD,MOUNT ELIZA,VIC,3930,-38.18769,145.075366,85
+Mount Eliza Primary School,http://www.mtelizaps.vic.edu.au/,Government,Prep-6,Primary,WOORALLA DRIVE,MOUNT ELIZA,VIC,3930,-38.1947497,145.0928762,89
+Derinya Primary School,http://www.derinya.vic.edu.au,Government,Prep-6,Primary,OVERPORT ROAD,FRANKSTON SOUTH,VIC,3199,-38.17130531,145.1208573,91
+Overport Primary School,http://www.overport-ps.vic.edu.au,Government,Prep-6,Primary,TOWERHILL ROAD,FRANKSTON,VIC,3199,-38.1598388,145.126931,77
+Frankston Primary School,http://www.frankstonps.vic.edu.au,Government,Prep-6,Primary,DAVEY STREET,FRANKSTON,VIC,3199,-38.147507,145.1235772,83
+Frankston Heights Primary School,http://www.frankstonhts-ps.vic.edu.au,Government,Prep-6,Primary,KALMIA STREET,FRANKSTON,VIC,3199,-38.1616046,145.1467003,74
+Kingsley Park Primary School,http://www.kingsleypark.vic.edu.au,Government,Prep-6,Primary,FRANCISCAN AVENUE,FRANKSTON,VIC,3199,-38.1685807,145.1563319,72
+Kananook Primary School,http://www.kps.vic.edu.au,Government,Prep-6,Primary,22 WELLS ROAD,SEAFORD,VIC,3198,-38.12516,145.13217,68
+Karingal Primary School,http://www.karingalps.vic.edu.au,Government,Prep-6,Primary,MALLUM AVENUE,FRANKSTON,VIC,3199,-38.1375439,145.1516649,71
+Ballam Park Primary School,http://www.ballamparkps.vic.edu.au,Government,Prep-6,Primary,BELAR AVENUE,FRANKSTON,VIC,3199,-38.1487793,145.1637267,78
+Baxter Primary School,http://www.baxterps.vic.edu.au/,Government,Prep-6,Primary,GRANT ROAD,BAXTER,VIC,3911,-38.1993723,145.1812792,75
+Moorooduc Primary School,http://www.moorooducps.vic.edu.au/,Government,Prep-6,Primary,CNR DERRIL RD & MORNINGTON TYABB RD,MOOROODUC,VIC,3933,-38.2488649,145.1048564,84
+Benton Junior College,http://benton.vic.edu.au,Government,Prep-6,Primary,261 RACECOURSE ROAD,MORNINGTON,VIC,3931,-38.245962,145.060199,82
+Seaford Primary School,http://www.seafordps.vic.edu.au,Government,Prep-6,Primary,MCRAE STREET,SEAFORD,VIC,3198,-38.1044023,145.1313257,65
+Belvedere Park Primary School,http://www.belvedereparkps.vic.edu.au,Government,Prep-6,Primary,30 BELVEDERE ROAD,SEAFORD,VIC,3198,-38.110351,145.146612,74
+Langwarrin Primary School,http://www.langwarrinps.vic.edu.au,Government,Prep-6,Primary,90 WARRANDYTE ROAD,LANGWARRIN,VIC,3910,-38.160556,145.190676,76
+Somerville Rise Primary School,http://www.somerville-rise-ps.vic.edu.au,Government,Prep-6,Primary,BLACKS CAMP ROAD,SOMERVILLE,VIC,3912,-38.2298846,145.1680344,73
+Seaford Park Primary School,http://www.seafordpark.vic.edu.au/,Government,Prep-6,Primary,141 EAST ROAD,SEAFORD,VIC,3198,-38.105138,145.153726,71
+Somerville Primary School,http://www.somervilleps.vic.edu.au,Government,Prep-6,Primary,37 ERAMOSA ROAD EAST,SOMERVILLE,VIC,3912,-38.22468,145.179219,74
+Seaford North Primary School,http://www.seaford-northps.vic.edu.au,Government,Prep-6,Primary,HALLIFAX STREET,SEAFORD,VIC,3198,-38.0896594,145.1342636,80
+Osborne Primary School,http://www.osborneps.vic.edu.au,Government,Prep-6,Primary,120 CRAIGIE RD,MOUNT MARTHA,VIC,3934,-38.257383,145.03999,81
+Woodlands Primary School,http://www.woodlandsps.vic.edu.au,Government,Prep-6,Primary,10 GUM NUT DRIVE,LANGWARRIN,VIC,3910,-38.135271,145.203857,92
+Carrum Primary School,http://www.carrumps.vic.edu.au,Government,Prep-6,Primary,WALKERS ROAD,CARRUM,VIC,3197,-38.0776063,145.1268042,83
+Skye Primary School,http://www.skyeps.vic.edu.au,Government,Prep-6,Primary,395 BALLARTO ROAD,SKYE,VIC,3977,-38.117422,145.200632,72
+Tyabb Primary School,http://www.tyabbps.vic.edu.au,Government,Prep-6,Primary,186 MORNINGTON-TYABB ROAD,TYABB,VIC,3913,-38.26059,145.166053,75
+Rowellyn Park Primary School,http://www.rowellynpark.vic.edu.au/,Government,Prep-6,Primary,ROWELLYN AVENUE,CARRUM DOWNS,VIC,3201,-38.1043053,145.1921368,81
+Banyan Fields Primary School,http://carrumdownsps.vic.edu.au,Government,Prep-6,Primary,90 CADLES ROAD,CARRUM DOWNS,VIC,3201,-38.094572,145.186809,77
+Bonbeach Primary School,http://www.bonbeachps.vic.edu.au,Government,Prep-6,Primary,29-63 BREEZE STREET,BONBEACH,VIC,3196,-38.066314,145.126248,95
+Patterson Lakes Primary School,http://www.patterson-lakes-ps.vic.edu.au,Government,Prep-6,Primary,130-148 GLADESVILLE BOULEVARD,PATTERSON LAKES,VIC,3197,-38.069843,145.144404,92
+Pearcedale Primary School,http://pearcedaleschool.com.au/,Government,Prep-6,Primary,BAXTER-TOORADIN ROAD,PEARCEDALE,VIC,3912,-38.2028207,145.231694,84
+Mount Martha Primary School,http://www.mtmarthaps.vic.edu.au,Government,Prep-6,Primary,37 - 55 GLENISLA DRIVE,MOUNT MARTHA,VIC,3934,-38.274653,145.013011,80
+Tyabb Railway Station Primary School,http://www.tyabbrailps.vic.edu.au,Government,Prep-6,Primary,88 THE CRESCENT,TYABB,VIC,3913,-38.262026,145.192311,66
+Chelsea Primary School,http://www.chelseaps.vic.edu.au,Government,Prep-6,Primary,34-44 ARGYLE AVE,CHELSEA,VIC,3196,-38.055183,145.122499,81
+Cranbourne South Primary School,http://www.cranbournesouth.vic.edu.au/,Government,Prep-6,Primary,PEARCEDALE ROAD,CRANBOURNE SOUTH,VIC,3977,-38.148201,145.2449763,72
+Chelsea Heights Primary School,http://www.chps.vic.edu.au,Government,Prep-6,Primary,THAMES PROMENADE,CHELSEA HEIGHTS,VIC,3196,-38.045456,145.1378631,83
+Edithvale Primary School,http://www.edithvaleps.vic.edu.au,Government,Prep-6,Primary,EDITHVALE ROAD,EDITHVALE,VIC,3196,-38.0395699,145.1127757,86
+Aspendale Gardens Primary School,http://www.agps.vic.edu.au,Government,Prep-6,Primary,96 KEARNEY DRIVE,ASPENDALE GARDENS,VIC,3195,-38.024366,145.114153,90
+Aspendale Primary School,http://www.aspendale.vic.edu.au,Government,Prep-6,Primary,23 LAURA STREET,ASPENDALE,VIC,3195,-38.01966,145.101206,94
+Lyndhurst Primary School,http://www.lyndhurstps.vic.edu.au,Government,Prep-6,Primary,70 BROOKWATER PARADE,LYNDHURST,VIC,3975,-38.074443,145.253676,72
+Cranbourne Park Primary School,http://www.crannthps.vic.edu.au,Government,Prep-6,Primary,1 TUCKER STREET,CRANBOURNE,VIC,3977,-38.103238,145.277675,71
+Cranbourne Primary School,http://www.cranbourne-ps.vic.edu.au/,Government,Prep-6,Primary,BAKEWELL STREET,CRANBOURNE,VIC,3977,-38.111954,145.28861,70
+Mordialloc Beach Primary School,http://www.mordiallocps.vic.edu.au,Government,Prep-6,Primary,58 BARKLY STREET,MORDIALLOC,VIC,3195,-38.005385,145.088451,92
+Rangebank Primary School,http://rangebankps.vic.edu.au/,Government,Prep-6,Primary,14-36 LESDON AVENUE,CRANBOURNE,VIC,3977,-38.087745,145.275765,69
+Lynbrook Primary School,http://www.lynbrookps.vic.edu.au,Government,Prep-6,Primary,PATERSON DRIVE,LYNBROOK,VIC,3975,-38.051136,145.2487203,80
+Courtenay Gardens Primary School,http://www.cgps.vic.edu.au/,Government,Prep-6,Primary,ROSEBANK DRIVE,CRANBOURNE NORTH,VIC,3977,-38.0798417,145.2828802,91
+Cranbourne East Primary School,http://www.cranbourneeastps.vic.edu.au,Government,Prep-6,Primary,2 BOWYER AVENUE,CRANBOURNE EAST,VIC,3977,-38.105673,145.30461,73
+Parkdale Primary School,http://www.parkdaleps.vic.edu.au,Government,Prep-6,Primary,305 NEPEAN HIGHWAY,PARKDALE,VIC,3195,-37.992861,145.083892,95
+Parktone Primary School,http://www.parktoneps.vic.edu.au,Government,Prep-6,Primary,ROBERT STREET,PARKDALE,VIC,3195,-37.98676429,145.0848566,90
+Clyde Primary School,http://www.clydeps.vic.edu.au/,Government,Prep-6,Primary,OROYA GROVE,CLYDE,VIC,3978,-38.1151783,145.3201747,86
+Strathaird Primary School,http://www.strathairdps.vic.edu.au,Government,Prep-6,Primary,20 SHERWOOD ROAD,NARRE WARREN SOUTH,VIC,3805,-38.062447,145.287142,81
+Laburnum Primary School,http://www.laburnumps.vic.edu.au,Government,Prep-6,Primary,JANET STREET,BLACKBURN,VIC,3130,-37.8271373,145.1381611,97
+Kerrimuir Primary School,http://www.kerrimuirps.vic.edu.au/,Government,Prep-6,Primary,178 DORKING ROAD,BOX HILL NORTH,VIC,3129,-37.80327,145.135035,97
+Mont Albert Primary School,http://www.maps.vic.edu.au,Government,Prep-6,Primary,BARLOA ROAD,MONT ALBERT,VIC,3127,-37.8120298,145.1034457,99
+Box Hill North Primary School,http://www.bhnps.vic.edu.au,Government,Prep-6,Primary,ELIZABETH STREET,BOX HILL NORTH,VIC,3129,-37.8003196,145.1229639,91
+Roberts McCubbin Primary School,http://www.robmacps.vic.edu.au,Government,Prep-6,Primary,57 BIRDWOOD STREET,BOX HILL SOUTH,VIC,3128,-37.835412,145.125573,85
+Surrey Hills Primary School,http://www.surreyhillsps.vic.edu.au,Government,Prep-6,Primary,BEATRICE AVENUE,SURREY HILLS,VIC,3127,-37.8257642,145.1006462,94
+Chatham Primary School,http://www.chathamps.vic.edu.au,Government,Prep-6,Primary,WEYBRIDGE STREET,SURREY HILLS,VIC,3127,-37.8179706,145.0931548,92
+Old Orchard Primary School,http://www.oldorchardps.vic.edu.au,Government,Prep-6,Primary,88 KOONUNG ROAD,BLACKBURN NORTH,VIC,3130,-37.807006,145.15153,93
+Birralee Primary School,http://www.birralee.vic.edu.au/,Government,Prep-6,Primary,HEYINGTON AVENUE,DONCASTER,VIC,3108,-37.793408,145.1140131,99
+Blackburn Primary School,http://www.blackburnps.vic.edu.au,Government,Prep-6,Primary,185 WHITEHORSE ROAD,BLACKBURN,VIC,3130,-37.817156,145.157392,95
+Greythorn Primary School,http://www.greythornps.vic.edu.au,Government,Prep-6,Primary,READING AVENUE,BALWYN NORTH,VIC,3104,-37.8016886,145.0961244,98
+Orchard Grove Primary School,http://www.orchgveps.vic.edu.au,Government,Prep-6,Primary,101 ORCHARD GROVE,BLACKBURN SOUTH,VIC,3130,-37.840467,145.147694,97
+Doncaster Primary School,http://www.doncasterps.vic.edu.au,Government,Prep-6,Primary,2 - 12 COUNCIL STREET,DONCASTER,VIC,3108,-37.78608,145.129925,97
+Wattle Park Primary School,http://www.wattleparkps.vic.edu.au,Government,Prep-6,Primary,225 WARRIGAL ROAD,BURWOOD,VIC,3125,-37.842719,145.09843,97
+Balwyn Primary School,http://www.balwynps.vic.edu.au/,Government,Prep-6,Primary,86B BALWYN ROAD,BALWYN,VIC,3103,-37.814179,145.081973,99
+Canterbury Primary School,http://www.canterburyps.vic.edu.au,Government,Prep-6,Primary,MOLESWORTH STREET,CANTERBURY,VIC,3126,-37.8310903,145.084033,96
+Blackburn Lake Primary School,http://www.blps.vic.edu.au,Government,Prep-6,Primary,12 - 14 FLORENCE STREET,BLACKBURN,VIC,3130,-37.826961,145.165585,96
+Beverley Hills Primary School,http://www.bevhillsps.vic.edu.au,Government,Prep-6,Primary,2 - 14 CASSOWARY STREET,DONCASTER EAST,VIC,3109,-37.796817,145.159556,100
+Whitehorse Primary School,http://www.whitehorseps.vic.edu.au,Government,Prep-6,Primary,70-86 JUNCTION ROAD,BLACKBURN NORTH,VIC,3130,-37.808634,145.16712,97
+Doncaster Gardens Primary School,http://www.dgps.vic.edu.au,Government,Prep-6,Primary,SANDHURST AVENUE,DONCASTER EAST,VIC,3109,-37.782157,145.1480785,100
+Boroondara Park Primary School,http://www.bpark.vic.edu.au,Government,Prep-6,Primary,40 ALMOND STREET,BALWYN NORTH,VIC,3104,-37.789135,145.087219,93
+Donvale Primary School,http://www.donvaleps.vic.edu.au,Government,Prep-6,Primary,ELATA STREET,DONVALE,VIC,3111,-37.801109,145.1733834,89
+Balwyn North Primary School,http://www.balwynnorthps.vic.edu.au,Government,Prep-6,Primary,BUCHANAN AVENUE,BALWYN NORTH,VIC,3104,-37.7963243,145.0765864,98
+Burwood Heights Primary School,http://www.burwoodhps.vic.edu.au,Government,Prep-6,Primary,CNR HAWTHORN & MAHONEYS RDS,BURWOOD EAST,VIC,3151,-37.8472714,145.1633128,93
+Hartwell Primary School,http://www.hartwellps.vic.edu.au,Government,Prep-6,Primary,MILVERTON ST,CAMBERWELL,VIC,3124,-37.8478498,145.084312,99
+Donburn Primary School,http://www.donburn.vic.edu.au,Government,Prep-6,Primary,COLCHESTER DRIVE,DONCASTER EAST,VIC,3109,-37.7876089,145.1662589,92
+Essex Heights Primary School,http://www.essexheightsps.vic.edu.au/,Government,Prep-6,Primary,ESSEX ROAD,MOUNT WAVERLEY,VIC,3149,-37.8638472,145.1153926,97
+Burwood East Primary School,http://www.burwoodeastps.vic.edu.au,Government,Prep-6,Primary,CNR BLACKBURN AND HIGHBURY RDS,BURWOOD EAST,VIC,3151,-37.8589937,145.1517776,100
+Parkhill Primary School,http://www.parkhillps.vic.edu.au,Government,Prep-6,Primary,PARKHILL DRIVE,ASHWOOD,VIC,3147,-37.8628062,145.1064052,88
+Parkmore Primary School,http://www.parkmore.vic.edu.au/,Government,Prep-6,Primary,JOLIMONT ROAD,FOREST HILL,VIC,3131,-37.8436734,145.1763034,93
+Belle Vue Primary School,http://www.bellevueps.vic.edu.au/,Government,Prep-6,Primary,20 HIGHVIEW ROAD,BALWYN NORTH,VIC,3104,-37.781879,145.079125,93
+Mount Waverley North Primary School,http://www.mtwavnth.vic.edu.au,Government,Prep-6,Primary,MARCUS AVENUE,MOUNT WAVERLEY,VIC,3149,-37.867627,145.1416642,85
+Serpell Primary School,http://www.serpellps.vic.edu.au,Government,Prep-6,Primary,TUCKERS ROAD,TEMPLESTOWE,VIC,3106,-37.7698306,145.155184,100
+Mitcham Primary School,http://www.mitcham.ps.vic.edu.au,Government,Prep-6,Primary,294 MITCHAM ROAD,MITCHAM,VIC,3132,-37.809334,145.191599,94
+Ashburton Primary School,http://www.ashburtonps.vic.edu.au,Government,Prep-6,Primary,FAKENHAM ROAD,ASHBURTON,VIC,3147,-37.8622856,145.0845493,98
+Livingstone Primary School,http://www.livingstoneps.vic.edu.au,Government,Prep-6,Primary,LIVINGSTONE ROAD,VERMONT SOUTH,VIC,3133,-37.8522547,145.1813819,98
+Glendal Primary School,http://www.glendalps.vic.edu.au,Government,Prep-6,Primary,55 NOTTINGHAM STREET,GLEN WAVERLEY,VIC,3150,-37.867758,145.159068,99
+Vermont Primary School,http://www.vermontps.vic.edu.au,Government,Prep-6,Primary,4-10 NURLENDI ROAD,VERMONT,VIC,3133,-37.837748,145.193542,99
+Weeden Heights Primary School,http://www.weedenheightsps.vic.edu.au,Government,Prep-6,Primary,WEEDEN DRIVE,VERMONT SOUTH,VIC,3133,-37.8591744,145.1776103,99
+Milgate Primary School,http://www.milgateps.vic.edu.au.,Government,Prep-6,Primary,96 LANDSCAPE DRIVE,DONCASTER EAST,VIC,3109,-37.774115,145.176272,97
+Kew East Primary School,http://www.keps.vic.edu.au,Government,Prep-6,Primary,35 KITCHENER STREET,KEW EAST,VIC,3102,-37.796702,145.050078,97
+Highvale Primary School,http://www.highvaleps.vic.edu.au/,Government,Prep-6,Primary,33 ASHTON STREET,GLEN WAVERLEY,VIC,3150,-37.8662,145.173756,98
+Templestowe Park Primary School,http://www.templestoweparkps.vic.edu.au,Government,Prep-6,Primary,399 CHURCH ROAD,TEMPLESTOWE,VIC,3106,-37.755799,145.142265,95
+Mount Waverley Primary School,http://www.mountwaverleyps.vic.edu.au/,Government,Prep-6,Primary,37-45 PARK LANE,MOUNT WAVERLEY,VIC,3149,-37.881384,145.123706,98
+Syndal South Primary School,http://www.syndalsp.vic.edu.au,Government,Prep-6,Primary,14 MONTGOMERY AVENUE,MOUNT WAVERLEY,VIC,3149,-37.879832,145.143371,96
+Rangeview Primary School,http://www.rangeview.vic.edu.au,Government,Prep-6,Primary,27 CHURINGA AVENUE,MITCHAM,VIC,3132,-37.828792,145.205811,98
+Banyule Primary School,http://www.banyuleps.vic.edu.au,Government,Prep-6,Primary,BANYULE ROAD,ROSANNA,VIC,3084,-37.743075,145.0779385,98
+Viewbank Primary School,http://www.viewbankps.vic.edu.au,Government,Prep-6,Primary,NEVIN PARADE,VIEWBANK,VIC,3084,-37.7339667,145.0904113,87
+Rosanna Golf Links Primary School,http://www.rosanna-golflinks-ps.vic.edu.au,Government,Prep-6,Primary,INTERLAKEN PARADE,ROSANNA,VIC,3084,-37.7353363,145.0748091,93
+Rosanna Primary School,http://www.rosannaps.vic.edu.au,Government,Prep-6,Primary,GRANDVIEW GROVE,ROSANNA,VIC,3084,-37.7351731,145.063295,89
+Heidelberg Primary School,http://heidelbergps.vic.edu.au,Government,Prep-6,Primary,CAPE STREET,HEIDELBERG,VIC,3084,-37.7545351,145.0674529,95
+Streeton Primary School,http://www.streetonps.vic.edu.au,Government,Prep-6,Primary,YALLAMBIE ROAD,YALLAMBIE,VIC,3085,-37.7214333,145.1017892,85
+Lower Plenty Primary School,http://www.lowerplentyps.vic.edu.au,Government,Prep-6,Primary,126-146 MAIN ROAD,LOWER PLENTY,VIC,3093,-37.727108,145.114977,89
+Watsonia Heights Primary School,http://www.watsoniaheightsps.vic.edu.au,Government,Prep-6,Primary,61 HENRY STREET,GREENSBOROUGH,VIC,3088,-37.715536,145.100012,81
+Watsonia Primary School,http://www.watsoniaps.vic.edu.au,Government,Prep-6,Primary,NELL STREET WEST,WATSONIA,VIC,3087,-37.7066643,145.0869968,79
+Bundoora Primary School,http://www.bundooraps.vic.edu.au,Government,Prep-6,Primary,BALMORAL AVENUE,BUNDOORA,VIC,3083,-37.707557,145.063369,85
+Montmorency Primary School,http://www.montmorencyps.vic.edu.au,Government,Prep-6,Primary,RATTRAY ROAD,MONTMORENCY,VIC,3094,-37.7175889,145.1215947,96
+Ivanhoe East Primary School,http://www.ivanhoeeastps.vic.edu.au/,Government,Prep-6,Primary,WARNCLIFFE ROAD,IVANHOE EAST,VIC,3079,-37.7745533,145.058944,96
+Montmorency South Primary School,http://www.montysouth.vic.edu.au,Government,Prep-6,Primary,64 BUENA VISTA DRIVE,MONTMORENCY,VIC,3094,-37.725523,145.129413,94
+Greensborough Primary School,http://www.greensborough.vic.edu.au,Government,Prep-6,Primary,130 GRIMSHAW STREET,GREENSBOROUGH,VIC,3088,-37.703506,145.099937,88
+Watsonia North Primary School,http://www.wats-north.vic.edu.au,Government,Prep-6,Primary,16 SHARPES ROAD,WATSONIA NORTH,VIC,3087,-37.701541,145.08003,87
+Ivanhoe Primary School,http://www.ivanhoeps.vic.edu.au,Government,Prep-6,Primary,122 WATERDALE ROAD,IVANHOE,VIC,3079,-37.76658,145.043147,97
+Briar Hill Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=0e8ec00c-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,GLADSTONE ROAD,BRIAR HILL,VIC,3088,-37.7081629,145.1160643,78
+Preston North East Primary School,http://www.pneps.vic.edu.au,Government,Prep-6,Primary,CNR LAUREL & TYLER STREETS,EAST PRESTON,VIC,3072,-37.7326699,145.0286712,82
+Kingsbury Primary School,http://www.kingsburyps.vic.edu.au,Government,Prep-6,Primary,1A MARYBOROUGH AVENUE,KINGSBURY,VIC,3083,-37.715801,145.037004,66
+Sherbourne Primary School,http://www.sherbps.vic.edu.au,Government,Prep-6,Primary,OUTLOOK CRESCENT,BRIAR HILL,VIC,3088,-37.709067,145.1301378,84
+Reservoir East Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=00515524-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,BOLDREWOOD PARADE,RESERVOIR,VIC,3073,-37.7202112,145.0226588,70
+Eltham Primary School,http://www.elthamps.vic.edu.au,Government,Prep-6,Primary,DALTON STREET,ELTHAM,VIC,3095,-37.7249622,145.1480831,97
+Penders Grove Primary School,http://www.pendersgroveps.vic.edu.au,Government,Prep-6,Primary,370 VICTORIA ROAD,THORNBURY,VIC,3071,-37.754705,145.014863,78
+Greenhills Primary School,http://www.greenhillsps.vic.edu.au,Government,Prep-6,Primary,MINE STREET,GREENSBOROUGH,VIC,3088,-37.6919358,145.1182435,95
+Norris Bank Primary School,http://norrisbkps.vic.edu.au,Government,Prep-6,Primary,146 SETTLEMENT ROAD,BUNDOORA,VIC,3083,-37.694206,145.042893,75
+Apollo Parkways Primary School,http://www.apolloparkps.vic.edu.au,Government,Prep-6,Primary,31-43 CIVIC DRIVE,GREENSBOROUGH,VIC,3088,-37.687355,145.109547,91
+Alphington Primary School,http://www.alphinps.vic.edu.au/index.htm,Government,Prep-6,Primary,YARRALEA STREET,ALPHINGTON,VIC,3078,-37.7835505,145.0322375,99
+Preston Primary School,http://www.preston-ps.vic.edu.au,Government,Prep-6,Primary,240 TYLER STREET,PRESTON,VIC,3072,-37.730108,145.010828,92
+Preston South Primary School,http://www.prestonsouthps.vic.edu.au,Government,Prep-6,Primary,56B HOTHAM STREET,PRESTON,VIC,3072,-37.7479,145.00793,91
+Reservoir Views Primary School,http://www.reservoirviewsps.vic.edu.au/,Government,Prep-6,Primary,110 ST VIGEONS ROAD,RESERVOIR,VIC,3073,-37.705693,145.021656,73
+Fairfield Primary School,http://www.fairfieldps.vic.edu.au,Government,Prep-6,Primary,LANGRIDGE STREET,FAIRFIELD,VIC,3078,-37.778144,145.021055,90
+Wales Street Primary School,http://www.walesstps.vic.edu.au/,Government,Prep-6,Primary,WALES STREET,THORNBURY,VIC,3071,-37.7618178,145.0082123,92
+Eltham East Primary School,http://www.elthameastps.vic.edu.au,Government,Prep-6,Primary,16 Grove St,ELTHAM,VIC,3095,-37.711767,145.155269,97
+Glen Katherine Primary School,http://www.glenkps.vic.edu.au,Government,Prep-6,Primary,CALENDONIA DRIVE,ELTHAM NORTH,VIC,3095,-37.6905883,145.1397721,87
+Eltham North Primary School,http://www.elthamnorthps.vic.edu.au,Government,Prep-6,Primary,35-47 WATTLETREE ROAD,ELTHAM NORTH,VIC,3095,-37.69971,145.150913,88
+Reservoir Primary School,http://www.reservoirps.vic.edu.au,Government,Prep-6,Primary,DUFFY STREET,RESERVOIR,VIC,3073,-37.7113804,145.0066245,81
+Mill Park Primary School,http://www.millparkps.vic.edu.au,Government,Prep-6,Primary,BLAMEY AVENUE,MILL PARK,VIC,3082,-37.674867,145.0658086,86
+Preston West Primary School,http://www.prestonwest.vic.edu.au,Government,Prep-6,Primary,383 MURRAY ROAD,PRESTON,VIC,3072,-37.738959,144.995451,99
+Thornbury Primary School,http://www.thornburyps.vic.edu.au,Government,Prep-6,Primary,HUTTON STREET,THORNBURY,VIC,3071,-37.755077,144.996833,76
+Westgarth Primary School,http://www.wgps.vic.edu.au,Government,Prep-6,Primary,45 BROOKE ST & 311 CLARKE ST,NORTHCOTE,VIC,3070,-37.77696,145.006844,95
+Plenty Parklands Primary School,http://www.plentyparklands-ps.vic.edu.au,Government,Prep-6,Primary,48 BLOSSOM PARK DRIVE,MILL PARK,VIC,3082,-37.669206,145.076561,86
+Spensley Street Primary School,http://www.ssps.vic.edu.au,Government,Prep-6,Primary,193 SPENSLEY STREET,CLIFTON HILL,VIC,3068,-37.787139,145.003954,90
+Templeton Primary School,http://www.templetonps.vic.edu.au,Government,Prep-6,Primary,CRESTDALE ROAD,WANTIRNA,VIC,3152,-37.8608513,145.2321192,99
+Kent Park Primary School,http://www.kentparkps.vic.edu.au,Government,Prep-6,Primary,GREENAWAY DRIVE,FERNTREE GULLY,VIC,3156,-37.883113,145.263258,84
+Mountain Gate Primary School,http://www.mountaingateps.vic.edu.au,Government,Prep-6,Primary,ADELE AVENUE,FERNTREE GULLY,VIC,3156,-37.8851879,145.2701243,86
+Wantirna South Primary School,http://www.wantirnasouthps.vic.edu.au,Government,Prep-6,Primary,16 TYNER ROAD,WANTIRNA SOUTH,VIC,3152,-37.871811,145.236386,84
+Knox Park Primary School,http://www.knoxparkps.vic.edu.au,Government,Prep-6,Primary,KATHRYN ROAD,KNOXFIELD,VIC,3180,-37.8834526,145.2519805,92
+Wantirna Primary School,http://www.wantirnaprimary.vic.edu.au,Government,Prep-6,Primary,120 MOUNTAIN HIGHWAY,WANTIRNA,VIC,3152,-37.856372,145.216926,93
+Carrington Primary School,http://www.carringtonps.vic.edu.au,Government,Prep-6,Primary,LAURA ROAD,KNOXFIELD,VIC,3180,-37.8917468,145.2464676,66
+Knox Gardens Primary School,http://www.kgps.vic.edu.au,Government,Prep-6,Primary,ARGYLE WAY,WANTIRNA SOUTH,VIC,3152,-37.882417,145.228671,95
+Karoo Primary School,http://www.karoops.vic.edu.au,Government,Prep-6,Primary,KAROO ROAD,ROWVILLE,VIC,3178,-37.906087,145.263655,95
+Scoresby Primary School,http://www.scoresbyps.vic.edu.au,Government,Prep-6,Primary,11 INGRID STREET,SCORESBY,VIC,3179,-37.894374,145.227667,77
+Upwey Primary School,http://www.upweyps.vic.edu.au/,Government,Prep-6,Primary,15 DARLING AVENUE,UPWEY,VIC,3158,-37.902734,145.333134,95
+Lysterfield Primary School,http://www.lysterps.vic.edu.au,Government,Prep-6,Primary,BELLFIELD DRIVE,LYSTERFIELD,VIC,3156,-37.9120433,145.2758566,95
+Upwey South Primary School,http://www.upweysthps.vic.edu.au/,Government,Prep-6,Primary,91 MORRIS ROAD,UPWEY,VIC,3158,-37.913215,145.325748,80
+Camelot Rise Primary School,http://www.camelotrise.vic.edu.au/,Government,Prep-6,Primary,GALAHAD CRESCENT,GLEN WAVERLEY,VIC,3150,-37.865688,145.1882972,99
+Park Ridge Primary School,http://www.parkridge-ps.vic.edu.au,Government,Prep-6,Primary,WENTWORTH AVENUE,ROWVILLE,VIC,3178,-37.9183297,145.2629263,88
+Tecoma Primary School,http://www.tecomaps.vic.edu.au,Government,Prep-6,Primary,1536 BURWOOD HIGHWAY,TECOMA,VIC,3160,-37.907798,145.344841,86
+Brighton Primary School,http://www.brighton.vic.edu.au,Government,Prep-6,Primary,59 WILSON STREET,BRIGHTON,VIC,3186,-37.911602,145.001564,94
+Brighton Beach Primary School,http://www.brightonbeachps.vic.edu.au,Government,Prep-6,Primary,19 WINDERMERE CRESCENT,BRIGHTON,VIC,3186,-37.922103,144.996314,93
+Gardenvale Primary School,http://www.gardenvale.ps.vic.edu.au,Government,Prep-6,Primary,66 LANDCOX STREET,BRIGHTON EAST,VIC,3187,-37.902619,145.015919,97
+Hampton Primary School,http://www.hamptonps.vic.edu.au,Government,Prep-6,Primary,528 HAMPTON STREET,HAMPTON,VIC,3188,-37.933701,145.004373,99
+Bentleigh West Primary School,http://www.bwps.net.au,Government,Prep-6,Primary,23 BREWER ROAD,BENTLEIGH,VIC,3204,-37.919883,145.026559,93
+Ormond Primary School,http://www.ormondps.vic.edu.au,Government,Prep-6,Primary,CNR MURRAY & WHEATLEY ROADS,ORMOND,VIC,3204,-37.906786,145.033911,93
+Sandringham Primary School,http://www.sandyps.vic.edu.au,Government,Prep-6,Primary,29A BAMFIELD STREET,SANDRINGHAM,VIC,3191,-37.947644,145.008013,95
+Mckinnon Primary School,http://www.mckinnon-primary.vic.edu.au,Government,Prep-6,Primary,253 TUCKER ROAD,ORMOND,VIC,3204,-37.909359,145.052489,97
+Moorabbin Primary School,http://www.moorabbin.vic.edu.au,Government,Prep-6,Primary,WORTHING ROAD,MOORABBIN,VIC,3189,-37.9429779,145.0397099,86
+Tucker Road Bentleigh Primary School,http://www.tucker-road.vic.edu.au,Government,Prep-6,Primary,16 TUCKER ROAD,BENTLEIGH,VIC,3204,-37.932512,145.050378,91
+Valkstone Primary School,http://www.valkstoneps.vic.edu.au/,Government,Prep-6,Primary,VALKSTONE STREET,BENTLEIGH EAST,VIC,3165,-37.9150271,145.0577394,93
+Carnegie Primary School,http://www.carnegieps.vic.edu.au,Government,Prep-6,Primary,51 TRUGANINI ROAD,CARNEGIE,VIC,3163,-37.890152,145.054983,98
+Sandringham East Primary School,http://www.sandringhameastps.vic.edu.au,Government,Prep-6,Primary,HOLLOWAY ROAD,SANDRINGHAM,VIC,3191,-37.9566329,145.0226735,94
+Southmoor Primary School,http://www.southmoor.vic.edu.au,Government,Prep-6,Primary,RICA STREET,MOORABBIN,VIC,3189,-37.9421349,145.0557587,98
+Coatesville Primary School,http://www.coatesps.vic.edu.au,Government,Prep-6,Primary,21 MACKIE ROAD,BENTLEIGH EAST,VIC,3165,-37.920342,145.073034,94
+Murrumbeena Primary School,http://www.murrumbeenaps.vic.edu.au,Government,Prep-6,Primary,HOBART ROAD,MURRUMBEENA,VIC,3163,-37.886489,145.070246,97
+Black Rock Primary School,http://www.blackrockps.vic.edu.au,Government,Prep-6,Primary,ARKARINGA CRESCENT,BLACK ROCK,VIC,3193,-37.9687594,145.02198,96
+East Bentleigh Primary School,http://www.eastbentleighps.vic.edu.au,Government,Prep-6,Primary,BIGNELL ROAD,EAST BENTLEIGH,VIC,3165,-37.9345719,145.0702251,78
+Hughesdale Primary School,http://www.hughesdaleps.vic.edu.au,Government,Prep-6,Primary,BRINE STREET,HUGHESDALE,VIC,3166,-37.9057032,145.0780384,96
+Beaumaris North Primary School,http://www.beaumarisnorthps.vic.edu.au,Government,Prep-6,Primary,WOOD STREET,BEAUMARIS,VIC,3193,-37.9739813,145.0369787,92
+Malvern Valley Primary School,http://www.mvps.vic.edu.au,Government,Prep-6,Primary,ABBOTSFORD AVENUE,MALVERN EAST,VIC,3145,-37.880607,145.081605,86
+Oakleigh Primary School,http://www.oakleighps.vic.edu.au,Government,Prep-6,Primary,20 WARRIGAL ROAD,OAKLEIGH,VIC,3166,-37.894914,145.088777,98
+Research Primary School,http://www.researchps.vic.edu.au,Government,Prep-6,Primary,1570 MAIN ROAD,RESEARCH,VIC,3095,-37.702814,145.183125,93
+Wattle Glen Primary School,http://www.wattlegps.vic.edu.au/,Government,Prep-6,Primary,16-24 REYNOLDS ROAD,WATTLE GLEN,VIC,3096,-37.668687,145.182505,69
+Diamond Creek East Primary School,http://www.dceps.vic.edu.au,Government,Prep-6,Primary,129-163 MAIN HURSTBRIDGE ROAD,DIAMOND CREEK,VIC,3089,-37.673504,145.165564,89
+Panton Hill Primary School,http://www.pantonhill.vic.edu.au,Government,Prep-6,Primary,585 KANGAROO GRD-ST ANDREWS RD,PANTON HILL,VIC,3759,-37.6416629,145.239716,92
+Glen Waverley Primary School,http://www.glenps.vic.edu.au,Government,Prep-6,Primary,774 HIGH STREET ROAD,GLEN WAVERLEY,VIC,3150,-37.875204,145.168647,99
+Mount View Primary School,http://www.mountviewps.vic.edu.au,Government,Prep-6,Primary,SHEPHERD ROAD,GLEN WAVERLEY,VIC,3150,-37.8844215,145.1789148,99
+Pinewood Primary School,http://www.pinewood-ps.vic.edu.au,Government,Prep-6,Primary,27-35 PINEWOOD DRIVE,MOUNT WAVERLEY,VIC,3149,-37.891002,145.142011,99
+Wheelers Hill Primary School,http://www.wheelershillps.vic.edu.au,Government,Prep-6,Primary,134-148 WHITES LANE,WHEELERS HILL,VIC,3150,-37.900966,145.177908,98
+Brandon Park Primary School,http://www.bpps.vic.edu.au,Government,Prep-6,Primary,1-5 NINEVAH CRESCENT,WHEELERS HILL,VIC,3150,-37.913344,145.172858,98
+Waverley Meadows Primary School,http://www.waverleymeadowsps.vic.edu.au,Government,Prep-6,Primary,11 COLUMBIA DRIVE,WHEELERS HILL,VIC,3150,-37.914386,145.183459,94
+Sussex Heights Primary School,http://www.sussexheightsps.vic.edu.au,Government,Prep-6,Primary,36 SOLOMON STREET,MOUNT WAVERLEY,VIC,3149,-37.888596,145.109647,69
+Clayton North Primary School,http://www.claytonnorthps.vic.edu.au,Government,Prep-6,Primary,1714 DANDENONG ROAD,CLAYTON,VIC,3168,-37.912781,145.122755,84
+Albany Rise Primary School,http://www.albanyrise-ps.vic.edu.au,Government,Prep-6,Primary,ALBANY DRIVE,MULGRAVE,VIC,3170,-37.9282525,145.1724407,86
+Amsleigh Park Primary School,http://www.amsleighpark.com,Government,Prep-6,Primary,17 STATE STREET,OAKLEIGH EAST,VIC,3166,-37.900154,145.108115,83
+Huntingdale Primary School,http://www.huntingdaleps.vic.edu.au,Government,Prep-6,Primary,GRANGE STREET,OAKLEIGH SOUTH,VIC,3167,-37.913087,145.102299,90
+Mulgrave Primary School,http://www.mulgraveps.vic.edu.au,Government,Prep-6,Primary,GLADESWOOD DRIVE,MULGRAVE,VIC,3170,-37.9332851,145.1987157,87
+Westall Primary School,http://www.westallps.vic.edu.au,Government,Prep-6,Primary,FAIRBANK ROAD,CLAYTON SOUTH,VIC,3169,-37.9424757,145.1361161,65
+Clarinda Primary School,http://www.clarindaps.vic.edu.au,Government,Prep-6,Primary,1166 CENTRE ROAD,CLARINDA,VIC,3169,-37.926973,145.102347,88
+Oakleigh South Primary School,http://www.oakleighsouthps.vic.edu.au,Government,Prep-6,Primary,RILEY STREET,OAKLEIGH SOUTH,VIC,3167,-37.9234189,145.0954753,99
+Clayton South Primary School,http://www.claytonsouthps.vic.edu.au,Government,Prep-6,Primary,539 CLAYTON ROAD,CLAYTON SOUTH,VIC,3169,-37.940523,145.115497,83
+Silverton Primary School,http://www.silverton-ps.vic.edu.au,Government,Prep-6,Primary,77-123 JACKSONS ROAD,NOBLE PARK NORTH,VIC,3174,-37.948653,145.192874,81
+Rowville Primary School,http://www.rowvilleps.vic.edu.au,Government,Prep-6,Primary,PARATEA DRIVE,ROWVILLE,VIC,3178,-37.9225641,145.2378255,88
+Clifton Hill Primary School,http://www.cliftonhillps.vic.edu.au,Government,Prep-6,Primary,185 GOLD ST,CLIFTON HILL,VIC,3068,-37.792509,144.989352,96
+Mentone Park Primary School,http://www.mentonepark.vic.edu.au,Government,Prep-6,Primary,BROOME AVENUE,MENTONE,VIC,3194,-37.9798494,145.0819247,83
+Mentone Primary School,http://www.mentoneps.vic.edu.au,Government,Prep-6,Primary,6 CHILDERS STREET,MENTONE,VIC,3194,-37.983299,145.067837,95
+Spring Parks Primary School,http://springparksps.vic.edu.au/,Government,Prep-6,Primary,24 ERICA STREET,SPRINGVALE,VIC,3171,-37.959044,145.140322,83
+Beaumaris Primary School,http://www.beaups.vic.edu.au/,Government,Prep-6,Primary,79-99 DALGETTY ROAD,BEAUMARIS,VIC,3193,-37.985235,145.036641,94
+Wallarano Primary School,http://www.wallarano-ps.vic.edu.au,Government,Prep-6,Primary,38-64 WALLARANO DRIVE,NOBLE PARK,VIC,3174,-37.979994,145.170493,77
+Heatherhill Primary School,http://www.heatherhillps.vic.edu.au,Government,Prep-6,Primary,959 HEATHERTON ROAD,SPRINGVALE,VIC,3171,-37.962385,145.158995,74
+Chandler Park Primary School,http://www.chandlerparkps.vic.edu.au,Government,Prep-6,Primary,COCHRANE AVENUE,KEYSBOROUGH,VIC,3173,-37.9918921,145.1803213,78
+Noble Park Primary School,http://www.nobleparkps.vic.edu.au,Government,Prep-6,Primary,65 BUCKLEY STREET,NOBLE PARK,VIC,3174,-37.970918,145.174533,66
+Harrisfield Primary School,http://www.harrisfield.ps.vic.edu.au,Government,Prep-6,Primary,495 PRINCES HWY,NOBLE PARK,VIC,3174,-37.95475,145.178687,88
+Yarraman Oaks Primary School,http://www.yarramanoaksps.vic.edu.au/,Government,Prep-6,Primary,27 LIEGE AVENUE,NOBLE PARK,VIC,3174,-37.970582,145.192536,70
+Dandenong South Primary School,http://www.dandenong-south-ps.vic.edu.au,Government,Prep-6,Primary,52 KIRKHAM ROAD,DANDENONG,VIC,3175,-37.99797,145.211942,65
+Lyndale Greens Primary School,,Government,Prep-6,Primary,1 - 19 OAKWOOD AVENUE,DANDENONG NORTH,VIC,3175,-37.964678,145.204714,87
+Dandenong North Primary School,http://www.dandenongnorthps.vic.edu.au,Government,Prep-6,Primary,117-125 CLEELAND STREET,DANDENONG,VIC,3175,-37.976353,145.214621,90
+Dandenong Primary School,http://www.dandenongps.vic.edu.au,Government,Prep-6,Primary,174-182 FOSTER STREET,DANDENONG,VIC,3175,-37.988029,145.220929,65
+Wooranna Park Primary School,http://www.woorannaparkps.vic.edu.au,Government,Prep-6,Primary,89-105 CARLTON ROAD,DANDENONG,VIC,3175,-37.95974,145.217054,69
+Port Melbourne Primary School,http://www.portmelb.vic.edu.au,Government,Prep-6,Primary,415 GRAHAM STREET,PORT MELBOURNE,VIC,3207,-37.835594,144.932963,90
+Williamstown Primary School,http://www.williamstownps.vic.edu.au,Government,Prep-6,Primary,CECIL STREET,WILLIAMSTOWN,VIC,3016,-37.8642073,144.8999571,90
+Carlton Gardens Primary School,http://www.carltongardens.vic.edu.au,Government,Prep-6,Primary,215 RATHDOWNE STREET,CARLTON,VIC,3053,-37.801958,144.969283,97
+Williamstown North Primary School,http://www.willynthps.vic.edu.au,Government,Prep-6,Primary,133 MELBOURNE ROAD,WILLIAMSTOWN,VIC,3016,-37.856076,144.891405,96
+Carlton Primary School,http://www.carltonprimaryschool.vic.edu.au/,Government,Prep-6,Primary,CNR PALMERSTON & DRUMMOND STS,CARLTON,VIC,3053,-37.795831,144.969267,74
+Carlton North Primary School,http://www.carltonnthps.vic.edu.au,Government,Prep-6,Primary,60 LEE STREET,CARLTON NORTH,VIC,3054,-37.791355,144.973182,93
+Spotswood Primary School,http://www.spotswoodps.vic.edu.au,Government,Prep-6,Primary,MELBOURNE ROAD,SPOTSWOOD,VIC,3015,-37.8306888,144.8828069,73
+Kensington Primary School,http://www.kensingtonps.vic.edu.au,Government,Prep-6,Primary,MCCRACKEN STREET,KENSINGTON,VIC,3031,-37.7926753,144.9270124,92
+Newport Lakes Primary School,http://www.newportlakesps.vic.edu.au,Government,Prep-6,Primary,ELIZABETH STREET,NEWPORT,VIC,3015,-37.83816789,144.8782386,97
+Footscray City Primary School,http://www.fcps.vic.edu.au,Government,Prep-6,Primary,10 HYDE STREET,FOOTSCRAY,VIC,3011,-37.806008,144.899408,81
+Fitzroy North Primary School,http://www.fitzroynthps.vic.edu.au,Government,Prep-6,Primary,FERGIE STREET,FITZROY NORTH,VIC,3068,-37.785165,144.983997,91
+Princes Hill Primary School,http://www.phps.vic.edu.au,Government,Prep-6,Primary,280 PIGDON STREET,CARLTON NORTH,VIC,3054,-37.781831,144.970584,86
+Merri Creek Primary School,http://www.merricreekps.vic.edu.au/,Government,Prep-6,Primary,MILLER STREET,FITZROY NORTH,VIC,3068,-37.77679889,144.9837581,96
+Brunswick South Primary School,http://www.brunswicksouthps.vic.edu.au,Government,Prep-6,Primary,56 BRUNSWICK ROAD,BRUNSWICK EAST,VIC,3057,-37.778873,144.972468,94
+Northcote Primary School,http://www.northcoteps.vic.edu.au,Government,Prep-6,Primary,33 HELEN STREET,NORTHCOTE,VIC,3070,-37.771781,144.996436,95
+Brunswick East Primary School,http://www.beps.vic.edu.au,Government,Prep-6,Primary,195A STEWART STREET,BRUNSWICK EAST,VIC,3057,-37.764932,144.979582,89
+Flemington Primary School,http://www.flemingtonps.vic.edu.au,Government,Prep-6,Primary,MT ALEXANDER ROAD,FLEMINGTON,VIC,3031,-37.7858783,144.9349767,89
+Brunswick South West Primary School,http://www.brunswicksw-ps.vic.edu.au/html/index.html,Government,Prep-6,Primary,SOUTH DALY STREET,BRUNSWICK WEST,VIC,3055,-37.7708097,144.9436269,94
+Brunswick North Primary School,http://www.brunswicknorthps.vic.edu.au,Government,Prep-6,Primary,PEARSON STREET,BRUNSWICK WEST,VIC,3055,-37.759815,144.9510641,92
+Ascot Vale Primary School,http://www.avps.vic.edu.au,Government,Prep-6,Primary,BANK STREET,ASCOT VALE,VIC,3032,-37.7747176,144.9261113,77
+Moreland Primary School,http://www.morelandps.vic.edu.au,Government,Prep-6,Primary,157-163 MORELAND ROAD,COBURG,VIC,3058,-37.755321,144.966893,79
+Moonee Ponds Primary School,http://www.mpp.vic.edu.au,Government,Prep-6,Primary,WILSON STREET,MOONEE PONDS,VIC,3039,-37.763088,144.9337059,95
+Brunswick North West Primary School,http://www.brunswicknwps.vic.edu.au,Government,Prep-6,Primary,CULLODEN STREET,BRUNSWICK WEST,VIC,3055,-37.7566117,144.9436043,90
+Ascot Vale West Primary School,http://www.avwps.vic.edu.au,Government,Prep-6,Primary,LANGS RD,ASCOT VALE,VIC,3032,-37.7799948,144.9105572,67
+Bell Primary School,http://www.bellps.vic.edu.au,Government,Prep-6,Primary,78A OAKOVER ROAD,PRESTON,VIC,3072,-37.747547,144.990482,92
+Coburg West Primary School,http://www.cobw.vic.edu.au/,Government,Prep-6,Primary,REYNARD STREET,COBURG,VIC,3058,-37.747712,144.947596,93
+Moonee Ponds West Primary School,http://www.mooneewestps.vic.edu.au,Government,Prep-6,Primary,150 ATHOL STREET,MOONEE PONDS,VIC,3039,-37.768585,144.909007,86
+Coburg Primary School,http://www.coburgps.vic.edu.au/,Government,Prep-6,Primary,98 BELL STREET,COBURG,VIC,3058,-37.741035,144.966051,75
+Pascoe Vale South Primary School,http://www.pvsps.vic.edu.au,Government,Prep-6,Primary,411 - 429 REYNARD STREET,PASCOE VALE SOUTH,VIC,3044,-37.746242,144.935565,90
+Essendon Primary School,http://www.essendonps.vic.edu.au,Government,Prep-6,Primary,38 RALEIGH STREET,ESSENDON,VIC,3040,-37.7527,144.921369,92
+Hampton Park Primary School,http://www.hpps.vic.edu.au,Government,Prep-6,Primary,SOMERVILLE ROAD,HAMPTON PARK,VIC,3976,-38.0309068,145.2528398,67
+Coburg North Primary School,http://www.coburg-north-ps.vic.edu.au,Government,Prep-6,Primary,180 O'HEA STREET,COBURG,VIC,3058,-37.736204,144.951469,94
+Pascoe Vale Primary School,http://www.pvps.vic.edu.au/,Government,Prep-6,Primary,362 GAFFNEY STREET,PASCOE VALE,VIC,3044,-37.731041,144.936958,84
+Pascoe Vale North Primary School,http://www.pvnps.vic.edu.au,Government,Prep-6,Primary,KENT ROAD,PASCOE VALE,VIC,3044,-37.7308033,144.9375345,80
+Newlands Primary School,http://www.newlandsps.vic.edu.au/,Government,Prep-6,Primary,2-26 MURPHY STREET,PRESTON,VIC,3072,-37.729846,144.985444,99
+Strathmore Primary School,http://www.strathmoreps.vic.edu.au,Government,Prep-6,Primary,LLOYD STREET,STRATHMORE,VIC,3041,-37.735098,144.9168892,84
+Essendon North Primary School,http://www.enps.vic.edu.au/,Government,Prep-6,Primary,112 KEILOR ROAD,ESSENDON NORTH,VIC,3041,-37.740581,144.903464,91
+Reservoir West Primary School,http://www.rwps.vic.edu.au,Government,Prep-6,Primary,CARRINGTON ROAD,RESERVOIR,VIC,3073,-37.7218324,144.9896273,78
+Aberfeldie Primary School,http://www.aberfeldieps.vic.edu.au/home/,Government,Prep-6,Primary,1 DOONE STREET,ESSENDON,VIC,3040,-37.756554,144.89441,90
+Fawkner Primary School,http://www.fawknerps.vic.edu.au,Government,Prep-6,Primary,LORNE STREET,FAWKNER,VIC,3060,-37.7153645,144.9742008,80
+Strathmore North Primary School,http://www.snps.vic.edu.au/,Government,Prep-6,Primary,MASCOMA STREET,STRATHMORE,VIC,3041,-37.7247366,144.9165236,95
+Westbreen Primary School,http://www.westbreenps.vic.edu.au,Government,Prep-6,Primary,2-10 PASCOE STREET,PASCOE VALE,VIC,3044,-37.715667,144.935852,67
+Oak Park Primary School,http://www.oakparkps.vic.edu.au,Government,Prep-6,Primary,WILLETT AVENUE,OAK PARK,VIC,3046,-37.7162586,144.9148017,85
+Footscray North Primary School,http://www.footsnth.vic.edu.au/,Government,Prep-6,Primary,14 ROSAMOND ROAD,FOOTSCRAY,VIC,3011,-37.787839,144.885472,82
+Footscray Primary School,http://www.footscrayps.vic.edu.au/,Government,Prep-6,Primary,CNR GEELONG ROAD & BARKLY ST,FOOTSCRAY,VIC,3011,-37.7989873,144.8931844,78
+Footscray West Primary School,http://www.fwps.vic.edu.au/,Government,Prep-6,Primary,ARGYLE STREET,WEST FOOTSCRAY,VIC,3012,-37.794914,144.876049,86
+Niddrie Primary School,http://www.niddrieps.vic.edu.au,Government,Prep-6,Primary,25 WATT STREET,NIDDRIE,VIC,3042,-37.730362,144.876605,82
+Yarraville West Primary School,http://www.ywps.vic.edu.au,Government,Prep-6,Primary,30 POWELL STREET,YARRAVILLE,VIC,3013,-37.814916,144.885098,96
+Keilor Heights Primary School,http://www.kheights.vic.edu.au/,Government,Prep-6,Primary,RONALD GROVE,KEILOR EAST,VIC,3033,-37.7371061,144.8666286,90
+Dinjerra Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=8d92c00c-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,44 SOUTH ROAD,BRAYBROOK,VIC,3019,-37.790925,144.856674,67
+Kingsville Primary School,http://www.kingsvilleps.vic.edu.au,Government,Prep-6,Primary,58 BISHOP STREET,YARRAVILLE,VIC,3013,-37.812488,144.874065,92
+Red Hill Consolidated School,http://www.redhillcs.vic.edu.au/,Government,Prep-6,Primary,341 ARTHURS SEAT ROAD,RED HILL,VIC,3937,-38.367094,144.996333,88
+Balnarring Primary School,http://www.balnarringps.vic.edu.au,Government,Prep-6,Primary,1 CIVIC COURT,BALNARRING,VIC,3926,-38.374698,145.126146,82
+Boneo Primary School,http://boneops.com.au/,Government,Prep-6,Primary,582 BONEO ROAD,BONEO,VIC,3939,-38.411958,144.886816,76
+Dromana Primary School,http://www.dromanaps.vic.edu.au,Government,Prep-6,Primary,MCCULLOCH STREET,DROMANA,VIC,3936,-38.3385406,144.9606425,84
+Rosebud Primary School,http://www.rosebudps.vic.edu.au/,Government,Prep-6,Primary,POINT NEPEAN ROAD,ROSEBUD,VIC,3939,-38.3553164,144.9086759,70
+Eastbourne Primary School,http://www.eastbourne.vic.edu.au,Government,Prep-6,Primary,ALLAMBI AVENUE,ROSEBUD,VIC,3939,-38.3741751,144.883829,69
+Tootgarook Primary School,http://www.tootps.vic.edu.au,Government,Prep-6,Primary,CARMICHAEL STREET,TOOTGAROOK,VIC,3941,-38.3694999,144.8576841,68
+Crib Point Primary School,http://www.cpps.vic.edu.au/,Government,Prep-6,Primary,70 MILNE STREET,CRIB POINT,VIC,3919,-38.360151,145.201422,75
+Tooradin Primary School,http://www.tooradin.vic.edu.au,Government,Prep-6,Primary,BAYVIEW ROAD,TOORADIN,VIC,3980,-38.207465,145.378755,81
+Glenroy Central Primary School,http://www.glenroycentralps.vic.edu.au,Government,Prep-6,Primary,10 LOGAN STREET,GLENROY,VIC,3046,-37.704898,144.925283,85
+Diamond Creek Primary School,http://www.diamondcreekps.vic.edu.au,Government,Prep-6,Primary,17 CLYDE STREET,DIAMOND CREEK,VIC,3089,-37.671217,145.150786,80
+Yarrambat Primary School,http://www.yarrambatps.vic.edu.au,Government,Prep-6,Primary,552 YAN YEAN ROAD,YARRAMBAT,VIC,3091,-37.640917,145.133216,80
+Hurstbridge Primary School,http://www.hbridgeps.vic.edu.au,Government,Prep-6,Primary,MAIN ROAD,HURSTBRIDGE,VIC,3099,-37.6361664,145.1989063,82
+Morang South Primary School,http://www.morangsouthps.vic.edu.au,Government,Prep-6,Primary,77 GORGE ROAD,SOUTH MORANG,VIC,3752,-37.653081,145.095003,76
+Doreen Primary School,http://www.doreenps.vic.edu.au,Government,Prep-6,Primary,DOCTORS GULLY ROAD,DOREEN,VIC,3754,-37.606103,145.146234,93
+Findon Primary School,http://www.findonps.vic.edu.au,Government,Prep-6,Primary,CUTHBERT DRIVE,MILL PARK,VIC,3082,-37.6664918,145.0500024,79
+Mill Park Heights Primary School,http://www.millparkhtsps.vic.edu.au,Government,Prep-6,Primary,PINDARI AVENUE,MILL PARK,VIC,3082,-37.65531767,145.0512222,82
+Meadowglen Primary School,http://www.meadowglenps.vic.edu.au,Government,Prep-6,Primary,22-48 MEADOW GLEN DRIVE,EPPING,VIC,3076,-37.643314,145.053562,75
+Laurimar Primary School,http://www.laurimarps.vic.edu.au,Government,Prep-6,Primary,ARMIDALE ROAD,DOREEN,VIC,3754,-37.5858234,145.1269483,78
+Arthurs Creek Primary School,http://acps.vic.edu.au/,Government,Prep-6,Primary,900 ARTHURS CREEK ROAD,ARTHURS CREEK,VIC,3099,-37.578921,145.202585,87
+Lalor East Primary School,http://www.laloreastps.vic.edu.au/,Government,Prep-6,Primary,39 CLEVELAND STREET,THOMASTOWN,VIC,3074,-37.676077,145.0351,68
+St Andrews Primary School,http://www.standrewsps.vic.edu.au,Government,Prep-6,Primary,CALEDONIA STREET,ST ANDREWS,VIC,3761,-37.60415573,145.2622649,96
+Lalor North Primary School,http://www.lalornorthps.vic.edu.au,Government,Prep-6,Primary,2 DERNA CRESCENT,LALOR,VIC,3075,-37.663808,145.029228,77
+Lalor Primary School,http://www.lalornorthps.vic.edu.au/,Government,Prep-6,Primary,26 MAXWELL STREET,LALOR,VIC,3075,-37.670311,145.025981,65
+Thomastown East Primary School,http://www.thomastown-east-ps.vic.edu.au,Government,Prep-6,Primary,82 CEDAR STREET,THOMASTOWN,VIC,3074,-37.679784,145.024961,96
+Epping Primary School,http://www.eppingps.vic.edu.au,Government,Prep-6,Primary,805 HIGH STREET,EPPING,VIC,3076,-37.645311,145.026199,67
+Rosewood Downs Primary School,http://www.rosewooddownsps.vic.edu.au/,Government,Prep-6,Primary,MURRAY ROAD,DANDENONG NORTH,VIC,3175,-37.9443195,145.2139671,80
+Heany Park Primary School,http://www.heanyparkps.vic.edu.au,Government,Prep-6,Primary,BUCKINGHAM DRIVE,ROWVILLE,VIC,3178,-37.9335,145.2423478,87
+Glenroy West Primary School,http://www.glenroywestps.vic.edu.au,Government,Prep-6,Primary,YORK STREET,GLENROY,VIC,3046,-37.7049789,144.909741,78
+Meadows Primary School,,Government,Prep-6,Primary,41 GERBERT STREET,BROADMEADOWS,VIC,3047,-37.688108,144.929191,63
+Gladstone Views Primary School,http://www.gvps.vic.edu.au,Government,Prep-6,Primary,195 - 227 CARRICK DRIVE,GLADSTONE PARK,VIC,3043,-37.688834,144.897617,78
+Broadmeadows Valley Primary School,http://www.bvps.vic.edu.au/,Government,Prep-6,Primary,12-28 JOHNSTONE STREET,BROADMEADOWS,VIC,3047,-37.681114,144.904906,65
+Broadmeadows Primary School,http://www.bps.vic.edu.au,Government,Prep-6,Primary,62-70 BLAIR STREET,BROADMEADOWS,VIC,3047,-37.679817,144.93018,87
+Gladstone Park Primary School,http://www.gladstoneparkps.vic.edu.au,Government,Prep-6,Primary,15 - 25 SOUTH CIRCULAR ROAD,GLADSTONE PARK,VIC,3043,-37.687892,144.887568,77
+Belle Vue Park Primary School,http://www.bellevueparkps.vic.edu.au,Government,Prep-6,Primary,MORELL STREET,GLENROY,VIC,3046,-37.70111999,144.94405,64
+Westmeadows Primary School,http://www.westmeadows.vic.edu.au,Government,Prep-6,Primary,34-46 RIDDELL STREET,WESTMEADOWS,VIC,3049,-37.676459,144.895655,77
+Tullamarine Primary School,http://www.tullaps.vic.edu.au/,Government,Prep-6,Primary,BROADMEADOWS ROAD,TULLAMARINE,VIC,3043,-37.7038352,144.8793997,85
+Dallas Brooks Community Primary School,http://Www.dallasps.vic.edu.au,Government,Prep-6,Primary,36 KING STREET,DALLAS,VIC,3047,-37.670312,144.943305,64
+Bethal Primary School,http://www.bethalps.vic.edu.au,Government,Prep-6,Primary,26-52 ELDORADO CRESCENT,MEADOW HEIGHTS,VIC,3048,-37.659751,144.918371,65
+Coolaroo South Primary School,http://www.coolaroosouthps.vic.edu.au/,Government,Prep-6,Primary,52-72 BUSHFIELD CRESCENT,COOLAROO,VIC,3048,-37.661523,144.930414,64
+Moomba Park Primary School,http://www.moombaparkps.vic.edu.au/,Government,Prep-6,Primary,111 ANDERSON ROAD,FAWKNER,VIC,3060,-37.697032,144.966461,69
+Campbellfield Heights Primary School,http://chps5034.vic.edu.au,Government,Prep-6,Primary,1-13 LAUREL CRESCENT,CAMPBELLFIELD,VIC,3061,-37.674462,144.961701,65
+Meadow Heights Primary School,http://www.meadowheightsps.vic.edu.au,Government,Prep-6,Primary,PARINGA BOULEVARD,MEADOW HEIGHTS,VIC,3048,-37.6502715,144.9238658,64
+Greenvale Primary School,http://www.greenvaleps.vic.edu.au,Government,Prep-6,Primary,12-24 BRADFORD AVENUE,GREENVALE,VIC,3059,-37.640335,144.886999,78
+Roxburgh Homestead Primary School,http://www.roxhomesteadps.vic.edu.au,Government,Prep-6,Primary,MCPHERSON BOULEVARD,ROXBURGH PARK,VIC,3064,-37.6341585,144.9157059,76
+Thomastown Meadows Primary School,http://www.thomastownmeadows.vic.edu.au,Government,Prep-6,Primary,13-21 DIPLOMAT DRIVE,THOMASTOWN,VIC,3074,-37.682537,144.992673,73
+Keilor Primary School,http://www.keilorprimary.vic.edu.au,Government,Prep-6,Primary,25 KENNEDY STREET,KEILOR,VIC,3036,-37.71707,144.835891,91
+Roxburgh Park Primary School,http://roxburghparkps.vic.edu.au,Government,Prep-6,Primary,7-21 ALMANDS AVENUE,ROXBURGH PARK,VIC,3064,-37.632735,144.93015,73
+Thomastown West Primary School,http://www.thomwestps.vic.edu.au,Government,Prep-6,Primary,98-112 MAIN STREET,THOMASTOWN,VIC,3074,-37.677962,145.002139,67
+Thomastown Primary School,http://www.thomastownps.vic.edu.au,Government,Prep-6,Primary,6 SPRING STREET,THOMASTOWN,VIC,3074,-37.68246,145.010909,68
+Roxburgh Rise Primary School,http://www.roxburghrise-ps.vic.edu.au/,Government,Prep-6,Primary,CNR LOCKWOOD DR & BLUEBIRD WAY,ROXBURGH PARK,VIC,3064,-37.6158037,144.9228644,66
+River Gum Primary School,http://www.rivergumps.vic.edu.au,Government,Prep-6,Primary,63 FORDHOLM ROAD,HAMPTON PARK,VIC,3976,-38.033925,145.260986,64
+Coral Park Primary School,http://www.coralparkps.vic.edu.au/,Government,Prep-6,Primary,145 CORAL DRIVE,HAMPTON PARK,VIC,3976,-38.043193,145.27472,73
+Kilberry Valley Primary School,http://www.kilberryps.vic.edu.au,Government,Prep-6,Primary,KILBERRY BOULEVARD,HAMPTON PARK,VIC,3976,-38.0337033,145.2785388,74
+Hillsmeade Primary School,http://hillsmeade.vic.edu.au,Government,Prep-6,Primary,82S THE PROMENADE,NARRE WARREN SOUTH,VIC,3805,-38.065079,145.308909,73
+Hallam Primary School,http://www.hallam-ps.vic.edu.au,Government,Prep-6,Primary,24 HARMER ROAD,HALLAM,VIC,3803,-38.000991,145.259308,82
+Alamanda K-9 College,,Government,Prep-6,Combined,86-100 ALAMANDA BOULEVARD,POINT COOK,VIC,3030,-37.910036,144.741264,93
+Newport Gardens Primary School,http://www.newportgardensps.vic.edu.au,Government,Prep-6,Primary,CNR WOODS ST & MADDOX RD,NEWPORT,VIC,3015,-37.8444725,144.8690769,84
+Seaholme Primary School,http://www.seaholmeps.vic.edu.au,Government,Prep-6,Primary,CNR MILLERS RD & CIVIC PARADE,SEAHOLME,VIC,3018,-37.8646752,144.8403946,90
+Altona North Primary School,http://www.altonanorthps.vic.edu.au,Government,Prep-6,Primary,51 CRESSER STREET,ALTONA NORTH,VIC,3025,-37.83773,144.849228,67
+Wembley Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=285a5524-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,32 ST LEONARDS AVE,YARRAVILLE,VIC,3013,-37.820769,144.875061,97
+Altona Primary School,http://www.altonaps.vic.edu.au,Government,Prep-6,Primary,109 BLYTH STREET,ALTONA,VIC,3018,-37.867236,144.822356,95
+Sunshine Primary School,http://www.sunshineps.vic.edu.au,Government,Prep-6,Primary,CNR HAMPSHIRE & DERBY ROADS,SUNSHINE,VIC,3020,-37.7907161,144.8309465,68
+Altona Meadows Primary School,http://www.amps.vic.edu.au,Government,Prep-6,Primary,78-88 ALMA AVENUE,ALTONA MEADOWS,VIC,3028,-37.86724,144.779823,69
+Altona Green Primary School,http://www.altonagreen.vic.edu.au/,Government,Prep-6,Primary,240 VICTORIA STREET,ALTONA MEADOWS,VIC,3028,-37.886864,144.78325,71
+Sunshine Heights Primary School,http://www.sunshineheightsps.vic.edu.au,Government,Prep-6,Primary,1-19 MAILEY STREET,SUNSHINE,VIC,3020,-37.792371,144.81728,69
+Fountain Gate Primary School,http://www.fountaingateps.vic.edu.au,Government,Prep-6,Primary,PROSPECT HILL ROAD,NARRE WARREN,VIC,3805,-38.0089318,145.2951015,69
+Oatlands Primary School,http://www.oatlandsps.vic.edu.au,Government,Prep-6,Primary,79 - 93 KURRAJONG ROAD,NARRE WARREN,VIC,3805,-38.006959,145.31536,92
+Fleetwood Primary School,http://www.fleetwoodps.vic.edu.au/,Government,Prep-6,Primary,97 FLEETWOOD DRIVE,NARRE WARREN,VIC,3805,-38.039908,145.31707,74
+Berwick Lodge Primary School,http://www.berwicklodgeps.vic.edu.au,Government,Prep-6,Primary,139-145 MANSFIELD STREET,BERWICK,VIC,3806,-38.03148,145.326146,78
+Harkaway Primary School,http://www.harkawayps.vic.edu.au,Government,Prep-6,Primary,65-67 KING ROAD,HARKAWAY,VIC,3806,-38.001773,145.345147,75
+Berwick Fields Primary School,http://www.berwickfieldsps.vic.edu.au,Government,Prep-6,Primary,35 GWENDOLINE DRIVE,BERWICK,VIC,3806,-38.049333,145.333882,75
+Berwick Primary School,http://www.berwickprimary.vic.edu.au,Government,Prep-6,Primary,37 FAIRHOLME BOULEVARD,BERWICK,VIC,3806,-38.04491,145.353568,91
+Brentwood Park Primary School,http://www.brentwoodparkps.vic.edu.au,Government,Prep-6,Primary,BEMERSYDE DRIVE,BERWICK,VIC,3806,-38.0524636,145.3467859,89
+Berwick Chase Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=598dc00c-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,72 VIEWGRAND DRIVE,BERWICK,VIC,3806,-38.067129,145.347062,73
+Belgrave South Primary School,http://www.belgravesouthps.vic.edu.au,Government,Prep-6,Primary,175 COLBY DRIVE,BELGRAVE SOUTH,VIC,3160,-37.930611,145.358107,79
+Beaconsfield Primary School,http://www.beaconsfield.vic.edu.au,Government,Prep-6,Primary,71-77 OLD PRINCES HIGHWAY,BEACONSFIELD,VIC,3807,-38.054381,145.380043,76
+Selby Primary School,http://www.selbyps.vic.edu.au,Government,Prep-6,Primary,2 MORLEY STREET,SELBY,VIC,3159,-37.911169,145.367218,93
+Menzies Creek Primary School,http://www.menziesps.vic.edu.au,Government,Prep-6,Primary,12 SCHOOL ROAD,MENZIES CREEK,VIC,3159,-37.917831,145.394441,77
+Officer Primary School,http://www.officerps.vic.edu.au,Government,Prep-6,Primary,TIVENDALE ROAD,OFFICER,VIC,3809,-38.0581707,145.4096143,66
+Cardinia Primary School,http://www.cardiniaps.vic.edu.au,Government,Prep-6,Primary,2405 BALLARTO ROAD,CARDINIA,VIC,3978,-38.145405,145.423908,88
+Koo Wee Rup Primary School,http://www.kooweerupps.vic.edu.au,Government,Prep-6,Primary,MOODY STREET,KOO WEE RUP,VIC,3981,-38.1950726,145.4916567,77
+Albion Primary School,http://www.albionps.vic.edu.au,Government,Prep-6,Primary,ADELAIDE STREET,ALBION,VIC,3020,-37.7775412,144.8196799,85
+Ardeer Primary School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=de89c00c-ed32-de11-9c94-002185cd8e5c,Government,Prep-6,Primary,SUSPENSION STREET,ARDEER,VIC,3022,-37.7812938,144.8005007,71
+Albion North Primary School,http://www.albionnorthps.vic.edu.au,Government,Prep-6,Primary,67-73 FURLONG ROAD,SUNSHINE NORTH,VIC,3020,-37.762657,144.823196,81
+St Albans Meadows Primary School,http://www.samps.vic.edu.au,Government,Prep-6,Primary,LAUREL STREET,ST ALBANS,VIC,3021,-37.7529686,144.8179562,80
+University Park Primary School,http://www.universityparkps.vic.edu.au/,Government,Prep-6,Primary,LISTER STREET,ST ALBANS,VIC,3021,-37.7550708,144.8025809,76
+Cairnlea Park Primary School,http://www.cairnleaparkps.vic.edu.au,Government,Prep-6,Primary,CARMODY DRIVE,CAIRNLEA,VIC,3023,-37.7584727,144.7873987,85
+St Albans East Primary School,http://www.saeps.vic.edu.au,Government,Prep-6,Primary,7-17 STATION AVENUE,ST ALBANS,VIC,3021,-37.742906,144.8109,71
+Deer Park West Primary School,http://www.dpwps.vic.edu.au,Government,Prep-6,Primary,QUINN STREET,DEER PARK,VIC,3023,-37.7710539,144.7647066,66
+St Albans Primary School,http://www.stalbps.vic.edu.au,Government,Prep-6,Primary,39 WEST ESPLANADE,ST ALBANS,VIC,3021,-37.738603,144.795508,77
+Albanvale Primary School,http://www.albanvaleps.vic.edu.au/,Government,Prep-6,Primary,54-64 DIAMOND AVENUE,ALBANVALE,VIC,3021,-37.744584,144.774696,74
+Keilor Views Primary School,,Government,Prep-6,Primary,SWINDON CRESCENT,KEILOR DOWNS,VIC,3038,-37.7171542,144.8088116,79
+Kings Park Primary School,http://www.kpps.vic.edu.au,Government,Prep-6,Primary,128B GILLESPIE ROAD,ST ALBANS,VIC,3021,-37.733298,144.766932,72
+Monmia Primary School,http://www.monmia.vic.edu.au,Government,Prep-6,Primary,COPERNICUS WAY,KEILOR DOWNS,VIC,3038,-37.7172388,144.7923598,75
+Kororoit Creek Primary School,http://kororoitcreekps.vic.edu.au,Government,Prep-6,Primary,130 TENTERFIELD DRIVE,BURNSIDE HEIGHTS,VIC,3023,-37.734199,144.754577,90
+Mackellar Primary School,http://www.mackellarps.vic.edu.au,Government,Prep-6,Primary,29-35 GOLDSMITH AVENUE,DELAHEY,VIC,3037,-37.718006,144.777458,71
+Taylors Lakes Primary School,,Government,Prep-6,Primary,21-35 CHICHESTER DRIVE,TAYLORS LAKES,VIC,3038,-37.708051,144.792836,79
+Craigieburn South Primary School,http://www.craigsth.vic.edu.au/,Government,Prep-6,Primary,102 HOTHLYN DRIVE,CRAIGIEBURN,VIC,3064,-37.608715,144.9341,80
+Willmott Park Primary School,http://www.willmottparkps.vic.edu.au/,Government,Prep-6,Primary,DORCHESTER STREET,CRAIGIEBURN,VIC,3064,-37.5915953,144.9222211,79
+Craigieburn Primary School,http://www.craigieburnps.vic.edu.au,Government,Prep-6,Primary,87 - 91 GRAND BOULEVARD,CRAIGIEBURN,VIC,3064,-37.582994,144.932674,67
+Mickleham Primary School,http://www.micklehamps.vic.edu.au,Government,Prep-6,Primary,1880 MICKLEHAM ROAD,MICKLEHAM,VIC,3064,-37.563084,144.877389,66
+Sydenham - Hillside Primary School,http://www.sydenham.vic.edu.au,Government,Prep-6,Primary,COMMUNITY HUB,SYDENHAM,VIC,3037,-37.7025713,144.7616382,79
+Middle Kinglake Primary School,http://www.mkps.vic.edu.au,Government,Prep-6,Primary,69 EXTONS ROAD,KINGLAKE CENTRAL,VIC,3757,-37.501555,145.314207,77
+Kinglake Primary School,http://www.kinglakeps.vic.edu.au,Government,Prep-6,Primary,MCMAHONS RD,KINGLAKE,VIC,3763,-37.5211843,145.3561284,84
+Kinglake West Primary School,http://www.kinglakewestps.vic.edu.au,Government,Prep-6,Primary,1041-1061 WHITTLESEA-KINGLAKE RD,KINGLAKE WEST,VIC,3757,-37.481806,145.259659,81
+Dixons Creek Primary School,http://www.dixonscreekps.vic.edu.au,Government,Prep-6,Primary,MELBA HIGHWAY,DIXONS CREEK,VIC,3775,-37.592208,145.4135048,89
+Epping Views Primary School,http://www.eppingviewsps.vic.edu.au,Government,Prep-6,Primary,20 MANSFIELD STREET,EPPING,VIC,3076,-37.629122,145.024329,77
+Nar Nar Goon Primary School,http://www.narnargoonps.vic.edu.au/,Government,Prep-6,Primary,27 SPENCER STREET,NAR NAR GOON,VIC,3812,-38.082458,145.573625,75
+Garfield Primary School,http://www.garfieldps.vic.edu.au/,Government,Prep-6,Primary,84 RAILWAY AVENUE,GARFIELD,VIC,3814,-38.08929,145.673454,78
+Gembrook Primary School,http://www.gembrookps.vic.edu.au,Government,Prep-6,Primary,50 MAIN STREET,GEMBROOK,VIC,3783,-37.950721,145.546182,77
+Pakenham Consolidated School,http://www.pakconps.vic.edu.au,Government,Prep-6,Primary,2 RUNDELL WAY,PAKENHAM,VIC,3810,-38.0662,145.465383,72
+Pakenham Springs Primary School,http://www.pakenhamsprings.vic.edu.au,Government,Prep-6,Primary,LIVINGSTONE BOULEVARD,PAKENHAM,VIC,3810,-38.0851301,145.4693108,71
+Pakenham Lakeside Primary School,http://www.plps.vic.edu.au/,Government,Prep-6,Primary,23 SHEARWATER DRIVE,PAKENHAM,VIC,3810,-38.068142,145.440338,78
+Bayles Regional Primary School,http://www.baylesps.vic.edu.au/,Government,Prep-6,Primary,3730 BALLARTO ROAD,BAYLES,VIC,3981,-38.176742,145.565587,72
+Longwarry Primary School,http://www.longwarryps.vic.edu.au/,Government,Prep-6,Primary,5 MCCRAE STREET,LONGWARRY,VIC,3816,-38.114229,145.768699,65
+Macclesfield Primary School,http://www.macclesfieldps.vic.edu.au/,Government,Prep-6,Primary,405 MACCLESFIELD ROAD,MACCLESFIELD,VIC,3782,-37.889526,145.474612,82
+Gladysdale Primary School,http://www.gladysdaleps.vic.edu.au,Government,Prep-6,Primary,550 LITTLE YARRA ROAD,GLADYSDALE,VIC,3797,-37.82094,145.650945,73
+Launching Place Primary School,http://www.launchps.vic.edu.au/,Government,Prep-6,Primary,CARTER STREET,LAUNCHING PLACE,VIC,3139,-37.782718,145.569836,91
+Yarra Junction Primary School,http://www.yjps.vic.edu.au,Government,Prep-6,Primary,2370 WARBURTON HIGHWAY,YARRA JUNCTION,VIC,3797,-37.778748,145.605545,94
+Goonawarra Primary School,http://www.goonawarra.vic.edu.au/,Government,Prep-6,Primary,2-6 GULLANE DRIVE,SUNBURY,VIC,3429,-37.58006,144.75038,84
+Kismet Park Primary School,http://www.kismetparkps.vic.edu.au,Government,Prep-6,Primary,MCEWEN DRIVE,SUNBURY,VIC,3429,-37.5646004,144.7280516,78
+Sunbury Primary School,http://www.sunburyps.vic.edu.au,Government,Prep-6,Primary,41 THE HEIGHTS,SUNBURY,VIC,3429,-37.597045,144.727944,83
+Truganina South Primary School,,Government,Prep-6,Primary,3-19 PARKVISTA DRIVE,TRUGANINA,VIC,3029,-37.863897,144.726551,72
+Bellbridge Primary School,http://www.bellbridgeps.vic.edu.au,Government,Prep-6,Primary,120 BELLBRIDGE DRIVE,HOPPERS CROSSING,VIC,3029,-37.866791,144.710684,74
+Mossfiel Primary School,http://www.mossfielps.vic.edu.au,Government,Prep-6,Primary,LANGRIDGE STREET,HOPPERS CROSSING,VIC,3029,-37.8736974,144.6963412,68
+Cambridge Primary School,http://www.cambridgeps.vic.edu.au,Government,Prep-6,Primary,CARRUTHERS DRIVE,HOPPERS CROSSING,VIC,3029,-37.86744171,144.675432,85
+Seabrook Primary School,http://www.seabrook.vic.edu.au,Government,Prep-6,Primary,83-105 POINT COOK ROAD,SEABROOK,VIC,3028,-37.879774,144.758583,95
+Westgrove Primary School,http://www.westgrps.vic.edu.au/,Government,Prep-6,Primary,THAMES BOULEVARD,WERRIBEE,VIC,3030,-37.8785632,144.6593463,83
+Thomas Chirnside Primary School,http://www.thomaschirnsideps.vic.edu.au,Government,Prep-6,Primary,85 WALLS ROAD,WERRIBEE,VIC,3030,-37.903535,144.638555,75
+Iramoo Primary School,http://www.iramoops.vic.edu.au,Government,Prep-6,Primary,261 - 269 MCGRATH ROAD,WYNDHAM VALE,VIC,3024,-37.895648,144.627937,73
+Rockbank Primary School,http://www.rockbankps.vic.edu.au,Government,Prep-6,Primary,97-105 WESTCOTT PARADE,ROCKBANK,VIC,3335,-37.732889,144.661844,71
+Melton Primary School,http://www.meltonps.vic.edu.au,Government,Prep-6,Primary,10 UNITT STREET,MELTON,VIC,3337,-37.681056,144.586821,65
+Melton South Primary School,http://www.meltonsthps.vic.edu.au,Government,Prep-6,Primary,34 - 46 EXFORD ROAD,MELTON SOUTH,VIC,3338,-37.708532,144.574951,69
+Kurunjang Primary School,http://www.kurunjangps.vic.edu.au,Government,Prep-6,Primary,37-45 MOWBRAY CRESCENT,MELTON,VIC,3337,-37.671814,144.585154,64
+Parkwood Green Primary School,http://www.parkwoodgreen.com,Government,Prep-6,Primary,CNR GOURLAY RD & COMMUNITY HUB,HILLSIDE,VIC,3037,-37.6985058,144.7444225,71
+Coburn Primary School,http://www.coburnps.vic.edu.au/,Government,Prep-6,Primary,26 RICHARD ROAD,MELTON SOUTH,VIC,3338,-37.692811,144.57154,64
+Taylors Hill Primary School,http://www.taylorshillps.vic.edu.au,Government,Prep-6,Primary,40-50 LODDON DRIVE,TAYLORS HILL,VIC,3037,-37.715881,144.760066,78
+Melton West Primary School,http://www.meltonwestps.vic.edu.au/,Government,Prep-6,Primary,4 WESTMELTON DRIVE,MELTON,VIC,3337,-37.687083,144.555121,64
+Wedge Park Primary School,http://www.wedgepark.vic.edu.au/,Government,Prep-6,Primary,27 CAMBRIAN WAY,MELTON WEST,VIC,3337,-37.676163,144.555291,66
+Exford Primary School,http://www.exfordps.vic.edu.au/,Government,Prep-6,Primary,1137 EXFORD ROAD,EXFORD,VIC,3338,-37.74481,144.558817,78
+Diggers Rest Primary School,http://www.diggersrestps.vic.edu.au,Government,Prep-6,Primary,PLUMPTON ROAD,DIGGERS REST,VIC,3427,-37.6223679,144.7084951,94
+Toolern Vale and District Primary School,http://www.toolernvaledps.vic.edu.au/,Government,Prep-6,Primary,361 CREAMERY ROAD,TOOLERN VALE,VIC,3337,-37.606265,144.594634,65
+Sunbury Heights Primary School,http://www.sunburyheightsps.vic.edu.au,Government,Prep-6,Primary,CHARTER ROAD EAST,SUNBURY,VIC,3429,-37.5814957,144.7055384,70
+Sunbury West Primary School,http://www.sunburywestps.vic.edu.au,Government,Prep-6,Primary,479-491 ELIZABETH DRIVE,SUNBURY,VIC,3429,-37.575098,144.713967,75
+Killara Primary School,http://www.killaraps.vic.edu.au,Government,Prep-6,Primary,PHILLIP DRIVE,SUNBURY,VIC,3429,-37.564377,144.704347,77
+Wesburn Primary School,http://www.wesburnps.vic.edu.au,Government,Prep-6,Primary,2850 WARBURTON HIGHWAY,WESBURN,VIC,3799,-37.768977,145.647754,79
+Millwarra Primary School,http://www.millwarraps.vic.edu.au,Government,Prep-6,Primary,CAVANAGH ROAD,MILLGROVE,VIC,3799,-37.753515,145.651428,76
+Healesville Primary School,http://www.hps.vic.edu.au,Government,Prep-6,Primary,2 VIEW STREET,HEALESVILLE,VIC,3777,-37.657298,145.516612,68
+Badger Creek Primary School,http://www.badgerps.vic.edu.au,Government,Prep-6,Primary,BADGER CREEK RD,HEALESVILLE,VIC,3777,-37.666067,145.526801,65
+Malvern Central School,http://www.malvern-central.vic.edu.au,Government,Prep-8,Combined,SPRING ROAD,MALVERN,VIC,3144,-37.8568168,145.0364453,93
+Timbarra P-9 College,http://www.timbarraps.vic.edu.au,Government,Prep-9,Combined,159-197 PARKHILL DRIVE,BERWICK,VIC,3806,-38.017326,145.322803,78
+The Lakes South Morang P-9 School,http://www.thelakes.edu.au,Government,Prep-9,Combined,80 JARDIER TERRACE,SOUTH MORANG,VIC,3752,-37.634011,145.07534,71
+Carranballac P-9 College,http://www.carranballac.vic.edu.au,Government,Prep-9,Combined,CNR FOXWOOD DVE & DUNNINGS RD,POINT COOK,VIC,3030,-37.8846046,144.7423156,70
+Altona P-9 College,http://www.altonap9college.vic.edu.au,Government,Prep-9,Combined,103 A GRIEVE PARADE,ALTONA,VIC,3018,-37.8703963,144.8111705,77
+Baden Powell P-9 College,http://www.bpc.vic.edu.au/,Government,Prep-9,Combined,SYCAMORE STREET,HOPPERS CROSSING,VIC,3029,-37.8423798,144.6942947,73
+Springside P-9 College,http://www.ggs.vic.edu.au,Government,Prep-9,Combined,BECCA WAY,CAROLINE SPRINGS,VIC,3023,-37.7114441,144.7387254,73
+St Mary's College for Hearing Impaired Students,http://www.smdeafws.catholic.edu.au,Catholic,U,Combined,10 RIDDELL ROAD,WANTIRNA SOUTH,VIC,3152,-37.877573,145.242858,64
+Glenvale School,,Independent,"U, 3-12",Combined,395 IRONBARK ROAD,BROADMEADOWS,VIC,3047,-37.642816,145.13736,88
+Worawa Aboriginal College,http://www.worawa.vic.edu.au,Independent,"U, 7-10",Combined,60-80 BARAK LANE,HEALESVILLE,VIC,3777,-37.682933,145.505721,63
+Mount Lilydale Mercy College,http://www.mlmclilydale.catholic.edu.au,Catholic,"U, 7-12",Secondary,ANDERSON STREET,LILYDALE,VIC,3140,-37.750579,145.358342,79
+Luther College,http://www.luther.vic.edu.au,Independent,"U, 7-12",Secondary,PLYMOUTH RD,CROYDON,VIC,3136,-37.7817093,145.2711492,93
+Aquinas College,http://www.aquinas.vic.edu.au,Catholic,"U, 7-12",Secondary,THOMAS ST,RINGWOOD,VIC,3134,-37.8231414,145.235846,85
+St Joseph's College,http://www.stjosephs.com.au,Catholic,"U, 7-12",Secondary,5 BRENOCK PARK DRIVE,FERNTREE GULLY,VIC,3156,-37.891594,145.296473,77
+Mater Christi College,http://www.materchristi.edu.au,Catholic,"U, 7-12",Secondary,28 BAYVIEW ROAD,BELGRAVE,VIC,3160,-37.910265,145.359471,85
+Emmaus College,http://www.emmaus.vic.edu.au,Catholic,"U, 7-12",Secondary,503 SPRINGVALE RD,VERMONT SOUTH,VIC,3133,-37.847844,145.173745,87
+Our Lady of Sion College,http://www.sion.catholic.edu.au,Catholic,"U, 7-12",Secondary,1065 WHITEHORSE RD,BOX HILL,VIC,3128,-37.817967,145.130012,94
+Avila College,http://www.avilacollege.vic.edu.au,Catholic,"U, 7-12",Secondary,35 CHARLES ST,MOUNT WAVERLEY,VIC,3149,-37.874588,145.130905,92
+Mazenod College,http://www.mazenod.vic.edu.au,Catholic,"U, 7-12",Secondary,KERNOT AVENUE,MULGRAVE,VIC,3170,-37.9155175,145.1652792,95
+Marcellin College,http://www.marcellin.vic.edu.au,Catholic,"U, 7-12",Secondary,160 BULLEEN RD,BULLEEN,VIC,3105,-37.775159,145.081708,89
+Nazareth College,http://www.nazareth.vic.edu.au,Catholic,"U, 7-12",Secondary,MANNING DRIVE,NOBLE PARK NORTH,VIC,3174,-37.9397914,145.1953876,84
+Loyola College,http://www.loyola.vic.edu.au,Catholic,"U, 7-12",Secondary,325 GRIMSHAW ST,WATSONIA,VIC,3087,-37.703707,145.080566,80
+Our Lady of Mercy College,http://www.olmcheidelberg.catholic.edu.au,Catholic,"U, 7-12",Secondary,52 CAPE ST,HEIDELBERG,VIC,3084,-37.757689,145.067697,91
+Auburn High School,http://www.auburnhs.vic.edu.au/,Government,"U, 7-12",Secondary,BURGESS STREET,HAWTHORN EAST,VIC,3123,-37.8396525,145.0442841,87
+Glen Eira College,http://www.gec.vic.edu.au,Government,"U, 7-12",Secondary,76 BOORAN ROAD,CAULFIELD EAST,VIC,3145,-37.885091,145.037888,85
+Academy of Mary Immaculate,http://www.academy.vic.edu.au,Catholic,"U, 7-12",Secondary,88 NICHOLSON ST,FITZROY,VIC,3065,-37.803664,144.974821,88
+Star of the Sea College,http://www.starmelb.catholic.edu.au,Catholic,"U, 7-12",Secondary,MARTIN ST,BRIGHTON,VIC,3186,-37.8964368,144.9960784,91
+Simonds Catholic College,http://www.sccmelb.catholic.edu.au,Catholic,"U, 7-12",Secondary,273 VICTORIA STREET,WEST MELBOURNE,VIC,3003,-37.805996,144.952507,81
+Santa Maria College,http://www.santamaria.vic.edu.au,Catholic,"U, 7-12",Secondary,50 SEPARATION STREET,NORTHCOTE,VIC,3070,-37.770373,145.002326,85
+Salesian College,http://www.salesianchad.vic.edu.au,Catholic,"U, 7-12",Secondary,BOSCO STREET,CHADSTONE,VIC,3148,-37.8823989,145.1002655,84
+Sacred Heart Girls' College,http://www.shcoakleigh.catholic.edu.au,Catholic,"U, 7-12",Secondary,CNR KANGAROO & WARRIGAL RDS,HUGHESDALE,VIC,3166,-37.9016495,145.0859773,92
+Our Lady of the Sacred Heart College,http://www.olsh.vic.edu.au,Catholic,"U, 7-12",Secondary,111 JASPER RD,BENTLEIGH,VIC,3204,-37.925454,145.039869,90
+Padua College,http://www.padua.catholic.edu.au,Catholic,"U, 7-12",Secondary,OAKBANK RD,MORNINGTON,VIC,3931,-38.2151573,145.0634806,80
+John Paul College,http://www.jpc.vic.edu.au,Catholic,"U, 7-12",Secondary,MCMAHONS RD,FRANKSTON,VIC,3199,-38.14306282,145.1369875,78
+St Peter's College,http://www.stpeters.vic.edu.au,Catholic,"U, 7-12",Secondary,CRANBOURNE-FRANKSTON ROAD,CRANBOURNE,VIC,3977,-38.1092182,145.2576924,75
+St Bede's College,http://www.stbedes.catholic.edu.au,Catholic,"U, 7-12",Secondary,2 MENTONE PDE,MENTONE,VIC,3194,-37.990744,145.067807,86
+Kilbreda College,http://www.kilbreda.vic.edu.au,Catholic,"U, 7-12",Secondary,CNR MENTONE & COMO PDES,MENTONE,VIC,3194,-37.983895,145.065752,88
+St John's Regional College,http://www.sjcdandenong.catholic.edu.au,Catholic,"U, 7-12",Secondary,CAROLINE ST,DANDENONG,VIC,3175,-37.9897434,145.2270807,76
+Killester College,http://www.killester.catholic.edu.au,Catholic,"U, 7-12",Secondary,433 SPRINGVALE RD,SPRINGVALE,VIC,3171,-37.959051,145.152596,89
+St Francis Xavier College,http://www.sfxbfield.catholic.edu.au,Catholic,"U, 7-12",Secondary,BEACONSFIELD AVE,BEACONSFIELD,VIC,3807,-38.0525264,145.3727671,80
+Parade College,http://www.parade.vic.edu.au,Catholic,"U, 7-12",Secondary,PLENTY RD,BUNDOORA,VIC,3083,-37.6901644,145.0650523,83
+Mercy College,http://www.mercycoburg.catholic.edu.au,Catholic,"U, 7-12",Secondary,760 SYDNEY RD,COBURG,VIC,3058,-37.730628,144.964611,73
+St Monica's College,http://www.stmonicas-epping.com,Catholic,"U, 7-12",Secondary,16 DAVISSON ST,EPPING,VIC,3076,-37.650782,145.030435,79
+Footscray City College,http://www.footscray.vic.edu.au,Government,"U, 7-12",Secondary,1 KINNEAR STREET,FOOTSCRAY,VIC,3011,-37.790442,144.894368,89
+Emmanuel College,http://web.ecmelb.catholic.edu.au/,Catholic,"U, 7-12",Secondary,CNR BLACKSHAWS & CHAMBERS RDS,ALTONA NORTH,VIC,3025,-37.8320156,144.8416989,78
+Ave Maria College,http://www.avemaria.vic.edu.au,Catholic,"U, 7-12",Secondary,20-22 VIDA ST,ABERFELDIE,VIC,3040,-37.756638,144.897984,86
+St Bernard's College,http://www.sbc.vic.edu.au,Catholic,"U, 7-12",Secondary,41 ROSEHILL ROAD,ESSENDON,VIC,3040,-37.750219,144.882047,89
+Penola Catholic College,http://www.penola.vic.edu.au,Catholic,"U, 7-12",Secondary,29 GIBSON STREET,BROADMEADOWS,VIC,3047,-37.687859,144.918285,71
+Caroline Chisholm Catholic College,http://www.cccc.vic.edu.au/,Catholic,"U, 7-12",Secondary,204 CHURCHILL AVENUE,BRAYBROOK,VIC,3019,-37.786057,144.849662,85
+Marian College,http://www.mariansw.catholic.edu.au,Catholic,"U, 7-12",Secondary,GLENGALA RD,SUNSHINE WEST,VIC,3020,-37.78821274,144.808384,78
+St Joseph's College,http://www.sjc.vic.edu.au,Catholic,"U, 7-12",Secondary,135 APHRASIA ST,NEWTOWN,VIC,3220,-38.150485,144.33151,77
+MacKillop Catholic Regional College,http://www.mackillopwerribee.com.au/,Catholic,"U, 7-12",Secondary,RUSSELL ST,WERRIBEE,VIC,3030,-37.913365,144.6659304,79
+Mount St Joseph Girls' College,http://www.msj.vic.edu.au,Catholic,"U, 7-12",Secondary,133 MAIDSTONE STREET,ALTONA,VIC,3018,-37.864161,144.811671,87
+Thomas Carr College,http://www.thomascarr.vic.edu.au,Catholic,"U, 7-12",Secondary,35 THOMAS CARR DRIVE,TARNEIT,VIC,3029,-37.847559,144.700402,77
+Salesian College,http://www.scr.vic.edu.au,Catholic,"U, 7-12",Secondary,MACEDON STREET,SUNBURY,VIC,3429,-37.571883,144.739257,84
+Cornish College,,Independent,"U, Prep-10",Combined,65 RIVEREND ROAD,BANGHOLME,VIC,3175,-38.0497069,145.1486743,92
+Al Siraat College,http://www.alsiraat.vic.edu.au,Independent,"U, Prep-10",Combined,45 HARVEST HOME ROAD,EPPING,VIC,3076,-37.625208,145.037388,71
+Yesodei Hatorah College,,Independent,"U, Prep-11",Combined,39 DICKENS STREET,ELWOOD,VIC,3184,-37.873246,144.983763,100
+Billanook College,http://www.billanook.vic.edu.au,Independent,"U, Prep-12",Combined,197-199 CARDIGAN ROAD,MOOROOLBARK,VIC,3138,-37.787643,145.340026,91
+Mount Evelyn Christian School,http://www.mecs.vic.edu.au,Independent,"U, Prep-12",Combined,135-141 YORK RD,MOUNT EVELYN,VIC,3796,-37.799124,145.367716,79
+Yarra Valley Grammar School,http://www.yvg.vic.edu.au,Independent,"U, Prep-12",Combined,KALINDA RD,RINGWOOD,VIC,3134,-37.78688166,145.2553136,95
+Tintern Girls Grammar School,http://www.tinternschools.vic.edu.au,Independent,"U, Prep-12",Combined,90 ALEXANDRA RD,RINGWOOD EAST,VIC,3135,-37.815511,145.258898,97
+Mountain District Christian School,http://www.mdcs.vic.edu.au,Independent,"U, Prep-12",Combined,325 MACCLESFIELD ROAD,MONBULK,VIC,3793,-37.856441,145.453234,71
+Donvale Christian College,http://www.donvale.vic.edu.au,Independent,"U, Prep-12",Combined,155 TINDALS RD,DONVALE,VIC,3111,-37.773705,145.192955,96
+ELTHAM College of Education,http://www.elthamcollege.vic.edu.au,Independent,"U, Prep-12",Combined,1660 MAIN ROAD,RESEARCH,VIC,3095,-37.701192,145.192609,89
+St Andrews Christian College,http://www.standrews.vic.edu.au,Independent,"U, Prep-12",Combined,130 TYNER ROAD,WANTIRNA SOUTH,VIC,3152,-37.873975,145.244737,100
+The Knox School,http://www.knox.vic.edu.au,Independent,"U, Prep-12",Combined,220 BURWOOD HWY,WANTIRNA SOUTH,VIC,3152,-37.866146,145.219235,98
+Belgrave Heights Christian School,http://www.bhcs.vic.edu.au/,Independent,"U, Prep-12",Combined,20 WATTLE VALLEY ROAD,BELGRAVE HEIGHTS,VIC,3160,-37.919063,145.346379,81
+Waverley Christian College,http://www.wcc.vic.edu.au,Independent,"U, Prep-12",Combined,1248 HIGH STREET RD,WANTIRNA SOUTH,VIC,3152,-37.879405,145.215257,100
+Kingswood College,http://www.kingswoodcollege.vic.edu.au,Independent,"U, Prep-12",Combined,355 STATION ST,BOX HILL,VIC,3128,-37.83208,145.11741,99
+Mount Scopus Memorial College,http://www.scopus.vic.edu.au,Independent,"U, Prep-12",Combined,245 BURWOOD HWY,BURWOOD,VIC,3125,-37.84752,145.118025,94
+Huntingtower School,http://www.huntingtower.vic.edu.au,Independent,"U, Prep-12",Combined,77 WAIMARIE DR,MOUNT WAVERLEY,VIC,3149,-37.876606,145.13711,100
+Presbyterian Ladies' College,http://www.plc.vic.edu.au,Independent,"U, Prep-12",Combined,BURWOOD HWY,BURWOOD,VIC,3125,-37.848235,145.1072021,100
+Plenty Valley Christian College,http://www.plentyvalley.vic.edu.au,Independent,"U, Prep-12",Combined,840 YAN YEAN RD,DOREEN,VIC,3754,-37.614282,145.140465,87
+Fintona Girls' School,http://www.fintona.vic.edu.au,Independent,"U, Prep-12",Combined,79 BALWYN ROAD,BALWYN,VIC,3103,-37.814828,145.08032,100
+St Catherine's School,http://www.stcatherines.net.au,Independent,"U, Prep-12",Combined,17 HEYINGTON PL,TOORAK,VIC,3142,-37.838206,145.021146,89
+Lauriston Girls' School,http://www.lauriston.vic.edu.au,Independent,"U, Prep-12",Combined,38 HUNTINGTOWER RD,ARMADALE,VIC,3143,-37.852314,145.025222,99
+St Kevin's College,http://www.stkevins.vic.edu.au,Catholic,"U, Prep-12",Combined,MOONGA ROAD,TOORAK,VIC,3142,-37.8360262,145.0249655,97
+The King David School,http://www.kds.vic.edu.au,Independent,"U, Prep-12",Combined,517-519 ORRONG RD,ARMADALE,VIC,3143,-37.858232,145.010505,98
+Scotch College,http://www.scotch.vic.edu.au,Independent,"U, Prep-12",Combined,1 MORRISON ST,HAWTHORN,VIC,3122,-37.833818,145.02947,99
+De La Salle College,http://www.delasalle.vic.edu.au,Catholic,"U, Prep-12",Combined,1318 HIGH STREET,MALVERN,VIC,3144,-37.857644,145.032279,90
+St Michael's Grammar School,http://www.stmichaels.vic.edu.au,Independent,"U, Prep-12",Combined,25 - 27 CHAPEL STREET,ST KILDA,VIC,3182,-37.859663,144.991499,90
+Bialik College,http://www.bialik.vic.edu.au,Independent,"U, Prep-12",Combined,429 AUBURN RD,HAWTHORN,VIC,3122,-37.842244,145.043945,95
+Yeshivah and Beth Rivkah Colleges,http://www.ybr.vic.edu.au,Independent,"U, Prep-12",Combined,92 HOTHAM STREET,ST KILDA EAST,VIC,3183,-37.868635,145.00041,98
+Wesley College,http://www.wesleycollege.net,Independent,"U, Prep-12",Combined,577 ST KILDA RD,MELBOURNE,VIC,3004,-37.847948,144.979571,95
+Caulfield Grammar School,http://www.caulfieldgs.vic.edu.au,Independent,"U, Prep-12",Combined,217 GLEN EIRA ROAD,ST KILDA EAST,VIC,3183,-37.875749,145.004002,97
+Shelford Girls' Grammar,http://www.shelford.vic.edu.au,Independent,"U, Prep-12",Combined,3 HOOD CRES,CAULFIELD,VIC,3161,-37.87734,145.011354,99
+Melbourne Grammar School,http://www.mgs.vic.edu.au,Independent,"U, Prep-12",Combined,DOMAIN ROAD,MELBOURNE,VIC,3004,-37.8337179,144.9738546,98
+Sacre Coeur,http://www.sac.vic.edu.au,Catholic,"U, Prep-12",Combined,172 BURKE RD,GLEN IRIS,VIC,3146,-37.861756,145.052501,97
+Xavier College,http://www.xavier.vic.edu.au,Catholic,"U, Prep-12",Combined,BARKERS RD,KEW,VIC,3101,-37.812269,145.0316851,95
+Korowa Anglican Girls' School,http://www.korowa.vic.edu.au,Independent,"U, Prep-12",Combined,10-16 RANFURLIE CRESCENT,GLEN IRIS,VIC,3146,-37.861647,145.05469,98
+Methodist Ladies' College,http://www.mlc.vic.edu.au,Independent,"U, Prep-12",Combined,207 BARKERS RD,KEW,VIC,3101,-37.814586,145.038015,99
+Trinity Grammar School,http://www.trinity.vic.edu.au,Independent,"U, Prep-12",Combined,40 CHARLES STREET,KEW,VIC,3101,-37.810634,145.035502,99
+Adass Israel School,http://www.vrqa.vic.gov.au/StateRegister/Provider.aspx/DetailsProvider?AccountID=ac88c00c-ed32-de11-9c94-002185cd8e5c,Independent,"U, Prep-12",Combined,10 KING ST,ELSTERNWICK,VIC,3185,-37.884045,145.008349,76
+Ruyton Girls' School,http://www.ruyton.vic.edu.au,Independent,"U, Prep-12",Combined,12 SELBOURNE RD,KEW,VIC,3101,-37.811356,145.039989,97
+Carey Baptist Grammar School,http://carey.com.au,Independent,"U, Prep-12",Combined,349 BARKERS ROAD,KEW,VIC,3101,-37.814681,145.048048,98
+Preshil - The Margaret Lyttle Memorial School,http://www.preshil.vic.edu.au,Independent,"U, Prep-12",Combined,395 BARKERS RD,KEW,VIC,3101,-37.815878,145.05232,83
+Leibler Yavneh College,http://www.yavneh.vic.edu.au,Independent,"U, Prep-12",Combined,2 NAGLE AVE,ELSTERNWICK,VIC,3185,-37.89276,145.006833,96
+Genazzano FCJ College,http://www.genazzano.vic.edu.au,Catholic,"U, Prep-12",Combined,COTHAM RD,KEW,VIC,3101,-37.8098389,145.0572776,87
+Collingwood College,http://www.collingwood.vic.edu.au,Government,"U, Prep-12",Combined,CNR CROMWELL ST/MCCUTCHEON WAY,COLLINGWOOD,VIC,3066,-37.8004019,144.9856443,68
+Camberwell Grammar School,http://www.cgs.vic.edu.au,Independent,"U, Prep-12",Combined,55 MONT ALBERT RD,CANTERBURY,VIC,3126,-37.815689,145.067275,99
+Strathcona Baptist Girls' Grammar School,http://www.strathcona.vic.edu.au,Independent,"U, Prep-12",Combined,34 SCOTT ST,CANTERBURY,VIC,3126,-37.830139,145.080197,99
+Kilvington Grammar School,http://www.kilvington.vic.edu.au,Independent,"U, Prep-12",Combined,2 LEILA RD,ORMOND,VIC,3204,-37.899498,145.04137,99
+Alphington Grammar School,http://www.alphington.vic.edu.au,Independent,"U, Prep-12",Combined,12-18 OLD HEIDELBERG ROAD,ALPHINGTON,VIC,3078,-37.780709,145.036993,93
+Brighton Grammar School,http://www.brightongrammar.vic.edu.au,Independent,"U, Prep-12",Combined,90 OUTER CRES,BRIGHTON,VIC,3186,-37.910534,144.993041,98
+Oakleigh Grammar,http://www.ogoc.vic.edu.au,Independent,"U, Prep-12",Combined,73-79 WILLESDEN RD,OAKLEIGH,VIC,3166,-37.89576,145.082761,98
+Ivanhoe Grammar School,http://www.ivanhoe.com.au,Independent,"U, Prep-12",Combined,THE RIDGEWAY,IVANHOE,VIC,3079,-37.772699,145.044754,93
+Ivanhoe Girls' Grammar School,http://www.ivanhoegirls.vic.edu.au,Independent,"U, Prep-12",Combined,123 MARSHALL ST,IVANHOE,VIC,3079,-37.76661,145.047345,95
+St Leonard's College,http://www.stleonards.vic.edu.au,Independent,"U, Prep-12",Combined,163 SOUTH RD,BRIGHTON EAST,VIC,3187,-37.928558,145.007643,98
+Toorak College,http://www.toorakc.vic.edu.au,Independent,"U, Prep-12",Combined,OLD MORNINGTON RD,MOUNT ELIZA,VIC,3930,-38.1722011,145.0935495,98
+The Peninsula School,http://www.tps.vic.edu.au,Independent,"U, Prep-12",Combined,20 WOORALLA DR,MOUNT ELIZA,VIC,3930,-38.197555,145.090425,98
+Bayside Christian College,http://www.bcc.vic.edu.au,Independent,"U, Prep-12",Combined,120-128 ROBINSONS RD,LANGWARRIN SOUTH,VIC,3911,-38.179119,145.162684,75
+Flinders Christian Community College,http://www.flinders.vic.edu.au,Independent,"U, Prep-12",Combined,155 MORNINGTON-TYABB ROAD,TYABB,VIC,3913,-38.262924,145.169196,85
+Casey Grammar School,http://www.caseygrammar.vic.edu.au,Independent,"U, Prep-12",Combined,3 NEW HOLLAND DRIVE,CRANBOURNE EAST,VIC,3977,-38.109205,145.293787,94
+Mt Hira College,http://www.mthira.vic.edu.au,Independent,"U, Prep-12",Combined,185 PERRY ROAD,KEYSBOROUGH,VIC,3173,-38.013725,145.176904,68
+Lighthouse Christian College,http://www.lighthouse.vic.edu.au,Independent,"U, Prep-12",Combined,927-937 SPRINGVALE ROAD,KEYSBOROUGH,VIC,3173,-38.001557,145.144277,99
+Mentone Girls' Grammar School,http://www.mentonegirls.vic.edu.au,Independent,"U, Prep-12",Combined,11 MENTONE PDE,MENTONE,VIC,3194,-37.989554,145.063751,98
+Mentone Grammar School,http://www.mentonegrammar.net,Independent,"U, Prep-12",Combined,63 VENICE ST,MENTONE,VIC,3194,-37.987784,145.068223,96
+Heritage College,http://www.heritagecollege.com.au,Independent,"U, Prep-12",Combined,333 CENTRE ROAD,NARRE WARREN SOUTH,VIC,3805,-38.050616,145.3167,70
+Heatherton Christian College,http://www.heathertonchristiancollege.com,Independent,"U, Prep-12",Combined,316 - 322 KINGSTON ROAD,CLARINDA,VIC,3169,-37.958076,145.111014,94
+Hillcrest Christian College,http://www.hillcrest.vic.edu.au,Independent,"U, Prep-12",Combined,500 SOLDIERS ROAD,CLYDE NORTH,VIC,3978,-38.085632,145.370787,86
+Minaret College,http://www.minaret.vic.edu.au,Independent,"U, Prep-12",Combined,36 LEWIS STREET,SPRINGVALE,VIC,3171,-37.938565,145.149759,78
+St Margaret's School,http://www.stmargarets.vic.edu.au,Independent,"U, Prep-12",Combined,27 GLOUCESTER AVE,BERWICK,VIC,3806,-38.035991,145.348155,99
+Northside Christian College,http://www.ncc.vic.edu.au,Independent,"U, Prep-12",Combined,31 MCLEANS ROAD,BUNDOORA,VIC,3083,-37.695032,145.054718,96
+Darul Ulum College of Victoria,http://www.dulum.vic.edu.au,Independent,"U, Prep-12",Combined,BAIRD STREET,FAWKNER,VIC,3060,-37.7051192,144.97084,87
+Marymede Catholic College,http://www.marymede.vic.edu.au,Catholic,"U, Prep-12",Combined,WILLIAMSONS ROAD,SOUTH MORANG,VIC,3752,-37.6433206,145.0908787,74
+Australian International Academy of Education,http://www.aia.vic.edu.au,Independent,"U, Prep-12",Combined,56 BAKERS ROAD,COBURG NORTH,VIC,3058,-37.726303,144.958514,83
+Antonine College,http://www.antonine.catholic.edu.au,Catholic,"U, Prep-12",Combined,71 GRANDVIEW AVENUE,PASCOE VALE SOUTH,VIC,3044,-37.740872,144.942691,85
+Lowther Hall Anglican Grammar School,http://www.lowtherhall.vic.edu.au,Independent,"U, Prep-12",Combined,17 LESLIE RD,ESSENDON,VIC,3040,-37.759427,144.915085,96
+Penleigh & Essendon Grammar School,http://www.pegs.vic.edu.au,Independent,"U, Prep-12",Combined,163 RACHELLE RD,KEILOR EAST,VIC,3033,-37.732653,144.870344,99
+Sirius College,http://www.isikcollege.vic.edu.au,Independent,"U, Prep-12",Combined,GOULBURN STREET,BROADMEADOWS,VIC,3047,-37.6842934,144.9349671,87
+Ilim College of Australia,http://www.ilimcollege.vic.edu.au,Independent,"U, Prep-12",Combined,INVERLOCH CRESENT,BROADMEADOWS,VIC,3047,-37.6706058,144.9299163,68
+Overnewton Anglican Community College,http://www.overnewton.vic.edu.au,Independent,"U, Prep-12",Combined,OVERNEWTON RD,KEILOR,VIC,3036,-37.7069444,144.8230556,90
+Beaconhills College,http://www.beaconhills.vic.edu.au/,Independent,"U, Prep-12",Combined,30-34 TOOMUC VALLEY RD,PAKENHAM,VIC,3810,-38.061353,145.467905,93
+St Mary's Coptic Orthodox College,http://www.copticvic.org,Independent,"U, Prep-12",Combined,19-35 THORPDALE AVENUE,COOLAROO,VIC,3048,-37.656186,144.931341,80
+Aitken College,http://www.aitkencollege.edu.au,Independent,"U, Prep-12",Combined,1010 MICKLEHAM ROAD,GREENVALE,VIC,3059,-37.627398,144.888422,83
+Gilson College,http://www.gilsoncollege.com,Independent,"U, Prep-12",Combined,450 TAYLORS RD,TAYLORS HILL,VIC,3037,-37.723191,144.763203,86
+Hume Anglican Grammar,http://www.humegrammar.vic.edu.au,Independent,"U, Prep-12",Combined,100 MOUNT RIDLEY ROAD,MICKLEHAM,VIC,3065,-37.567258,144.931696,89
+Heathdale Christian College,http://www.heathdale.vic.edu.au,Independent,"U, Prep-12",Combined,175 DERRIMUT RD,WERRIBEE,VIC,3030,-37.88084,144.680867,99
+Al-Taqwa College,http://www.al-taqwa.vic.edu.au/,Independent,"U, Prep-12",Combined,201 SAYERS RD,TRUGANINA,VIC,3029,-37.853971,144.721949,77
+Westbourne Grammar School,http://www.westbournegrammar.com,Independent,"U, Prep-12",Combined,300 SAYERS ROAD,TRUGANINA,VIC,3029,-37.850351,144.726175,98
+St Thomas Aquinas College,http://www.stac.vic.edu.au,Independent,"U, Prep-12",Combined,1 TYNONG ROAD,TYNONG,VIC,3813,-38.082619,145.62116,70
+Melton Christian College,http://www.mcc.vic.edu.au/,Independent,"U, Prep-12",Combined,152-156 BROOKLYN ROAD,MELTON SOUTH,VIC,3338,-37.699745,144.560352,80
+St Patrick's School,http://www.splilydale.catholic.edu.au,Catholic,"U, Prep-6",Primary,40 JONES ST,LILYDALE,VIC,3140,-37.752507,145.352404,89
+St Mary's Primary School,http://www.smmountevelyn.catholic.edu.au,Catholic,"U, Prep-6",Primary,58 CLEGG RD,MOUNT EVELYN,VIC,3796,-37.791371,145.394931,87
+St Peter Julian Eymard School,http://www.spjemooroolbark.catholic.edu.au,Catholic,"U, Prep-6",Primary,REAY RD,MOOROOLBARK,VIC,3138,-37.78795,145.317208,78
+St Richard's School,http://www.srkilsyth.catholic.edu.au,Catholic,"U, Prep-6",Primary,672-684 MT DANDENONG RD,KILSYTH,VIC,3137,-37.806652,145.321987,70
+The Good Shepherd Lutheran Primary School,http://www.gslps.vic.edu.au,Independent,"U, Prep-6",Primary,53-57 PLYMOUTH RD,CROYDON HILLS,VIC,3136,-37.782533,145.269119,98
+Sacred Heart Primary School,http://www.shcroydon.catholic.edu.au,Catholic,"U, Prep-6",Primary,35 WICKLOW AVENUE,CROYDON,VIC,3136,-37.797648,145.272057,90
+St Bernadette's Primary School,http://www.sbthebasin.catholic.edu.au,Catholic,"U, Prep-6",Primary,1264 MOUNTAIN HWY,THE BASIN,VIC,3154,-37.853885,145.310597,86
+Holy Spirit School,http://www.hsringwoodnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,120 OBAN RD,RINGWOOD NORTH,VIC,3134,-37.794017,145.237292,80
+St Paul's Primary School,http://www.spmonbulk.catholic.edu.au,Catholic,"U, Prep-6",Primary,59 MOORES RD,MONBULK,VIC,3793,-37.868255,145.411421,97
+St Anne's Primary School,http://www.saparkorchards.catholic.edu.au,Catholic,"U, Prep-6",Primary,60 KNEES RD,PARK ORCHARDS,VIC,3114,-37.773025,145.218186,82
+Our Lady of Lourdes School,http://www.olbayswater.catholic.edu.au,Catholic,"U, Prep-6",Primary,23 ORANGE GVE,BAYSWATER,VIC,3153,-37.84916,145.265674,79
+Our Lady of Perpetual Help School,http://www.olringwood.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 WILANA ST,RINGWOOD,VIC,3134,-37.816482,145.232039,78
+St Joseph's School,http://www.sjboronia.catholic.edu.au,Catholic,"U, Prep-6",Primary,212 BORONIA RD,BORONIA,VIC,3155,-37.862751,145.274821,64
+St John the Baptist School,http://www.sjferntreegully.catholic.edu.au,Catholic,"U, Prep-6",Primary,17 FOREST RD,FERNTREE GULLY,VIC,3156,-37.887,145.295477,72
+St Luke's School,http://www.slwantirna.catholic.edu.au,Catholic,"U, Prep-6",Primary,25 STOKES RD,WANTIRNA,VIC,3152,-37.853771,145.234611,88
+St Brigid's School,http://www.sbhealesville.catholic.edu.au,Catholic,"U, Prep-6",Primary,HIGH ST,HEALESVILLE,VIC,3777,-37.6575014,145.5162183,85
+Our Lady of Lourdes School,http://www.olprahraneast.catholic.edu.au,Catholic,"U, Prep-6",Primary,7 WYNNSTAY RD,PRAHRAN EAST,VIC,3181,-37.852302,145.009509,79
+St Joseph's Primary School,http://www.sjmalvern.catholic.edu.au,Catholic,"U, Prep-6",Primary,49 STANHOPE ST,MALVERN,VIC,3144,-37.858214,145.030786,91
+St Mary's Primary School,http://www.smdandenong.catholic.edu.au,Catholic,"U, Prep-6",Primary,NEW ST,DANDENONG,VIC,3175,-37.8587964,144.9975394,87
+St Mary's School,http://www.smstkildaeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,214 DANDENONG RD,ST KILDA EAST,VIC,3183,-37.859336,144.997685,96
+Erasmus School,http://erasmus.vic.edu.au,Independent,"U, Prep-6",Primary,40 LISSON GROVE,HAWTHORN,VIC,3122,-37.82767,145.030739,100
+Christ Church Grammar School,http://www.ccgs.vic.edu.au,Independent,"U, Prep-6",Primary,677 PUNT RD,SOUTH YARRA,VIC,3141,-37.839032,144.985799,99
+St Joseph's School,http://www.sjhawthorn.catholic.edu.au,Catholic,"U, Prep-6",Primary,571 GLENFERRIE RD,HAWTHORN,VIC,3122,-37.826423,145.033434,64
+Trinity Catholic School,http://www.tcsrichmondnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,57 DAVISON STREET,RICHMOND NORTH,VIC,3121,-37.81573,145.00884,82
+St Roch's Parish School,http://www.srgleniris.catholic.edu.au,Catholic,"U, Prep-6",Primary,GLENVALE RD,GLEN IRIS,VIC,3146,-37.85791431,145.0536109,98
+St Joseph's School,http://www.sjelst.catholic.edu.au,Catholic,"U, Prep-6",Primary,28 SANDHAM ST,ELSTERNWICK,VIC,3185,-37.882596,145.005096,64
+Sholem Aleichem College,http://www.sholem.vic.edu.au,Independent,"U, Prep-6",Primary,11 SINCLAIR ST,ELSTERNWICK,VIC,3185,-37.88252,145.001289,100
+St Cecilia's Parish School,http://www.scgleniris.catholic.edu.au,Catholic,"U, Prep-6",Primary,4 VAN NESS AVE,GLEN IRIS,VIC,3146,-37.849869,145.06468,98
+Sacred Heart Parish School,http://www.shkew.catholic.edu.au,Catholic,"U, Prep-6",Primary,116 COTHAM RD,KEW,VIC,3101,-37.809298,145.037414,96
+St Mary's School,http://www.smmalverneast.catholic.edu.au,Catholic,"U, Prep-6",Primary,91 MANNING RD,MALVERN EAST,VIC,3145,-37.873106,145.052636,96
+Melbourne Montessori School,http://www.mms.vic.edu.au/,Independent,"U, Prep-6",Primary,6 ROSELEA ST,CAULFIELD SOUTH,VIC,3162,-37.88807,145.025281,96
+St Columba's School,http://www.scelwood.catholic.edu.au,Catholic,"U, Prep-6",Primary,24 GLENHUNTLY RD,ELWOOD,VIC,3184,-37.882418,144.981437,86
+St Anthony's Primary School,http://www.santglen.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR GRANGE & NERRIM RDS,GLEN HUNTLY,VIC,3163,-37.8872808,145.0461137,91
+St Joseph's School,http://www.sjcollingwood.catholic.edu.au,Catholic,"U, Prep-6",Primary,46 OTTER ST,COLLINGWOOD,VIC,3066,-37.800305,144.986118,64
+Our Lady of Good Counsel Parish School,http://www.olgcdeepdene.catholic.edu.au,Catholic,"U, Prep-6",Primary,52 DEEPDENE RD,DEEPDENE,VIC,3103,-37.811573,145.062608,96
+Sacred Heart School,http://www.shsfitzroy.catholic.edu.au,Catholic,"U, Prep-6",Primary,107 KING WILLIAM ST,FITZROY,VIC,3065,-37.802067,144.978803,65
+St Thomas More's Primary School,http://www.stmmtlza.catholic.edu.au,Catholic,"U, Prep-6",Primary,313 CANADIAN BAY RD,MOUNT ELIZA,VIC,3930,-38.196971,145.101263,88
+St Francis Xavier School,http://www.sfxfrankston.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR PARK & YUILLE STS,FRANKSTON,VIC,3199,-38.149073,145.1262178,86
+St Augustine's School,http://www.safranksth.catholic.edu.au,Catholic,"U, Prep-6",Primary,GOLF LINKS RD,FRANKSTON SOUTH,VIC,3199,-38.1717312,145.1453214,85
+St Macartan's School,http://www.smmornington.catholic.edu.au,Catholic,"U, Prep-6",Primary,BUNGOWER ROAD,MORNINGTON,VIC,3931,-38.2233352,145.0695975,90
+St John's Primary School,http://www.sjfrankstoneast.catholic.edu.au,Catholic,"U, Prep-6",Primary,JAYNE ST,FRANKSTON EAST,VIC,3199,-38.1454946,145.1477609,93
+St Anne's School,http://www.saseaford.catholic.edu.au,Catholic,"U, Prep-6",Primary,AUSTIN RD,SEAFORD,VIC,3198,-38.1067145,145.1421632,69
+St Jude's School,http://www.sjlangwarrin.catholic.edu.au,Catholic,"U, Prep-6",Primary,30 WARRANDYTE RD,LANGWARRIN,VIC,3910,-38.155037,145.19181,71
+St Brendan's Primary School,http://www.sbsomerville.catholic.edu.au,Catholic,"U, Prep-6",Primary,GRAF ROAD,SOMERVILLE,VIC,3912,-38.2339382,145.1688298,72
+St Joachim's Catholic Primary School,http://www.sjcarrumdowns.catholic.edu.au,Catholic,"U, Prep-6",Primary,25 BRODERICK RD,CARRUM DOWNS,VIC,3201,-38.102825,145.178541,86
+St Joseph's School,http://www.sjchelsea.catholic.edu.au,Catholic,"U, Prep-6",Primary,362 STATION ST,CHELSEA,VIC,3196,-38.055298,145.118418,64
+St Mary's Primary School,http://www.smhastings.catholic.edu.au,Catholic,"U, Prep-6",Primary,69 MARINE PDE,HASTINGS,VIC,3915,-38.303956,145.191263,87
+St Louis de Montfort's Primary School,http://www.stlouisaspendale.catholic.edu.au,Catholic,"U, Prep-6",Primary,37 DOLPHIN ST,ASPENDALE,VIC,3195,-38.017485,145.103073,88
+St Agatha's Primary School,http://www.stacbourne.catholic.edu.au,Catholic,"U, Prep-6",Primary,SCOTT ST,CRANBOURNE,VIC,3977,-38.111266,145.278998,77
+St Brigid's School,http://www.sbmord.catholic.edu.au,Catholic,"U, Prep-6",Primary,129 ALBERT ST,MORDIALLOC,VIC,3195,-38.008742,145.091885,85
+St Patrick's Primary School,http://www.spmentone.catholic.edu.au,Catholic,"U, Prep-6",Primary,16 CHILDERS ST,MENTONE,VIC,3194,-37.983937,145.069822,94
+St Francis Xavier's Parish Primary School,http://www.sfxboxhill.catholic.edu.au,Catholic,"U, Prep-6",Primary,1087 WHITEHORSE RD,BOX HILL,VIC,3128,-37.818599,145.131834,91
+Our Lady of Perpetual Succour School,http://www.olsurreyhills.catholic.edu.au,Catholic,"U, Prep-6",Primary,31 ERASMUS ST,SURREY HILLS,VIC,3127,-37.829937,145.111061,95
+Our Holy Redeemer School,http://www.ohrsurreyhills.catholic.edu.au,Catholic,"U, Prep-6",Primary,311 MONT ALBERT RD,SURREY HILLS,VIC,3127,-37.820222,145.100146,94
+St Luke the Evangelist School,http://www.slblackburnsth.catholic.edu.au,Catholic,"U, Prep-6",Primary,46 ORCHARD GVE,BLACKBURN SOUTH,VIC,3130,-37.835562,145.1462067,94
+St Bridget's Primary School,http://www.sbgreythorn.catholic.edu.au,Catholic,"U, Prep-6",Primary,36 SWEYN ST,BALWYN NORTH,VIC,3104,-37.795992,145.102217,99
+St Thomas the Apostle School,http://www.stblackburn.catholic.edu.au,Catholic,"U, Prep-6",Primary,67 CENTRAL RD,BLACKBURN,VIC,3130,-37.823695,145.157715,83
+St Philip's School,http://www.stphilipbbn.catholic.edu.au,Catholic,"U, Prep-6",Primary,60 JUNCTION RD,BLACKBURN NORTH,VIC,3130,-37.808464,145.166214,96
+Sts Peter and Paul's School,http://www.sppdcstr.catholic.edu.au,Catholic,"U, Prep-6",Primary,16 BEVERLEY ST,DONCASTER EAST,VIC,3109,-37.790725,145.153146,87
+St Scholastica's Primary School,http://www.ssbennettswood.catholic.edu.au,Catholic,"U, Prep-6",Primary,STARLING ST,BENNETTSWOOD,VIC,3125,-37.85257058,145.1262764,81
+St Gregory the Great School,http://www.sgdoncaster.catholic.edu.au,Catholic,"U, Prep-6",Primary,396 MANNINGHAM RD,DONCASTER,VIC,3108,-37.780415,145.122499,94
+St Benedict's Parish School,http://www.sbburwood.catholic.edu.au,Catholic,"U, Prep-6",Primary,CENTRAL AVE,BURWOOD,VIC,3125,-37.84937635,145.0977221,86
+St Dominic's School,http://www.sdcamberwelleast.catholic.edu.au,Catholic,"U, Prep-6",Primary,145 HIGHFIELD RD,CAMBERWELL EAST,VIC,3124,-37.838826,145.083192,66
+St Bede's Parish School,http://www.sbedesbn.catholic.edu.au,Catholic,"U, Prep-6",Primary,1 MARWAL AVE,BALWYN NORTH,VIC,3104,-37.793514,145.071959,93
+St John's School,http://www.sjmitcham.catholic.edu.au,Catholic,"U, Prep-6",Primary,490 WHITEHORSE RD,MITCHAM,VIC,3132,-37.817357,145.189959,71
+St Timothy's School,http://www.sttims.catholic.edu.au,Catholic,"U, Prep-6",Primary,21 STEVENS RD,VERMONT,VIC,3133,-37.840629,145.184495,80
+St Charles Borromeo Primary School,http://www.scbtemplestowe.catholic.edu.au,Catholic,"U, Prep-6",Primary,222-234 SERPELLS RD,TEMPLESTOWE,VIC,3106,-37.768552,145.153465,87
+St Kevin's School,http://www.sktemplestowelr.catholic.edu.au,Catholic,"U, Prep-6",Primary,HERLIHY'S RD,TEMPLESTOWE LOWER,VIC,3107,-37.762167,145.121917,81
+St Christopher's School,http://www.scsyndal.catholic.edu.au,Catholic,"U, Prep-6",Primary,5 DOON AVE,GLEN WAVERLEY,VIC,3150,-37.870765,145.149552,87
+St Michael's Primary School,http://www.smashburton.catholic.edu.au,Catholic,"U, Prep-6",Primary,268 HIGH ST,ASHBURTON,VIC,3147,-37.864455,145.082566,92
+Holy Family School,http://www.hfmw.catholic.edu.au,Catholic,"U, Prep-6",Primary,250 STEPHENSONS RD,MOUNT WAVERLEY,VIC,3149,-37.874407,145.130513,65
+Our Lady of the Pines School,http://www.olopdonvale.catholic.edu.au,Catholic,"U, Prep-6",Primary,77 CARBINE ST,DONVALE,VIC,3111,-37.775125,145.177097,94
+Holy Saviour Primary School,http://www.hsvs.catholic.edu.au,Catholic,"U, Prep-6",Primary,765 HIGHBURY RD,VERMONT SOUTH,VIC,3133,-37.860964,145.175129,85
+St Anne's Parish School,http://www.sannkewe.catholic.edu.au,Catholic,"U, Prep-6",Primary,7-19 BERESFORD ST,KEW EAST,VIC,3102,-37.79532,145.048778,83
+St Mary Magdalen's School,http://www.smmchadstone.catholic.edu.au,Catholic,"U, Prep-6",Primary,10-20 BOLWARRA STREET,CHADSTONE,VIC,3148,-37.87992,145.10125,78
+St Martin of Tours School,http://www.smrosanna.catholic.edu.au,Catholic,"U, Prep-6",Primary,5 SILK ST,ROSANNA,VIC,3084,-37.735553,145.076129,88
+St John's Primary School,http://www.sjheidelberg.catholic.edu.au,Catholic,"U, Prep-6",Primary,55 CAPE ST,HEIDELBERG,VIC,3084,-37.757539,145.066553,93
+St Pius X School,http://www.spheidelbergwest.catholic.edu.au,Catholic,"U, Prep-6",Primary,431 WATERDALE RD,HEIDELBERG WEST,VIC,3081,-37.747166,145.046194,74
+Mother of God Primary School,http://www.mogivanhoeeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,66 WILFRED RD,IVANHOE EAST,VIC,3079,-37.773686,145.05915,73
+St Mary's School,http://www.smgreensborough.catholic.edu.au,Catholic,"U, Prep-6",Primary,210 GRIMSHAW ST,GREENSBOROUGH,VIC,3088,-37.70293,145.092505,96
+St Francis Xavier Primary School,http://www.sfxmontmorency.catholic.edu.au,Catholic,"U, Prep-6",Primary,90 MAYONA RD,MONTMORENCY,VIC,3094,-37.715973,145.126893,80
+Mary Immaculate School,http://www.miivanhoe.catholic.edu.au,Catholic,"U, Prep-6",Primary,7-9 ROCKBEARE GVE,IVANHOE,VIC,3079,-37.7720509,145.0384596,92
+Our Lady of the Way School,http://www.olwkingsbury.catholic.edu.au,Catholic,"U, Prep-6",Primary,GREEN AVE,KINGSBURY,VIC,3083,-37.71418275,145.0340084,78
+St Damian's School,http://www.sdbundoora.catholic.edu.au,Catholic,"U, Prep-6",Primary,5 SETTLEMENT RD,BUNDOORA,VIC,3083,-37.698262,145.056952,83
+Our Lady Help of Christians School,http://www.olhceltham.catholic.edu.au,Catholic,"U, Prep-6",Primary,1-13 HENRY ST,ELTHAM,VIC,3095,-37.715954,145.148089,89
+Holy Spirit School,http://www.hsthornburyeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,197 CLARENDON ST,THORNBURY,VIC,3071,-37.761109,145.015194,80
+St Stephen's School,http://www.ssreservoireast.catholic.edu.au,Catholic,"U, Prep-6",Primary,71 WHITELAW ST,RESERVOIR EAST,VIC,3073,-37.712117,145.019307,69
+Holy Trinity Primary School,http://www.htelthamnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,WEIDLICH RD,ELTHAM NORTH,VIC,3095,-37.6983729,145.1355643,95
+Sacred Heart Primary School,http://www.shpreston.catholic.edu.au,Catholic,"U, Prep-6",Primary,1 CLIFTON GVE,PRESTON,VIC,3072,-37.744984,145.0041403,90
+St Anthony's School,http://www.saalphington.catholic.edu.au,Catholic,"U, Prep-6",Primary,52 AUSTIN ST,ALPHINGTON,VIC,3078,-37.780589,145.020136,92
+St Thomas the Apostle School,http://www.stgreensboroughnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,251 DIAMOND CREEK RD,GREENSBOROUGH NORTH,VIC,3088,-37.68248,145.120004,83
+St Gabriel's School,http://www.sgreservoir.catholic.edu.au,Catholic,"U, Prep-6",Primary,SPRING ST,RESERVOIR,VIC,3073,-37.7190891,145.0049803,81
+St Mary's School,http://www.smthornbury.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 MANSFIELD ST,THORNBURY,VIC,3071,-37.756852,145.001603,96
+Plenty Valley International Montessori School,http://www.pvims.vic.edu.au,Independent,"U, Prep-6",Primary,315 AQUEDUCT ROAD,ST HELENA,VIC,3088,-37.684309,145.138602,88
+St Raphael's Primary School,http://www.srprestonwest.catholic.edu.au/,Catholic,"U, Prep-6",Primary,COOPER ST,PRESTON WEST,VIC,3072,-37.7345076,144.992272,86
+Holy Trinity Primary School,http://www.htws.catholic.edu.au,Catholic,"U, Prep-6",Primary,10 RIDDELL RD,WANTIRNA SOUTH,VIC,3152,-37.877573,145.242858,95
+St James' School,http://www.sjvermont.catholic.edu.au,Catholic,"U, Prep-6",Primary,51 CENTRE RD,VERMONT,VIC,3133,-37.837067,145.209725,96
+St Jude the Apostle School,http://www.sjscoresby.catholic.edu.au,Catholic,"U, Prep-6",Primary,53 GEORGE ST,SCORESBY,VIC,3179,-37.889033,145.226546,82
+St Joan of Arc School,http://www.sjbrighton.catholic.edu.au,Catholic,"U, Prep-6",Primary,DENDY ST,BRIGHTON,VIC,3186,-37.919893,144.9942698,97
+Melbourne Montessori School,http://www.mms.vic.edu.au/,Independent,"U, Prep-6",Primary,,BRIGHTON EAST,VIC,3187,-37.9119039,145.0174342,96
+St Finbar's School,http://www.sfbrightoneast.catholic.edu.au,Catholic,"U, Prep-6",Primary,90 CENTRE RD,BRIGHTON EAST,VIC,3187,-37.916295,145.017202,89
+St Mary's Primary School,http://www.smhampton.catholic.edu.au,Catholic,"U, Prep-6",Primary,59 HOLYROOD ST,HAMPTON,VIC,3188,-37.933141,145.000489,87
+St Kevin's Parish School,http://www.skormond.catholic.edu.au,Catholic,"U, Prep-6",Primary,76 GLEN ORME AVE,ORMOND,VIC,3204,-37.9047,145.03874,88
+St Paul's Primary School,http://www.spbentleigh.catholic.edu.au,Catholic,"U, Prep-6",Primary,122 JASPER RD,BENTLEIGH,VIC,3204,-37.922845,145.04192,97
+Sacred Heart School,http://www.shsandringham.catholic.edu.au,Catholic,"U, Prep-6",Primary,11 FERNHILL RD NTH,SANDRINGHAM,VIC,3191,-37.949593,145.003738,65
+St Agnes' Primary School,http://www.sahighett.catholic.edu.au,Catholic,"U, Prep-6",Primary,PETERSON ST,HIGHETT,VIC,3190,-37.94536949,145.0284201,83
+St Catherine's School,http://www.scmoorabbin.catholic.edu.au,Catholic,"U, Prep-6",Primary,14 - 28 FLETCHER ST,MOORABBIN,VIC,3189,-37.937911,145.053051,89
+St Patrick's School,http://www.spmurrumbeena.catholic.edu.au,Catholic,"U, Prep-6",Primary,3 DALNY RD,MURRUMBEENA,VIC,3163,-37.90229,145.065443,89
+St Peter's School,http://www.spbentleigheast.catholic.edu.au,Catholic,"U, Prep-6",Primary,842 CENTRE RD,BENTLEIGH EAST,VIC,3165,-37.923338,145.070276,82
+Holy Eucharist School,http://www.hechadstone.catholic.edu.au,Catholic,"U, Prep-6",Primary,1241 DANDENONG RD,MALVERN EAST,VIC,3145,-37.88413,145.069573,88
+St Joseph's School,http://www.sjblackrock.catholic.edu.au,Catholic,"U, Prep-6",Primary,544 BALCOMBE RD,BLACK ROCK,VIC,3193,-37.975801,145.022975,64
+Sacred Heart Parish School,http://www.shoakleigh.catholic.edu.au,Catholic,"U, Prep-6",Primary,76 WARRIGAL RD,OAKLEIGH,VIC,3166,-37.901918,145.08713,96
+Good Shepherd School,http://www.gswheelershill.catholic.edu.au,Catholic,"U, Prep-6",Primary,30 ACADEMY AVE,WHEELERS HILL,VIC,3150,-37.907426,145.166043,99
+Christ Our Holy Redeemer School,http://www.cohroakeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,43 FERNTREE GULLY RD,OAKLEIGH EAST,VIC,3166,-37.895865,145.105612,89
+St John Vianney's School,http://www.sjvmulgrave.catholic.edu.au,Catholic,"U, Prep-6",Primary,23 POLICE RD,MULGRAVE,VIC,3170,-37.932548,145.159839,88
+St Peter's School,http://www.spclayton.catholic.edu.au,Catholic,"U, Prep-6",Primary,10 MARY ST,CLAYTON,VIC,3168,-37.922443,145.121918,82
+St Andrew's School,http://www.saclaytonsth.catholic.edu.au,Catholic,"U, Prep-6",Primary,96 BUNNEY RD,CLAYTON SOUTH,VIC,3169,-37.935033,145.106947,84
+St Elizabeth's School,http://www.sedandenongnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,111 BAKERS RD,DANDENONG NORTH,VIC,3175,-37.94633,145.198767,83
+St Joseph's Parish Primary School,http://www.sjspringvale.catholic.edu.au,Catholic,"U, Prep-6",Primary,33 ST JOHN'S AVE,SPRINGVALE,VIC,3171,-37.953132,145.150162,84
+St John's School,http://www.sjcliftonhill.catholic.edu.au,Catholic,"U, Prep-6",Primary,77 QUEENS PARADE,CLIFTON HILL,VIC,3068,-37.790214,144.988708,71
+Resurrection School,http://www.reskeysborough.catholic.edu.au,Catholic,"U, Prep-6",Primary,402 CORRIGAN RD,KEYSBOROUGH,VIC,3173,-37.989519,145.16246,89
+Stella Maris Primary School,http://www.smbeaumaris.catholic.edu.au,Catholic,"U, Prep-6",Primary,113 OAK ST,BEAUMARIS,VIC,3193,-37.982094,145.041335,80
+St Anthony's School,http://www.sanoblepark.catholic.edu.au,Catholic,"U, Prep-6",Primary,90 BUCKLEY ST,NOBLE PARK,VIC,3174,-37.97176,145.171766,92
+St Gerard's Primary School,http://www.sgdandenongnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,GLADSTONE RD,DANDENONG NORTH,VIC,3175,-37.9710591,145.2052976,74
+St Mary's School,http://www.smwilliamstown.catholic.edu.au,Catholic,"U, Prep-6",Primary,116 CECIL ST,WILLIAMSTOWN,VIC,3016,-37.863815,144.901344,96
+Westbourne Grammar School,http://www.westbournegrammar.com,Independent,"U, Prep-6",Primary,67 THE STRAND,NEWPORT,VIC,3015,-37.850087,144.895017,98
+St Michael's School,http://www.smnthmelbourne.catholic.edu.au,Catholic,"U, Prep-6",Primary,8 BROUGHAM ST,NORTH MELBOURNE,VIC,3051,-37.793436,144.946295,86
+Holy Rosary School,http://www.hrkensington.catholic.edu.au,Catholic,"U, Prep-6",Primary,37 GOWER ST,KENSINGTON,VIC,3031,-37.79552,144.929092,84
+Sacred Heart School,http://www.shnewport.catholic.edu.au,Catholic,"U, Prep-6",Primary,4 NEWCASTLE ST,NEWPORT,VIC,3015,-37.840409,144.882184,65
+Fitzroy Community School,http://www.fcs.vic.edu.au,Independent,"U, Prep-6",Primary,597 BRUNSWICK ST,FITZROY NORTH,VIC,3068,-37.789161,144.97973,100
+St Monica's Primary School,http://www.smfootscray.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 WINGFIELD ST,FOOTSCRAY,VIC,3011,-37.801021,144.90699,94
+St Augustine's School,http://www.sayarraville.catholic.edu.au,Catholic,"U, Prep-6",Primary,71 SOMERVILLE RD,YARRAVILLE,VIC,3013,-37.813924,144.889067,85
+St Joseph's Primary School,http://www.sjnorthcote.catholic.edu.au,Catholic,"U, Prep-6",Primary,39 JAMES ST,NORTHCOTE,VIC,3070,-37.774635,144.996606,91
+Our Lady Help of Christians School,http://www.olbrunswickeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,26 MILLER STREET,BRUNSWICK EAST,VIC,3057,-37.776773,144.977957,89
+St Brendan's School,http://www.sbflemington.catholic.edu.au,Catholic,"U, Prep-6",Primary,103 WELLINGTON ST,FLEMINGTON,VIC,3031,-37.784296,144.931046,74
+St Margaret Mary's School,http://www.smmbrunswicknth.catholic.edu.au,Catholic,"U, Prep-6",Primary,47 - 49 MITCHELL ST,BRUNSWICK NORTH,VIC,3056,-37.758598,144.968163,89
+St Joseph's School,http://www.sjbwickw.catholic.edu.au,Catholic,"U, Prep-6",Primary,185 HOPE ST,BRUNSWICK WEST,VIC,3055,-37.76231,144.942908,64
+St Bernard's Primary School,http://www.stbernardscoburg.catholic.edu.au,Catholic,"U, Prep-6",Primary,36 PATTERSON ST,COBURG,VIC,3058,-37.747969,144.972692,81
+St Fidelis' Primary School,http://www.sfmoreland.catholic.edu.au/,Catholic,"U, Prep-6",Primary,54 SAUNDERS ST,MORELAND,VIC,3058,-37.749896,144.951469,81
+St Mary's Primary School,http://www.smascotvale.catholic.edu.au,Catholic,"U, Prep-6",Primary,74 ROSEBERRY ST,ASCOT VALE,VIC,3032,-37.773861,144.911247,87
+St Monica's Primary School,http://www.stmonicasmp.catholic.edu.au,Catholic,"U, Prep-6",Primary,20 ROBINSON ST,MOONEE PONDS,VIC,3039,-37.759901,144.923205,94
+St Paul's Parish Primary School,http://www.spcoburg.catholic.edu.au,Catholic,"U, Prep-6",Primary,562 SYDNEY RD,COBURG,VIC,3058,-37.738484,144.968182,91
+St Vincent de Paul School,http://www.svstrathmore.catholic.edu.au,Catholic,"U, Prep-6",Primary,WOODLAND ST,STRATHMORE,VIC,3041,-37.742592,144.924484,91
+St Therese's School,http://www.stessendon.catholic.edu.au,Catholic,"U, Prep-6",Primary,EDWARD ST,ESSENDON,VIC,3040,-37.751121,144.9103,88
+St Mark's Primary School,http://www.smfawkner.catholic.edu.au,Catholic,"U, Prep-6",Primary,ARGYLE ST,FAWKNER,VIC,3060,-37.7166999,144.9640691,65
+Our Lady of the Nativity School,http://www.olnaberfeldie.catholic.edu.au,Catholic,"U, Prep-6",Primary,29 FAWKNER ST,ABERFELDIE,VIC,3040,-37.756682,144.89626,91
+St Margaret's Primary School,http://www.smmaribyrnong.catholic.edu.au,Catholic,"U, Prep-6",Primary,67 THE ESPLANADE,MARIBYRNONG,VIC,3032,-37.766598,144.891068,92
+St Francis de Sales School,http://www.sfoakpark.catholic.edu.au,Catholic,"U, Prep-6",Primary,626 PASCOE VALE RD,OAK PARK,VIC,3046,-37.719288,144.921225,79
+St Thomas More's School,http://www.stmhadfield.catholic.edu.au,Catholic,"U, Prep-6",Primary,30 ANGUS STREET,HADFIELD,VIC,3046,-37.707681,144.944687,87
+St John Bosco's School,http://www.sjbniddrie.catholic.edu.au,Catholic,"U, Prep-6",Primary,29 MURIEL ST,NIDDRIE,VIC,3042,-37.743653,144.889438,84
+St John's School,http://www.sjfootscray.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR ELEANOR & ESSEX STS,FOOTSCRAY,VIC,3011,-37.7959108,144.884988,71
+St Martin de Porres School,http://www.smavondaleheights.catholic.edu.au,Catholic,"U, Prep-6",Primary,158 MILITARY RD,AVONDALE HEIGHTS,VIC,3034,-37.758398,144.861398,65
+Christ the King Primary School,http://www.ctkbraybrook.catholic.edu.au,Catholic,"U, Prep-6",Primary,RILEY CRT,BRAYBROOK,VIC,3019,-37.7875448,144.8620112,72
+St Christopher's School,http://www.stcapw.catholic.edu.au,Catholic,"U, Prep-6",Primary,34 ROBERTS RD,AIRPORT WEST,VIC,3042,-37.724607,144.880241,87
+Corpus Christi School,http://www.cckingsville.catholic.edu.au,Catholic,"U, Prep-6",Primary,380 GEELONG RD,KINGSVILLE,VIC,3012,-37.808313,144.872527,86
+St Peter's School,http://www.spkeiloreast.catholic.edu.au,Catholic,"U, Prep-6",Primary,2A PARKSIDE AVE,KEILOR EAST,VIC,3033,-37.744452,144.859622,82
+St Joseph's School,http://www.sjcribpoint.catholic.edu.au,Catholic,"U, Prep-6",Primary,MARTIN ST,CRIB POINT,VIC,3919,-38.3614784,145.2027263,64
+St Joseph's Primary School,http://www.sjsorrento.catholic.edu.au,Catholic,"U, Prep-6",Primary,CONSTITUTION HILL RD,SORRENTO,VIC,3943,-38.33997933,144.7421634,91
+Sacred Heart School,http://www.shdiamondcreek.catholic.edu.au,Catholic,"U, Prep-6",Primary,GIPSON ST,DIAMOND CREEK,VIC,3089,-37.671898,145.1582828,65
+St Francis of Assisi Primary School,http://www.sfmillpark.catholic.edu.au,Catholic,"U, Prep-6",Primary,290-312 CHILDS RD,MILL PARK,VIC,3082,-37.665168,145.059235,88
+St John's Primary School,http://www.sjthomastowneast.catholic.edu.au,Catholic,"U, Prep-6",Primary,REGAL AVE,THOMASTOWN EAST,VIC,3074,-37.6781451,145.0388316,93
+St Peter's Parish Primary School,http://www.stprepp.catholic.edu.au,Catholic,"U, Prep-6",Primary,32 WEDGE ST,EPPING,VIC,3076,-37.650563,145.028387,84
+St Luke's Primary School,http://www.stlukelr.catholic.edu.au,Catholic,"U, Prep-6",Primary,1A DAVID ST,LALOR,VIC,3075,-37.672478,145.018976,88
+St Simon's School,http://www.ssrowville.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR TAYLORS LANE & WELLINGTON RD,ROWVILLE,VIC,3178,-37.925483,145.245337,81
+Holy Family School,http://www.hfdoveton.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR PITTOSPORUM GVE & POWER RD,DOVETON,VIC,3177,-37.9903527,145.2387592,65
+Corpus Christi Primary School,http://www.ccglenroy.catholic.edu.au,Catholic,"U, Prep-6",Primary,13-21 WIDFORD ST,GLENROY,VIC,3046,-37.694942,144.925151,68
+St Dominic's School,http://www.sdbroadmeadows.catholic.edu.au,Catholic,"U, Prep-6",Primary,408 CAMP RD,BROADMEADOWS,VIC,3047,-37.684926,144.923498,66
+School of the Good Shepherd,http://www.soggladstonepark.catholic.edu.au,Catholic,"U, Prep-6",Primary,88 SOUTH CIRCULAR RD,GLADSTONE PARK,VIC,3043,-37.692971,144.889486,78
+Holy Child Primary School,http://www.hcdallas.catholic.edu.au,Catholic,"U, Prep-6",Primary,BLAIR ST,DALLAS,VIC,3047,-37.665933,144.932092,64
+St Matthew's Primary School,http://www.smfawknernth.catholic.edu.au,Catholic,"U, Prep-6",Primary,95 WILLIAM STREET,FAWKNER,VIC,3060,-37.697809,144.967674,75
+St Joseph the Worker School,http://www.sjwreservoirnth.catholic.edu.au,Catholic,"U, Prep-6",Primary,79 WILSON BLVD,RESERVOIR NORTH,VIC,3073,-37.701791,144.992605,79
+Good Samaritan Catholic Primary School,http://www.gsroxburghpark.catholic.edu.au,Catholic,"U, Prep-6",Primary,1 -29 WWSOUTHERN CROSS DRIVE,ROXBURGH PARK,VIC,3064,-37.62316,144.932975,66
+St Augustine's Primary School,http://www.sakeilor.catholic.edu.au,Catholic,"U, Prep-6",Primary,AUGUSTINE'S WAY,KEILOR,VIC,3036,-37.7108935,144.81969,81
+St Catherine's School,http://www.sclalorwest.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 LASCELLES DR,LALOR WEST,VIC,3075,-37.665294,145.003687,89
+Trinity Catholic Primary School,http://www.trinitynarre.catholic.edu.au,Catholic,"U, Prep-6",Primary,OAKGROVE DRIVE,NARRE WARREN SOUTH,VIC,3805,-38.0548421,145.2989096,79
+St Margaret's School,http://www.smgeelongeast.catholic.edu.au,Catholic,"U, Prep-6",Primary,83 ST ALBANS RD,EAST GEELONG,VIC,3219,-38.163857,144.373232,99
+St Mary's Primary School,http://www.smgeelong.catholic.edu.au,Catholic,"U, Prep-6",Primary,66-68 LITTLE MYERS STREET,GEELONG,VIC,3220,-38.153153,144.359961,87
+St Patrick's School,http://www.spgeelongwest.catholic.edu.au,Catholic,"U, Prep-6",Primary,PETREL ST,GEELONG WEST,VIC,3218,-38.135553,144.346579,89
+St Margaret Mary's School,http://www.smmspotswood.catholic.edu.au,Catholic,"U, Prep-6",Primary,181 HUDSONS RD,SPOTSWOOD,VIC,3015,-37.829288,144.877529,89
+St Mary's School,http://www.smaltona.catholic.edu.au,Catholic,"U, Prep-6",Primary,95A RAILWAY STREET,ALTONA,VIC,3018,-37.866618,144.828351,96
+Queen of Peace Parish Primary School,http://www.qopaltonameadows.catholic.edu.au,Catholic,"U, Prep-6",Primary,62 EVERINGHAM RD,ALTONA MEADOWS,VIC,3028,-37.875787,144.79214,81
+Our Lady of the Immaculate Conception School,http://www.olsunshine.catholic.edu.au,Catholic,"U, Prep-6",Primary,MONASH ST,SUNSHINE,VIC,3020,-37.7890808,144.8357939,85
+St Peter's School,http://www.spsunshinesw.catholic.edu.au,Catholic,"U, Prep-6",Primary,KILLEEN ST,SUNSHINE SOUTH WEST,VIC,3020,-37.7980665,144.819335,82
+Don Bosco Primary School,http://www.dbnarre.catholic.edu.au,Catholic,"U, Prep-6",Primary,496 PRINCES HWY,NARRE WARREN,VIC,3805,-38.025952,145.314893,84
+St Michael's School,http://www.stmberwick.catholic.edu.au,Catholic,"U, Prep-6",Primary,16 SCANLAN ST,BERWICK,VIC,3806,-38.03346,145.353457,86
+St Catherine's Catholic Primary School,http://www.stcberwick.catholic.edu.au,Catholic,"U, Prep-6",Primary,231 CLYDE ROAD,BERWICK,VIC,3806,-38.071171,145.336458,83
+St Thomas More's Primary School,http://www.smbelgrave.catholic.edu.au,Catholic,"U, Prep-6",Primary,REYNOLDS LANE,BELGRAVE,VIC,3160,-37.908659,145.3528233,88
+Holy Spirit School,http://www.hsmanifoldheights.catholic.edu.au,Catholic,"U, Prep-6",Primary,83 MINERVA ROAD,MANIFOLD HEIGHTS,VIC,3218,-38.135741,144.330104,80
+St Theresa's School,http://www.stalbion.catholic.edu.au,Catholic,"U, Prep-6",Primary,16 DRUMMARTIN ST,ALBION,VIC,3020,-37.782356,144.820121,77
+St Paul's Primary School,http://www.spsunshinewest.catholic.edu.au,Catholic,"U, Prep-6",Primary,LINKS ST,SUNSHINE WEST,VIC,3020,-37.78794728,144.8079742,97
+Sunshine Christian School,http://www.scs.vic.edu.au,Independent,"U, Prep-6",Primary,81-83 WESTMORELAND ROAD,SUNSHINE NORTH,VIC,3020,-37.768299,144.835802,97
+Mother of God School,http://www.mogardeer.catholic.edu.au,Catholic,"U, Prep-6",Primary,67 BLANCHE ST,ARDEER,VIC,3022,-37.779541,144.800815,68
+Holy Eucharist School,http://www.hestalbanssth.catholic.edu.au,Catholic,"U, Prep-6",Primary,1A OLEANDER DR,ST ALBANS SOUTH,VIC,3021,-37.756201,144.811242,88
+Sacred Heart Primary School,http://www.shstalbans.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 WINIFRED ST,ST ALBANS,VIC,3021,-37.738289,144.800338,90
+St Peter Chanel Primary School,http://www.spcdeerpark.catholic.edu.au,Catholic,"U, Prep-6",Primary,848 BALLARAT RD,DEER PARK,VIC,3023,-37.766453,144.76634,78
+St Paul's Kealba Catholic School,http://www.spkealba.catholic.edu.au,Catholic,"U, Prep-6",Primary,230-240 SUNSHINE AVE,KEALBA,VIC,3021,-37.733634,144.820352,89
+Resurrection Primary School,http://www.rskingspark.catholic.edu.au,Catholic,"U, Prep-6",Primary,51 GUM RD,KINGS PARK,VIC,3021,-37.736313,144.774794,76
+St Mary MacKillop Primary School,http://www.mmkeilordowns.catholic.edu.au,Catholic,"U, Prep-6",Primary,152 ODESSA AVE,KEILOR DOWNS,VIC,3038,-37.714406,144.804729,72
+St Martin de Porres School,http://www.smdplaverton.catholic.edu.au,Catholic,"U, Prep-6",Primary,13-25 BELLIN ST,LAVERTON,VIC,3028,-37.853975,144.777303,65
+Christ the Priest Primary School,http://www.cpcarolinesprings.catholic.edu.au,Catholic,"U, Prep-6",Primary,CAROLINE SPRINGS BOULEVARD,CAROLINE SPRINGS,VIC,3023,-37.73905655,144.7381152,74
+Our Lady's Primary School,http://www.olcraigieburn.catholic.edu.au,Catholic,"U, Prep-6",Primary,CRAIGIEBURN RD WEST,CRAIGIEBURN,VIC,3064,-37.5984539,144.9310506,70
+Emmaus Catholic Primary School,http://www.emsydenham.catholic.edu.au,Catholic,"U, Prep-6",Primary,SYDENHAM ROAD,SYDENHAM,VIC,3037,-37.6981126,144.7711223,91
+Cana Catholic Primary School,http://www.canahillside.catholic.edu.au,Catholic,"U, Prep-6",Primary,46-60 BANCHORY AVENUE,HILLSIDE,VIC,3037,-37.687917,144.746958,87
+St Mary's Primary School,http://www.smwhittlesea.catholic.edu.au,Catholic,"U, Prep-6",Primary,FIR ST,WHITTLESEA,VIC,3757,-37.5090961,145.1139021,87
+St James Catholic School,http://www.stjamesnng.catholic.edu.au,Catholic,"U, Prep-6",Primary,60 NAR NAR GOON ROAD,NAR NAR GOON,VIC,3812,-38.071743,145.573298,81
+St Patrick's Primary School,http://www.stppakenham.catholic.edu.au,Catholic,"U, Prep-6",Primary,136 PRINCES HWY,PAKENHAM,VIC,3810,-38.069259,145.474429,94
+St Joseph's School,http://www.sjyarrajunction.catholic.edu.au,Catholic,"U, Prep-6",Primary,MILNERS RD,YARRA JUNCTION,VIC,3797,-37.7918169,145.6158588,64
+St Joseph's Primary School,http://www.stjwarragul.catholic.edu.au,Catholic,"U, Prep-6",Primary,167 BURKE STREET,WARRAGUL,VIC,3820,-38.158959,145.911357,91
+Our Lady of Mount Carmel School,http://www.olmcsunbury.catholic.edu.au,Catholic,"U, Prep-6",Primary,53 MACEDON ST,SUNBURY,VIC,3429,-37.580561,144.735725,72
+St Peter Apostle Primary School,http://www.stpeterahc.catholic.edu.au,Catholic,"U, Prep-6",Primary,GUINANE AVE,HOPPERS CROSSING,VIC,3029,-37.8754123,144.6910517,79
+Stella Maris Catholic Primary School,http://www.smpointcookwest.catholic.edu.au,Catholic,"U, Prep-6",Primary,54-70 INNISFAIL DRIVE,POINT COOK WEST,VIC,3030,-37.890743,144.72768,83
+Lumen Christi Catholic Primary School Point Cook,http://www.lcpointcook.catholic.edu.au,Catholic,"U, Prep-6",Primary,260-298 POINT COOK ROAD,POINT COOK,VIC,3030,-37.892443,144.753395,76
+Corpus Christi Primary School,http://www.ccwerribee.catholic.edu.au,Catholic,"U, Prep-6",Primary,29 RUSSELL ST,WERRIBEE,VIC,3030,-37.909439,144.663335,68
+St Andrew's Primary School,http://www.sawerribee.catholic.edu.au,Catholic,"U, Prep-6",Primary,110 GREAVES ST,WERRIBEE,VIC,3030,-37.901224,144.651003,73
+Our Lady of the Southern Cross Catholic Primary School,http://www.olscwyn.catholic.edu.au,Catholic,"U, Prep-6",Primary,CNR HOWQUA WAY & MANOR LAKES BOULEVARD,WYNDHAM VALE,VIC,3024,-37.8747318,144.6066003,67
+St George Preca Catholic Primary School,http://www.stgeorgepreca.catholic.edu.au,Catholic,"U, Prep-6",Primary,LOT 3002 LANCEFIELD DRIVE,CAROLINE SPRINGS,VIC,3023,-37.710692,144.737307,72
+St Dominic's Primary School,http://www.sdmelton.catholic.edu.au,Catholic,"U, Prep-6",Primary,CHURCH ST,MELTON,VIC,3337,-37.6809174,144.584343,67
+St Anthony's Primary School,http://www.sameltonsth.catholic.edu.au,Catholic,"U, Prep-6",Primary,WILSON RD,MELTON SOUTH,VIC,3338,-37.7092723,144.5726884,91
+St Catherine's School,http://www.scmeltonwest.catholic.edu.au,Catholic,"U, Prep-6",Primary,BULMANS RD,MELTON WEST,VIC,3337,-37.6638442,144.5534464,89
+St Anne's Primary School,http://www.sasunbury.catholic.edu.au,Catholic,"U, Prep-6",Primary,STEWARTS LANE,SUNBURY,VIC,3429,-37.5691392,144.7169707,82
+Red Rock Christian College,http://www.redrock.vic.edu.au,Independent,"U, Prep-6",Primary,340 SETTLEMENT ROAD,SUNBURY,VIC,3429,-37.519101,144.706029,73
+St Brigid's School,http://www.sbballan.catholic.edu.au,Catholic,"U, Prep-6",Primary,98 INGLIS ST,BALLAN,VIC,3342,-37.599565,144.22873,85
+St Patrick's Primary School,http://www.spkilmore.catholic.edu.au,Catholic,"U, Prep-6",Primary,1 CONWAY STREET,KILMORE,VIC,3764,-37.299005,144.946896,94
+St Mary's Primary School,http://www.smlancefield.catholic.edu.au,Catholic,"U, Prep-6",Primary,2 RAGLAN ST,LANCEFIELD,VIC,3435,-37.278734,144.732128,87
+St Joseph's School,http://www.sjkorumburra.catholic.edu.au,Catholic,"U, Prep-6",Primary,BRIDGE ST,KORUMBURRA,VIC,3950,-38.435866,145.82212,64
+St Joseph's School,http://www.trafalgar.catholic.edu.au,Catholic,"U, Prep-6",Primary,56 WATERLOO RD,TRAFALGAR,VIC,3824,-38.207012,146.151708,64
+Southern Cross Grammar,http://www.scg.vic.edu.au/,Independent,"U, Prep-7",Combined,2-20 LANCEFIELD DRIVE,CAROLINE SPRINGS,VIC,3023,-37.713439,144.7388,94
+Good News Lutheran College,http://www.goodnews.vic.edu.au,Independent,"U, Prep-9",Combined,580 TARNEIT ROAD,TARNEIT,VIC,3029,-37.85522,144.665994,89
